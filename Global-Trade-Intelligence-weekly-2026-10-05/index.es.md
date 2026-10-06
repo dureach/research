@@ -370,7 +370,7 @@ timeline
     2026-09-18 : Promulgada como ley (bipartidista)
     2026-09-18 : Prohibición de compra de deuda soberana rusa, efectiva de inmediato
     2026-10-18 : FECHA LÍMITE — hasta 500% sobre bienes rusos, hasta 100% de aranceles secundarios
-    Post Oct-18 : Decisiones de exenciones/certificaciones; determinaciones país por país
+    Tras el 18 de oct. : Decisiones de exenciones/certificaciones; determinaciones país por país
 ```
 
 ### Polisilicio Sección 232
