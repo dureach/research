@@ -357,15 +357,15 @@ Canada/India Sec. 301 FL          10%  ████
 
 ```mermaid
 timeline
-    title US–Canada trade war 2026
-    2026-07-20 : Three Sec. 338 proclamations signed
-    2026-08-18 : 3-day suspension of 50% duties
-    2026-08-22 : 50% Sec. 338 tariffs take effect ($20B goods, no USMCA exemption)
-    2026-09-08 : Canada counter-tariffs (15/25/50%, 335 items) take effect
-    2026-09-15 : US re-scopes 50% list (adds ATVs, motorboats, specialty cheese)
-    2026-09-29 : US import BANS begin (motorcycles, whey, molasses, NA beer, alcohol, dairy)
-    2026-10-01 : G20 Milwaukee — no US–Canada breakthrough
-    2026-10-?? : 25 US states' lawsuit ruling pending
+    title Perang dagang AS–Kanada 2026
+    2026-07-20 : Tiga proklamasi Sec. 338 ditandatangani
+    2026-08-18 : Penangguhan 3 hari atas bea masuk 50%
+    2026-08-22 : Tarif 50% Sec. 338 mulai berlaku (barang $20B, tanpa pengecualian USMCA)
+    2026-09-08 : Tarif balasan Kanada (15/25/50%, 335 item) mulai berlaku
+    2026-09-15 : AS merevisi daftar 50% (menambah ATV, perahu motor, keju khusus)
+    2026-09-29 : Larangan impor AS dimulai (sepeda motor, whey, molase, bir nonalkohol, alkohol, produk susu)
+    2026-10-01 : G20 Milwaukee — tanpa terobosan AS–Kanada
+    2026-10-?? : Putusan gugatan 25 negara bagian AS masih menunggu
 ```
 
 ### Hitung mundur Graham Act
@@ -373,22 +373,22 @@ timeline
 ```mermaid
 timeline
     title Graham Act (H.R. 5334)
-    2026-09-18 : Signed into law (bipartisan)
-    2026-09-18 : Russia sovereign-debt purchase ban effective immediately
-    2026-10-18 : DEADLINE — up to 500% on Russian goods, up to 100% secondary tariffs
-    Post Oct-18 : Waiver/certification decisions; country-by-country determinations
+    2026-09-18 : Disahkan menjadi undang-undang (bipartisan)
+    2026-09-18 : Larangan pembelian utang negara Rusia berlaku segera
+    2026-10-18 : BATAS AKHIR — hingga 500% untuk barang Rusia, hingga 100% tarif sekunder
+    Pasca 18 Okt : Keputusan pengecualian/sertifikasi; penetapan per negara
 ```
 
 ### Pasal 232 polisilikon
 
 ```mermaid
 timeline
-    title Polysilicon Sec. 232
-    2026-08-06 : Presidential proclamation (MIPs + 15% tariff)
-    2026-09-22 : Anti-surge / stockpiling restrictions in force
-    2026-09-24 : Commerce temporary final rule published
-    2026-09-28 : US module prices already +40% to $0.38/W (front-running)
-    2026-12-04 : MIPs + tariffs take effect ($21/kg poly, $100/kg wafers, $0.22/W cells, $0.38/W modules)
+    title Polisilikon Sec. 232
+    2026-08-06 : Proklamasi presiden (MIP + tarif 15%)
+    2026-09-22 : Pembatasan anti-lonjakan/penimbunan mulai berlaku
+    2026-09-24 : Aturan final sementara Departemen Perdagangan diterbitkan
+    2026-09-28 : Harga modul AS sudah naik +40% menjadi $0.38/W (front-running)
+    2026-12-04 : MIP + tarif mulai berlaku ($21/kg polisilikon, $100/kg wafer, $0.22/W sel, $0.38/W modul)
 ```
 
 ---

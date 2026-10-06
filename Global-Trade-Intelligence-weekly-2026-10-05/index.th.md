@@ -357,38 +357,38 @@ Canada/India Sec. 301 FL          10%  ████
 
 ```mermaid
 timeline
-    title US–Canada trade war 2026
-    2026-07-20 : Three Sec. 338 proclamations signed
-    2026-08-18 : 3-day suspension of 50% duties
-    2026-08-22 : 50% Sec. 338 tariffs take effect ($20B goods, no USMCA exemption)
-    2026-09-08 : Canada counter-tariffs (15/25/50%, 335 items) take effect
-    2026-09-15 : US re-scopes 50% list (adds ATVs, motorboats, specialty cheese)
-    2026-09-29 : US import BANS begin (motorcycles, whey, molasses, NA beer, alcohol, dairy)
-    2026-10-01 : G20 Milwaukee — no US–Canada breakthrough
-    2026-10-?? : 25 US states' lawsuit ruling pending
+    title สงครามการค้าสหรัฐ–แคนาดา 2026
+    2026-07-20 : ลงนามประกาศ Sec. 338 จำนวน 3 ฉบับ
+    2026-08-18 : ระงับการเก็บอากร 50% เป็นเวลา 3 วัน
+    2026-08-22 : อากร Sec. 338 อัตรา 50% มีผลบังคับใช้ (สินค้ามูลค่า $20B, ไม่มีการยกเว้น USMCA)
+    2026-09-08 : มาตรการตอบโต้ทางภาษีของแคนาดามีผลบังคับใช้ (15/25/50%, 335 รายการ)
+    2026-09-15 : สหรัฐปรับขอบเขตรายการอัตรา 50% (เพิ่ม ATV, เรือยนต์, ชีสพิเศษ)
+    2026-09-29 : สหรัฐเริ่มมาตรการห้ามนำเข้า (รถจักรยานยนต์, เวย์, กากน้ำตาล, เบียร์ไม่มีแอลกอฮอล์, เครื่องดื่มแอลกอฮอล์, ผลิตภัณฑ์นม)
+    2026-10-01 : G20 ที่มิลวอกี — ไม่มีความคืบหน้าระหว่างสหรัฐ–แคนาดา
+    2026-10-?? : รอคำตัดสินคดีฟ้องร้องของ 25 รัฐสหรัฐ
 ```
 
 ### นับถอยหลัง Graham Act
 
 ```mermaid
 timeline
-    title Graham Act (H.R. 5334)
-    2026-09-18 : Signed into law (bipartisan)
-    2026-09-18 : Russia sovereign-debt purchase ban effective immediately
-    2026-10-18 : DEADLINE — up to 500% on Russian goods, up to 100% secondary tariffs
-    Post Oct-18 : Waiver/certification decisions; country-by-country determinations
+    title กฎหมาย Graham Act (H.R. 5334)
+    2026-09-18 : ลงนามเป็นกฎหมาย (ได้รับการสนับสนุนจากทั้งสองพรรค)
+    2026-09-18 : คำสั่งห้ามซื้อตราสารหนี้รัฐบาลรัสเซียมีผลทันที
+    2026-10-18 : เส้นตาย — สูงสุด 500% สำหรับสินค้ารัสเซีย, สูงสุด 100% สำหรับภาษีทุติยภูมิ
+    Post Oct-18 : การตัดสินใจเรื่องการยกเว้น/การรับรอง; การพิจารณาเป็นรายประเทศ
 ```
 
 ### โพลีซิลิคอนมาตรา 232
 
 ```mermaid
 timeline
-    title Polysilicon Sec. 232
-    2026-08-06 : Presidential proclamation (MIPs + 15% tariff)
-    2026-09-22 : Anti-surge / stockpiling restrictions in force
-    2026-09-24 : Commerce temporary final rule published
-    2026-09-28 : US module prices already +40% to $0.38/W (front-running)
-    2026-12-04 : MIPs + tariffs take effect ($21/kg poly, $100/kg wafers, $0.22/W cells, $0.38/W modules)
+    title โพลีซิลิคอน Sec. 232
+    2026-08-06 : ประกาศประธานาธิบดี (MIPs + ภาษี 15%)
+    2026-09-22 : มาตรการป้องกันการทะลัก/การกักตุนมีผลบังคับใช้
+    2026-09-24 : กระทรวงพาณิชย์เผยแพร่กฎสุดท้ายชั่วคราว
+    2026-09-28 : ราคาโมดูลสหรัฐขึ้นแล้ว +40% เป็น $0.38/W (การซื้อล่วงหน้าก่อนมาตรการ)
+    2026-12-04 : MIPs + ภาษีมีผลบังคับใช้ ($21/kg โพลีซิลิคอน, $100/kg เวเฟอร์, $0.22/W เซลล์, $0.38/W โมดูล)
 ```
 
 ---

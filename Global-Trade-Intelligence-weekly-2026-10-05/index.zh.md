@@ -360,38 +360,38 @@ Canada/India Sec. 301 FL          10%  ████
 
 ```mermaid
 timeline
-    title US–Canada trade war 2026
-    2026-07-20 : Three Sec. 338 proclamations signed
-    2026-08-18 : 3-day suspension of 50% duties
-    2026-08-22 : 50% Sec. 338 tariffs take effect ($20B goods, no USMCA exemption)
-    2026-09-08 : Canada counter-tariffs (15/25/50%, 335 items) take effect
-    2026-09-15 : US re-scopes 50% list (adds ATVs, motorboats, specialty cheese)
-    2026-09-29 : US import BANS begin (motorcycles, whey, molasses, NA beer, alcohol, dairy)
-    2026-10-01 : G20 Milwaukee — no US–Canada breakthrough
-    2026-10-?? : 25 US states' lawsuit ruling pending
+    title 美加贸易战 2026
+    2026-07-20 : 三项第338条款公告签署
+    2026-08-18 : 50%关税暂停3天
+    2026-08-22 : 50%第338条款关税生效（200亿美元商品，无USMCA豁免）
+    2026-09-08 : 加拿大反制关税生效（15%/25%/50%，335项商品）
+    2026-09-15 : 美国重新调整50%清单（新增全地形车、摩托艇、特色奶酪）
+    2026-09-29 : 美国进口禁令开始（摩托车、乳清、糖蜜、无醇啤酒、酒精饮料、乳制品）
+    2026-10-01 : G20密尔沃基会议——美加无突破
+    2026-10-?? : 25个州诉讼裁决待定
 ```
 
 ### 《格雷厄姆法案》倒计时
 
 ```mermaid
 timeline
-    title Graham Act (H.R. 5334)
-    2026-09-18 : Signed into law (bipartisan)
-    2026-09-18 : Russia sovereign-debt purchase ban effective immediately
-    2026-10-18 : DEADLINE — up to 500% on Russian goods, up to 100% secondary tariffs
-    Post Oct-18 : Waiver/certification decisions; country-by-country determinations
+    title 《格雷厄姆法案》(H.R. 5334)
+    2026-09-18 : 签署成法（两党支持）
+    2026-09-18 : 俄罗斯主权债务购买禁令立即生效
+    2026-10-18 : 最后期限——俄罗斯商品最高500%，次级关税最高100%
+    Post Oct-18 : 豁免/认证决定；逐国裁定
 ```
 
 ### 多晶硅232条款
 
 ```mermaid
 timeline
-    title Polysilicon Sec. 232
-    2026-08-06 : Presidential proclamation (MIPs + 15% tariff)
-    2026-09-22 : Anti-surge / stockpiling restrictions in force
-    2026-09-24 : Commerce temporary final rule published
-    2026-09-28 : US module prices already +40% to $0.38/W (front-running)
-    2026-12-04 : MIPs + tariffs take effect ($21/kg poly, $100/kg wafers, $0.22/W cells, $0.38/W modules)
+    title 多晶硅第232条款
+    2026-08-06 : 总统公告（最低进口价格+15%关税）
+    2026-09-22 : 反激增/囤积限制生效
+    2026-09-24 : 商务部临时最终规则发布
+    2026-09-28 : 美国组件价格已上涨40%至$0.38/W（抢先交易）
+    2026-12-04 : 最低进口价格+关税生效（多晶硅$21/kg，硅片$100/kg，电池片$0.22/W，组件$0.38/W）
 ```
 
 ---

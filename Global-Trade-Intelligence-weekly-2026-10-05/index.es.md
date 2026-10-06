@@ -351,38 +351,38 @@ Canada/India Sec. 301 FL          10%  ████
 
 ```mermaid
 timeline
-    title US–Canada trade war 2026
-    2026-07-20 : Three Sec. 338 proclamations signed
-    2026-08-18 : 3-day suspension of 50% duties
-    2026-08-22 : 50% Sec. 338 tariffs take effect ($20B goods, no USMCA exemption)
-    2026-09-08 : Canada counter-tariffs (15/25/50%, 335 items) take effect
-    2026-09-15 : US re-scopes 50% list (adds ATVs, motorboats, specialty cheese)
-    2026-09-29 : US import BANS begin (motorcycles, whey, molasses, NA beer, alcohol, dairy)
-    2026-10-01 : G20 Milwaukee — no US–Canada breakthrough
-    2026-10-?? : 25 US states' lawsuit ruling pending
+    title Guerra comercial EE. UU.–Canadá 2026
+    2026-07-20 : Firmadas tres proclamaciones de la Sec. 338
+    2026-08-18 : Suspensión de 3 días de los aranceles del 50%
+    2026-08-22 : Entran en vigor los aranceles del 50% de la Sec. 338 (bienes por $20B, sin exención USMCA)
+    2026-09-08 : Entran en vigor los contra-aranceles de Canadá (15/25/50%, 335 artículos)
+    2026-09-15 : EE. UU. redefine la lista del 50% (añade ATVs, lanchas, quesos especiales)
+    2026-09-29 : Comienzan las PROHIBICIONES de importación de EE. UU. (motocicletas, suero, melaza, cerveza sin alcohol, alcohol, lácteos)
+    2026-10-01 : G20 Milwaukee — sin avances entre EE. UU. y Canadá
+    2026-10-?? : Pendiente el fallo de la demanda de 25 estados de EE. UU.
 ```
 
 ### Cuenta regresiva de la Ley Graham
 
 ```mermaid
 timeline
-    title Graham Act (H.R. 5334)
-    2026-09-18 : Signed into law (bipartisan)
-    2026-09-18 : Russia sovereign-debt purchase ban effective immediately
-    2026-10-18 : DEADLINE — up to 500% on Russian goods, up to 100% secondary tariffs
-    Post Oct-18 : Waiver/certification decisions; country-by-country determinations
+    title Ley Graham (H.R. 5334)
+    2026-09-18 : Promulgada como ley (bipartidista)
+    2026-09-18 : Prohibición de compra de deuda soberana rusa, efectiva de inmediato
+    2026-10-18 : FECHA LÍMITE — hasta 500% sobre bienes rusos, hasta 100% de aranceles secundarios
+    Post Oct-18 : Decisiones de exenciones/certificaciones; determinaciones país por país
 ```
 
 ### Polisilicio Sección 232
 
 ```mermaid
 timeline
-    title Polysilicon Sec. 232
-    2026-08-06 : Presidential proclamation (MIPs + 15% tariff)
-    2026-09-22 : Anti-surge / stockpiling restrictions in force
-    2026-09-24 : Commerce temporary final rule published
-    2026-09-28 : US module prices already +40% to $0.38/W (front-running)
-    2026-12-04 : MIPs + tariffs take effect ($21/kg poly, $100/kg wafers, $0.22/W cells, $0.38/W modules)
+    title Polisilicio Sec. 232
+    2026-08-06 : Proclamación presidencial (MIPs + arancel del 15%)
+    2026-09-22 : Restricciones anti-acaparamiento / contra el almacenamiento en vigor
+    2026-09-24 : Publicada la regla final temporal de Comercio
+    2026-09-28 : Precios de módulos de EE. UU. ya +40% hasta $0.38/W (anticipación del mercado)
+    2026-12-04 : Entran en vigor MIPs + aranceles ($21/kg polisilicio, $100/kg obleas, $0.22/W celdas, $0.38/W módulos)
 ```
 
 ---

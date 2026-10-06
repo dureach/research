@@ -362,38 +362,38 @@ Canada/India Sec. 301 FL          10%  ████
 
 ```mermaid
 timeline
-    title US–Canada trade war 2026
-    2026-07-20 : Three Sec. 338 proclamations signed
-    2026-08-18 : 3-day suspension of 50% duties
-    2026-08-22 : 50% Sec. 338 tariffs take effect ($20B goods, no USMCA exemption)
-    2026-09-08 : Canada counter-tariffs (15/25/50%, 335 items) take effect
-    2026-09-15 : US re-scopes 50% list (adds ATVs, motorboats, specialty cheese)
-    2026-09-29 : US import BANS begin (motorcycles, whey, molasses, NA beer, alcohol, dairy)
-    2026-10-01 : G20 Milwaukee — no US–Canada breakthrough
-    2026-10-?? : 25 US states' lawsuit ruling pending
+    title 米国・カナダ貿易戦争 2026
+    2026-07-20 : 第338条布告3件に署名
+    2026-08-18 : 50%関税の3日間停止
+    2026-08-22 : 第338条50%関税が発効（$20B相当の物品、USMCA適用除外なし）
+    2026-09-08 : カナダ報復関税（15/25/50%、335品目）が発効
+    2026-09-15 : 米国が50%対象リストを再編（ATV、モーターボート、特殊チーズを追加）
+    2026-09-29 : 米国の輸入禁止開始（オートバイ、ホエイ、糖蜜、ノンアルコールビール、酒類、乳製品）
+    2026-10-01 : G20ミルウォーキー会合——米加間の打開策なし
+    2026-10-?? : 25州の訴訟判決待ち
 ```
 
 ### Graham Actカウントダウン
 
 ```mermaid
 timeline
-    title Graham Act (H.R. 5334)
-    2026-09-18 : Signed into law (bipartisan)
-    2026-09-18 : Russia sovereign-debt purchase ban effective immediately
-    2026-10-18 : DEADLINE — up to 500% on Russian goods, up to 100% secondary tariffs
-    Post Oct-18 : Waiver/certification decisions; country-by-country determinations
+    title グラハム法（H.R. 5334）
+    2026-09-18 : 法律として署名（超党派）
+    2026-09-18 : ロシア国債購入禁止が即時発効
+    2026-10-18 : 期限——ロシア産品に最大500%、二次関税は最大100%
+    Post Oct-18 : 免除・認証の判断、国別の決定
 ```
 
 ### ポリシリコン第232条
 
 ```mermaid
 timeline
-    title Polysilicon Sec. 232
-    2026-08-06 : Presidential proclamation (MIPs + 15% tariff)
-    2026-09-22 : Anti-surge / stockpiling restrictions in force
-    2026-09-24 : Commerce temporary final rule published
-    2026-09-28 : US module prices already +40% to $0.38/W (front-running)
-    2026-12-04 : MIPs + tariffs take effect ($21/kg poly, $100/kg wafers, $0.22/W cells, $0.38/W modules)
+    title ポリシリコン第232条
+    2026-08-06 : 大統領布告（MIPs＋15%関税）
+    2026-09-22 : 急増防止・備蓄制限が発効
+    2026-09-24 : 商務省暫定最終規則の公表
+    2026-09-28 : 米国モジュール価格は既に+40%で$0.38/W（先回り買い）
+    2026-12-04 : MIPs＋関税が発効（$21/kgポリ、$100/kgウェハー、$0.22/Wセル、$0.38/Wモジュール）
 ```
 
 ---
