@@ -411,6 +411,6 @@ timeline
 
 ## 12. Sumber & metodologi
 
-**Jendela liputan:** 28 September – 5 Oktober 2026. **Metode:** pencarian web vertikal berita + pembacaan halaman langsung di ~45 sumber terdaftar; sumber primer pemerintah diutamakan; media berbayar via judul/cuplikan saja.
+**Jendela liputan:** 28 September – 5 Oktober 2026.
 
 **Sumber yang digunakan pekan ini:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, proklamasi Gedung Putih, CBP (via KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (via AP/Reuters/nationpress), Federal Register (via pers dagang), BIS (via Baker McKenzie/JD Supra), MOFCOM (langsung), Reuters, AP, WSJ, CNN, Euronews (via vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (catatan HSBC), tradersunion.com, frontlinesandbottomlines (blog), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk.

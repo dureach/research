@@ -416,6 +416,6 @@ timeline
 
 ## 12. 情報源と作成方法
 
-**対象期間：** 2026年9月28日～10月5日。**方法：** ニュース垂直検索＋約45の指定情報源の直接閲読。政府一次情報を優先。ペイウォール媒体は見出し・要旨のみ利用。
+**対象期間：** 2026年9月28日～10月5日。
 
 **今週参照した情報源：** FreightWaves、thedcn.com.au（バルチック取引所／Drewry）、container-news.com、logisticsnews.ph、worldports.org、handybulk.com、bairdmaritime.com、indexbox.io、geopoliticsunplugged（Substack）、metro.global、ホワイトハウス布告、CBP（KPMG、GHY、Thompson Hine、Trans-Border Global Freight経由）、USTR（AP／Reuters／nationpress経由）、Federal Register（貿易専門紙経由）、BIS（Baker McKenzie／JD Supra経由）、MOFCOM（直接）、Reuters、AP、WSJ、CNN、Euronews（vespernews／tbsnews経由）、brusselsmorning.com、LexBlog、JD Supra、Mondaq、tradepractitioner.com、KPMG TaxNewsFlash、GHY International、Thompson Hine、tariffcalculator2026.com、surtaxscan.com、tarifflens.ai、asrwe.com、thefinancialeconomy.com、jagranjosh.com、thehindubusinessline.com、nationpress.com、beatsinbrief.com、textalks.com、exencialrp（HSBCノート）、tradersunion.com、frontlinesandbottomlines（ブログ）、en.sedaily.com、logisticusgroup.com、etwenergy.com、jingsun-power.com、news.metal.com（SMM）、news.bloomberglaw.com、openclassactions.com、srnnews.com／Reuters（デミニミス）、supplychaindive.com、suasnews.com、dronelife.com、rxo.com、inboundlogistics.com、ttnews.com、cdllife.com、financial-news.co.uk。

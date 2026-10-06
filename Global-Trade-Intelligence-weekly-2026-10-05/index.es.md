@@ -405,6 +405,6 @@ timeline
 
 ## 12. Fuentes y metodología
 
-**Ventana de cobertura:** September 28 – October 5, 2026. **Método:** búsqueda web vertical de noticias + lecturas directas de páginas en ~45 fuentes listadas; se prefieren fuentes primarias gubernamentales; medios con paywall solo vía titulares/fragmentos.
+**Ventana de cobertura:** September 28 – October 5, 2026.
 
 **Fuentes utilizadas esta semana:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, proclamaciones de la Casa Blanca, CBP (vía KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (vía AP/Reuters/nationpress), Federal Register, BIS (vía Baker McKenzie/JD Supra), MOFCOM (directo), Reuters, AP, WSJ, CNN, Euronews (vía vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (nota HSBC), tradersunion.com, frontlinesandbottomlines (blog), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk.

@@ -411,6 +411,6 @@ timeline
 
 ## 12. แหล่งข้อมูลและระเบียบวิธี
 
-**กรอบเวลาครอบคลุม:** 28 กันยายน – 5 ตุลาคม 2026 **วิธี:** ค้นหาข่าวแนวตั้ง + อ่านหน้าเว็บโดยตรงจากแหล่งที่ระบุราว 45 แหล่ง ให้ความสำคัญแหล่งปฐมภูมิของรัฐบาล สำนักข่าวที่ติด paywall ใช้พาดหัว/สรุปเท่านั้น
+**กรอบเวลาครอบคลุม:** 28 กันยายน – 5 ตุลาคม 2026
 
 **แหล่งที่ใช้อ้างอิงสัปดาห์นี้:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, ประกาศทำเนียบขาว, CBP (ผ่าน KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (ผ่าน AP/Reuters/nationpress), Federal Register, BIS (ผ่าน Baker McKenzie/JD Supra), MOFCOM (โดยตรง), Reuters, AP, WSJ, CNN, Euronews (ผ่าน vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (บันทึก HSBC), tradersunion.com, frontlinesandbottomlines (บล็อก), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk

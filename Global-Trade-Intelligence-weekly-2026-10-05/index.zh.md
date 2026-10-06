@@ -414,6 +414,6 @@ timeline
 
 ## 12. 来源与方法
 
-**覆盖窗口：** 2026年9月28日至10月5日。**方法：** 新闻垂直搜索＋直接页面阅读，覆盖约45个指定来源；优先政府一手来源；付费墙媒体仅用标题/摘要。
+**覆盖窗口：** 2026年9月28日至10月5日。
 
 **本轮引用的来源：** FreightWaves、thedcn.com.au（波罗的海交易所/Drewry）、container-news.com、logisticsnews.ph、worldports.org、handybulk.com、bairdmaritime.com、indexbox.io、geopoliticsunplugged (Substack)、metro.global、白宫公告、CBP（经KPMG、GHY、Thompson Hine、Trans-Border Global Freight）、USTR（经AP/路透/nationpress）、联邦公报、BIS（经Baker McKenzie/JD Supra）、商务部（直接）、路透、美联社、华尔街日报、CNN、Euronews（经vespernews/tbsnews）、brusselsmorning.com、LexBlog、JD Supra、Mondaq、tradepractitioner.com、KPMG TaxNewsFlash、GHY International、Thompson Hine、tariffcalculator2026.com、surtaxscan.com、tarifflens.ai、asrwe.com、thefinancialeconomy.com、jagranjosh.com、thehindubusinessline.com、nationpress.com、beatsinbrief.com、textalks.com、exencialrp（汇丰纪要）、tradersunion.com、frontlinesandbottomlines（博客）、en.sedaily.com、logisticusgroup.com、etwenergy.com、jingsun-power.com、news.metal.com (SMM)、news.bloomberglaw.com、openclassactions.com、srnnews.com/路透（小额豁免）、supplychaindive.com、suasnews.com、dronelife.com、rxo.com、inboundlogistics.com、ttnews.com、cdllife.com、financial-news.co.uk。
