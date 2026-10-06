@@ -151,7 +151,7 @@ On Oct 3, MOFCOM (Announcement No. 44) opened an **anti-dumping investigation in
 
 ### 3.7 De minimis remains closed; IEEPA refunds proceed
 
-**What happened.** The Court of International Trade (Aug 13, Detroit Axle case) upheld the IEEPA-based rescission of the $800 de minimis exemption — ruling that withdrawing a "privilege" does not constitute imposing a tariff, so it survives the Supreme Court's February ruling that struck down IEEPA tariffs. Global de minimis ended Aug 29, 2025; Congress's own closure takes effect July 2027. Separately, CBP's CAPE system (live since April 20) is processing the **~$165B in IEEPA duties** collected, with interest accruing ~$650M/month; **CAPE Phase 3 deploys Oct 6** to handle refunds on reliquidated entries. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), trade press scan)
+**What happened.** The Court of International Trade (Aug 13, Detroit Axle case) upheld the IEEPA-based rescission of the $800 de minimis exemption — ruling that withdrawing a "privilege" does not constitute imposing a tariff, so it survives the Supreme Court's February ruling that struck down IEEPA tariffs. Global de minimis ended Aug 29, 2025; Congress's own closure takes effect July 2027. Separately, CBP's CAPE system (live since April 20) is processing the **~$165B in IEEPA duties** collected, with interest accruing ~$650M/month; **CAPE Phase 3 deploys Oct 6** to handle refunds on reliquidated entries. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php))
 
 ---
 
@@ -175,7 +175,7 @@ Baseline + this week's changes. Rates are *additional* duties unless noted; stac
 | Pharmaceuticals (patented) | Sec. 232 | Per HTSUS 9903.04.60–70 | Guidance updated Sept 28 | CBP entry guidance issued | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | India (general) | Sec. 301 forced-labor | 10% | Jul 24, 2026 | In force | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | 16 economies incl. India | Sec. 301 excess-capacity probe | n/a | Investigation ongoing | USTR action promised "within weeks" | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178 product exclusions | Sec. 301 exclusions | Excluded | Through Nov 9, 2026 | Expiring | Trade press scan |
+| 178 product exclusions | Sec. 301 exclusions | Excluded | Through Nov 9, 2026 | Expiring |  |
 | EU (proposed) | "Systemic reaction" tool | Up to market cutoff | Proposal Oct 5; summit Oct 15 | Not yet law | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 
 ---
@@ -190,10 +190,10 @@ Baseline + this week's changes. Rates are *additional* duties unless noted; stac
 | Sept 29 | CBP | FY2027 TRQ bulletins: AGOA apparel, raw cane sugar | Quota-year planning | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | Sept 29 | CBP | Two forced-labor WROs (Indonesian palm oil) | 60 WROs + 8 Findings now active | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | Sept 29 | White House | Canada import bans take effect | First US import *bans* (not tariffs) of the trade war | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| Sept 30 | USTR | Global Forum on Steel Excess Capacity statement | Multilateral cover for steel actions | Trade press scan |
+| Sept 30 | USTR | Global Forum on Steel Excess Capacity statement | Multilateral cover for steel actions |  |
 | Oct 1–2 | USTR (Greer) | G20 Milwaukee: food-coercion consensus only; MFN-reform debate opened | Multilateral track stalled; unilateral track affirmed | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| Oct 2 | USTR | 14th RRM remediation — Corporación de Occidente tires (Mexico) | USMCA labor enforcement continues | Trade press scan |
-| Oct 2 | USTR | 2027 USMCA joint review: public comments due **Jan 12, 2027** | Review-year clock starts | Trade press scan |
+| Oct 2 | USTR | 14th RRM remediation — Corporación de Occidente tires (Mexico) | USMCA labor enforcement continues |  |
+| Oct 2 | USTR | 2027 USMCA joint review: public comments due **Jan 12, 2027** | Review-year clock starts |  |
 | Oct 5 | White House/Congress | Graham Act implementation countdown (13 days left) | Up-to-100% secondary tariffs pending | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Analysis.** The administration is pursuing three parallel tracks: (1) enforcement — Canada import bans, Graham Act secondary tariffs, and polysilicon MIPs, all structured to maximize leverage before year-end; (2) institution-building — USMCA 2027 review preparations, Board of Trade procedures, and the MFN-reform debate; (3) legal positioning — the CIT's de minimis ruling set against the Supreme Court's IEEPA-tariff decision, with $165B in IEEPA refunds now being processed through CAPE. The pattern is consistent: where courts have constrained tariff authority under IEEPA, the administration has shifted to Sections 232, 338, and 301 and to new statute in the Graham Act. Importers should prepare for additional measures under established authorities.
@@ -207,16 +207,16 @@ Baseline + this week's changes. Rates are *additional* duties unless noted; stac
 | Franco-German rapid-response tool proposed | "Systemic reaction" instrument; minority trigger; up to immediate market cutoff; diversification instrument alongside | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | EU–China deficit | €359.9B in 2025; €103B in Q2 2026 (highest since Q3 2022); import surges in machinery, textiles, metals, chemicals | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | EU leaders summit Oct 15 | Brussels summit to take up China imbalances — first test of the Franco-German proposal | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| EU weighing industrial-tariff cuts | Possible cuts to avert Chinese steel retaliation (per Capitol Forum reporting) | Trade press scan |
+| EU weighing industrial-tariff cuts | Possible cuts to avert Chinese steel retaliation (per Capitol Forum reporting) |  |
 
 ### Canada
 
 | Development | Detail | Source |
 |---|---|---|
 | Counter-tariffs in force | 15%/25%/50% on 335 US items from Sept 8; C$28B coverage; in-transit goods excluded | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| C$7.5B support package | Domestic aid for affected industries | Trade press scan |
-| Diversification push | Carney government pivoting toward Europe/India deals | Trade press scan |
-| 25 US states suing | Challenge to the tariff regime; no ruling yet | Trade press scan |
+| C$7.5B support package | Domestic aid for affected industries |  |
+| Diversification push | Carney government pivoting toward Europe/India deals |  |
+| 25 US states suing | Challenge to the tariff regime; no ruling yet |  |
 
 ### China (MOFCOM)
 
@@ -225,14 +225,14 @@ Baseline + this week's changes. Rates are *additional* duties unless noted; stac
 | Anti-dumping probe: EU p-nitrotoluene | Opened Oct 3 (Announcement No. 44) — retaliatory signal | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | Firm warning on EU tool | "Firm" retaliation threatened against any rapid-response instrument | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 30-for-30 readout | Published 1,619-line list; coal commitments (10M MT/yr 2027–28); rare-earth shipments to normalize | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| 8th-round consultation readout | Bilateral channel still functioning | Trade press scan |
+| 8th-round consultation readout | Bilateral channel still functioning |  |
 
 ### Rest of world
 
 | Country/region | Development | Source |
 |---|---|---|
 | India | Forced-labor import ban (July FTP amendment) raised at G20; exports to US +21.83% YoY in August despite 10% tariff | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| UK | No major trade-policy moves spotted this week | Trade press scan |
+| UK | No major trade-policy moves spotted this week |  |
 | Mexico/Argentina | Joined US forced-labor declaration at G20 (separate from failed joint text) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. Enforcement actions
@@ -243,7 +243,7 @@ Baseline + this week's changes. Rates are *additional* duties unless noted; stac
 | Everlight $5.15M settlement | Texas-based Everlight Americas settled False Claims suit alleging Chinese LEDs declared as Taiwan-origin to dodge Sec. 301 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum ~$550M (May) | Aluminum extrusions duty evasion — largest recent trade-fraud settlement | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | DOJ fraud memo (Aug 13) | AAG Colin McDonald: trade fraud/customs evasion a top priority; "institutionalizing" False Claims enforcement | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| Transshipment crackdown preview | White House detailed "massive illegal transshipment schemes," previewed AI-driven enforcement | Trade press (JD Supra) |
+| Transshipment crackdown preview | White House detailed "massive illegal transshipment schemes," previewed AI-driven enforcement | JD Supra |
 | Forced-labor tariff layer | Sec. 301 10% on 60 economies (incl. India, Canada) since July 24 — distinct from UFLPA entity enforcement | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **Analysis.** Enforcement is shifting from shipment-level interdiction to financial penalties: half-billion-dollar False Claims settlements, AI-assisted transshipment detection, and tariff layers that punish entire economies for labor practices. The compliance burden is migrating upstream — importers need origin documentation at the *supplier's supplier* level, not just the invoice.
@@ -254,7 +254,7 @@ Baseline + this week's changes. Rates are *additional* duties unless noted; stac
 |---|---|---|
 | US Census advance goods trade, August (Sept 30) | Deficit $132.6B (+11.5% m/m); imports $336.1B (+5.5%), exports $203.4B (+1.9%); industrial supplies + AI capital goods drove imports | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | EU–China bilateral (Eurostat via press) | EU goods deficit €103B in Q2 2026; €359.9B in 2025 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade / WITS / ITC / IMF | No major scheduled releases this week (monthly cycle) | Trade press scan |
+| UN Comtrade / WITS / ITC / IMF | No major scheduled releases this week (monthly cycle) |  |
 | Drewry Container Forecaster | Supply-demand balance to weaken in coming quarters; further spot-rate contraction expected | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (prior week) |
 
 ---
@@ -338,7 +338,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 Tanker & air (context)
 
 - **Dirty Tanker Index 5,444** (+0.22% on Sept 29 fix); **Clean Tanker Index 2,293** (+3.01%) — clean outperforming as products reroute; Houthi strike on Saudi oil noted Oct 4 but crude not spiking. ([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **Air cargo**: Baltic Air Freight Index **+0.6% w/e Sept 28 (+22% YoY)**; WorldACD tonnage **+8% YoY** (week 38) — firming into peak; Xeneta sees a *subdued* peak with China–US e-commerce **-34% YoY** on de minimis elimination. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) via trade press scan)
+- **Air cargo**: Baltic Air Freight Index **+0.6% w/e Sept 28 (+22% YoY)**; WorldACD tonnage **+8% YoY** (week 38) — firming into peak; Xeneta sees a *subdued* peak with China–US e-commerce **-34% YoY** on de minimis elimination. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/))
 
 ### 9.5 Tariff-rate comparison (selected measures, ad valorem)
 
@@ -400,12 +400,12 @@ timeline
 
 | Date | Event | Why it matters | Source |
 |---|---|---|---|
-| Oct 6, 2026 | CAPE Phase 3 deploys | IEEPA-duty refunds on reliquidated entries | Trade press scan |
+| Oct 6, 2026 | CAPE Phase 3 deploys | IEEPA-duty refunds on reliquidated entries |  |
 | Oct 15, 2026 | EU leaders summit, Brussels | First test of Franco-German rapid-response tool; China imbalances | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Oct 18, 2026 | **Graham Act implementation deadline** | Up-to-100% secondary tariffs on Russian-energy buyers | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| Nov 9, 2026 | 178 Sec. 301 exclusions expire | Renewal or lapse decision | Trade press scan |
+| Nov 9, 2026 | 178 Sec. 301 exclusions expire | Renewal or lapse decision |  |
 | Dec 4, 2026 | Polysilicon MIPs + 15% tariffs effective | Solar supply-chain cost shock | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| Jan 12, 2027 | USMCA 2027 joint review — public comments due | Review-year agenda setting | Trade press scan |
+| Jan 12, 2027 | USMCA 2027 joint review — public comments due | Review-year agenda setting |  |
 | Feb 9, 2027 | Drone component (Annex III) 25% tariffs | Second wave of drone duties | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | H1 2027 | C.H. Robinson–RXO close | $25B+ combined 3PL | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | July 2027 | De minimis legislatively closed | End of $800 exemption by statute | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |

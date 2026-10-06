@@ -142,7 +142,7 @@ Proclamación del Aug 6 + regla final temporal de Comercio (Sept 24). Desde el *
 
 ### 3.7 El de minimis sigue muerto; fluyen los reembolsos IEEPA
 
-**Qué pasó.** El Tribunal de Comercio Internacional (Aug 13, caso Detroit Axle) confirmó la rescisión basada en IEEPA de la exención de minimis de $800 — dictaminando que eliminar un "privilegio" no es imponer un arancel, por lo que sobrevive al fallo de febrero de la Corte Suprema que anuló los aranceles IEEPA. El de minimis global terminó el Aug 29, 2025; el cierre por ley del Congreso entra en vigor en July 2027. Por separado, el sistema CAPE de CBP (activo desde el April 20) está procesando los **~$165B en aranceles IEEPA** recaudados, con intereses acumulándose ~$650M/mes; **CAPE Fase 3 se despliega el Oct 6** para manejar reembolsos en partidas reliquidadas. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), escaneo de prensa especializada)
+**Qué pasó.** El Tribunal de Comercio Internacional (Aug 13, caso Detroit Axle) confirmó la rescisión basada en IEEPA de la exención de minimis de $800 — dictaminando que eliminar un "privilegio" no es imponer un arancel, por lo que sobrevive al fallo de febrero de la Corte Suprema que anuló los aranceles IEEPA. El de minimis global terminó el Aug 29, 2025; el cierre por ley del Congreso entra en vigor en July 2027. Por separado, el sistema CAPE de CBP (activo desde el April 20) está procesando los **~$165B en aranceles IEEPA** recaudados, con intereses acumulándose ~$650M/mes; **CAPE Fase 3 se despliega el Oct 6** para manejar reembolsos en partidas reliquidadas. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php))
 
 ---
 
@@ -166,7 +166,7 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Farmacéuticos (patentados) | Sec. 232 | Según HTSUS 9903.04.60–70 | Guía actualizada Sept 28 | Guía de entrada de CBP emitida | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | India (general) | Sec. 301 trabajo forzoso | 10% | Jul 24, 2026 | En vigor | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | 16 economías incl. India | Investigación 301 exceso de capacidad | n/a | Investigación en curso | Acción USTR prometida "en semanas" | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178 exclusiones de productos | Exclusiones Sec. 301 | Excluidos | Hasta Nov 9, 2026 | Por vencer | Escaneo de prensa especializada |
+| 178 exclusiones de productos | Exclusiones Sec. 301 | Excluidos | Hasta Nov 9, 2026 | Por vencer |  |
 | UE (propuesto) | Herramienta de "reacción sistémica" | Hasta corte de mercado | Propuesta Oct 5; cumbre Oct 15 | Aún no es ley | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 
 ---
@@ -181,10 +181,10 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Sept 29 | CBP | Boletines TRQ FY2027: vestimenta AGOA, azúcar crudo de caña | Planificación del año de cuotas | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | Sept 29 | CBP | Dos WROs por trabajo forzoso (aceite de palma de Indonesia) | 60 WROs + 8 Determinaciones ahora activas | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | Sept 29 | Casa Blanca | Prohibiciones de importación a Canadá entran en vigor | Primeras *prohibiciones* de importación de EE. UU. (no aranceles) de la guerra comercial | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| Sept 30 | USTR | Declaración del Foro Global sobre Exceso de Capacidad del Acero | Cobertura multilateral para acciones sobre acero | Escaneo de prensa especializada |
+| Sept 30 | USTR | Declaración del Foro Global sobre Exceso de Capacidad del Acero | Cobertura multilateral para acciones sobre acero |  |
 | Oct 1–2 | USTR (Greer) | G20 Milwaukee: solo consenso sobre coerción alimentaria; debate de reforma del NMF abierto | Vía multilateral estancada; vía unilateral afirmada | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| Oct 2 | USTR | 14.ª remediación RRM — neumáticos Corporación de Occidente (México) | Continúa la aplicación laboral del USMCA | Escaneo de prensa especializada |
-| Oct 2 | USTR | Revisión conjunta USMCA 2027: comentarios públicos hasta el **Jan 12, 2027** | Inicia el reloj del año de revisión | Escaneo de prensa especializada |
+| Oct 2 | USTR | 14.ª remediación RRM — neumáticos Corporación de Occidente (México) | Continúa la aplicación laboral del USMCA |  |
+| Oct 2 | USTR | Revisión conjunta USMCA 2027: comentarios públicos hasta el **Jan 12, 2027** | Inicia el reloj del año de revisión |  |
 | Oct 5 | Casa Blanca/Congreso | Cuenta regresiva de implementación de la Ley Graham (13 días restantes) | Aranceles secundarios de hasta 100% pendientes | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Análisis.** La administración está manejando tres relojes simultáneamente: (1) el reloj *punitivo* — prohibiciones a Canadá, aranceles secundarios de la Ley Graham, MIPs de polisilicio — todos diseñados para maximizar la presión antes de fin de año; (2) el reloj *institucional* — preparación de la revisión USMCA 2027, procedimientos de la Junta de Comercio, debate de reforma del NMF — construyendo maquinaria permanente; (3) el reloj *legal* — la victoria del CIT sobre de minimis vs. la derrota de los aranceles IEEPA en la Corte Suprema, con $165B en reembolsos IEEPA fluyendo por CAPE. El patrón: donde los tribunales restringen (aranceles IEEPA), la administración rodea vía 232/338/301 y estatutos (Ley Graham). Los importadores deben planificar *más* medidas bajo autoridades *más antiguas*, no menos.
@@ -198,16 +198,16 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Propuesta franco-alemana de herramienta de reacción rápida | Instrumento de "reacción sistémica"; activación por minoría; hasta corte inmediato del mercado; instrumento de diversificación en paralelo | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Déficit UE–China | €359.9B en 2025; €103B en Q2 2026 (máximo desde Q3 2022); alzas de importaciones en maquinaria, textiles, metales, químicos | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | Cumbre de líderes de la UE Oct 15 | Cumbre en Bruselas abordará los desequilibrios con China — primera prueba de la propuesta franco-alemana | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| La UE evalúa recortes arancelarios industriales | Posibles recortes para evitar represalias chinas sobre el acero (según reportes de Capitol Forum) | Escaneo de prensa especializada |
+| La UE evalúa recortes arancelarios industriales | Posibles recortes para evitar represalias chinas sobre el acero (según reportes de Capitol Forum) |  |
 
 ### Canadá
 
 | Desarrollo | Detalle | Fuente |
 |---|---|---|
 | Contra-aranceles en vigor | 15%/25%/50% sobre 335 partidas de EE. UU. desde Sept 8; cobertura de C$28B; productos en tránsito excluidos | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| Paquete de apoyo de C$7.5B | Ayuda doméstica para industrias afectadas | Escaneo de prensa especializada |
-| Impulso de diversificación | El gobierno de Carney pivota hacia acuerdos con Europa/India | Escaneo de prensa especializada |
-| 25 estados de EE. UU. demandando | Impugnación al régimen arancelario; sin fallo aún | Escaneo de prensa especializada |
+| Paquete de apoyo de C$7.5B | Ayuda doméstica para industrias afectadas |  |
+| Impulso de diversificación | El gobierno de Carney pivota hacia acuerdos con Europa/India |  |
+| 25 estados de EE. UU. demandando | Impugnación al régimen arancelario; sin fallo aún |  |
 
 ### China (MOFCOM)
 
@@ -216,14 +216,14 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Investigación antidumping: p-nitrotolueno de la UE | Abierta Oct 3 (Anuncio No. 44) — señal de represalia | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | Advertencia firme sobre la herramienta de la UE | Represalia "firme" amenazada contra cualquier instrumento de reacción rápida | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Lectura del 30-por-30 | Publicó lista de 1,619 líneas; compromisos de carbón (10M TM/año 2027–28); envíos de tierras raras a normalizarse | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| Lectura de la 8.ª ronda de consultas | El canal bilateral sigue funcionando | Escaneo de prensa especializada |
+| Lectura de la 8.ª ronda de consultas | El canal bilateral sigue funcionando |  |
 
 ### Resto del mundo
 
 | País/región | Desarrollo | Fuente |
 |---|---|---|
 | India | Prohibición de importaciones por trabajo forzoso (enmienda FTP de julio) planteada en el G20; exportaciones a EE. UU. +21.83% interanual en agosto pese al arancel del 10% | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| Reino Unido | Sin movimientos importantes de política comercial detectados esta semana | Escaneo de prensa especializada |
+| Reino Unido | Sin movimientos importantes de política comercial detectados esta semana |  |
 | México/Argentina | Se sumaron a la declaración de EE. UU. sobre trabajo forzoso en el G20 (separada del texto conjunto fallido) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. Medidas de cumplimiento
@@ -234,7 +234,7 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Acuerdo Everlight $5.15M | Everlight Americas, con sede en Texas, resolvió demanda de False Claims por alegar LEDs chinos declarados como origen Taiwán para evadir la Sec. 301 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum ~$550M (mayo) | Evasión de aranceles en extrusiones de aluminio — el mayor acuerdo reciente por fraude comercial | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Memo de fraude del DOJ (Aug 13) | El AAG Colin McDonald: el fraude comercial/evasion aduanera es prioridad máxima; "institucionalizando" la aplicación de False Claims | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| Avance contra el transbordo | La Casa Blanca detalló "esquemas masivos de transbordo ilegal" y anticipó aplicación con IA | Escaneo de prensa especializada (JD Supra) |
+| Avance contra el transbordo | La Casa Blanca detalló "esquemas masivos de transbordo ilegal" y anticipó aplicación con IA | JD Supra |
 | Capa arancelaria por trabajo forzoso | Sec. 301 10% sobre 60 economías (incl. India, Canadá) desde July 24 — distinta de la aplicación de entidades UFLPA | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **Lectura.** El cumplimiento está pasando de la interdicción a nivel de embarque a consecuencias de *balance*: acuerdos de False Claims de medio billón de dólares, detección de transbordo asistida por IA y capas arancelarias que castigan economías enteras por prácticas laborales. La carga de cumplimiento migra aguas arriba — los importadores necesitan documentación de origen al nivel del *proveedor del proveedor*, no solo la factura.
@@ -245,7 +245,7 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 |---|---|---|
 | Avance del comercio de bienes de EE. UU., agosto, Oficina del Censo (Sept 30) | Déficit $132.6B (+11.5% m/m); importaciones $336.1B (+5.5%), exportaciones $203.4B (+1.9%); suministros industriales + bienes de capital de IA impulsaron las importaciones | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | Bilateral UE–China (Eurostat vía prensa) | Déficit de bienes de la UE de €103B en Q2 2026; €359.9B en 2025 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade / WITS / ITC / FMI | Sin publicaciones programadas importantes esta semana (ciclo mensual) | Escaneo de prensa especializada |
+| UN Comtrade / WITS / ITC / FMI | Sin publicaciones programadas importantes esta semana (ciclo mensual) |  |
 | Drewry Container Forecaster | El balance oferta-demanda se debilitará en los próximos trimestres; se espera más contracción de tarifas spot | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (semana previa) |
 
 ---
@@ -329,7 +329,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 Tanqueros y carga aérea (contexto)
 
 - **Índice de Tanqueros Sucios 5,444** (+0.22% en la fijación del Sept 29); **Índice de Tanqueros Limpios 2,293** (+3.01%) — los limpios superan con el reruteo de productos; ataque hutí contra petróleo saudí notado el Oct 4 pero sin disparada del crudo. ([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **Carga aérea**: Baltic Air Freight Index **+0.6% s/e Sept 28 (+22% interanual)**; tonelaje WorldACD **+8% interanual** (semana 38) — firmeza hacia la temporada alta; Xeneta ve un pico *moderado* con el e-commerce China–EE. UU. **-34% interanual** por la eliminación del de minimis. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) vía escaneo de prensa especializada)
+- **Carga aérea**: Baltic Air Freight Index **+0.6% s/e Sept 28 (+22% interanual)**; tonelaje WorldACD **+8% interanual** (semana 38) — firmeza hacia la temporada alta; Xeneta ve un pico *moderado* con el e-commerce China–EE. UU. **-34% interanual** por la eliminación del de minimis. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/))
 
 ### 9.5 Comparación de tasas arancelarias (medidas selectas, ad valorem)
 
@@ -391,12 +391,12 @@ timeline
 
 | Fecha | Evento | Por qué importa | Fuente |
 |---|---|---|---|
-| Oct 6, 2026 | Despliegue de CAPE Fase 3 | Reembolsos de aranceles IEEPA en partidas reliquidadas | Escaneo de prensa especializada |
+| Oct 6, 2026 | Despliegue de CAPE Fase 3 | Reembolsos de aranceles IEEPA en partidas reliquidadas |  |
 | Oct 15, 2026 | Cumbre de líderes de la UE, Bruselas | Primera prueba de la herramienta franco-alemana de reacción rápida; desequilibrios con China | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Oct 18, 2026 | **Vencimiento de implementación de la Ley Graham** | Aranceles secundarios de hasta 100% sobre compradores de energía rusa | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| Nov 9, 2026 | Vencen 178 exclusiones de la Sec. 301 | Decisión de renovación o caducidad | Escaneo de prensa especializada |
+| Nov 9, 2026 | Vencen 178 exclusiones de la Sec. 301 | Decisión de renovación o caducidad |  |
 | Dec 4, 2026 | MIPs + aranceles del 15% al polisilicio en vigor | Choque de costos en la cadena solar | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| Jan 12, 2027 | Revisión conjunta USMCA 2027 — comentarios públicos hasta | Definición de la agenda del año de revisión | Escaneo de prensa especializada |
+| Jan 12, 2027 | Revisión conjunta USMCA 2027 — comentarios públicos hasta | Definición de la agenda del año de revisión |  |
 | Feb 9, 2027 | Aranceles del 25% a componentes de drones (Anexo III) | Segunda oleada de aranceles a drones | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | H1 2027 | Cierre de C.H. Robinson–RXO | 3PL combinado de $25B+ | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | July 2027 | Cierre legislativo del de minimis | Fin de la exención de $800 por estatuto | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |
@@ -415,4 +415,4 @@ timeline
 
 **Ventana de cobertura:** September 28 – October 5, 2026. **Método:** búsqueda web vertical de noticias + lecturas directas de páginas en ~45 fuentes listadas; se prefieren fuentes primarias gubernamentales; medios con paywall solo vía titulares/fragmentos.
 
-**Fuentes utilizadas esta semana:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, proclamaciones de la Casa Blanca, CBP (vía KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (vía AP/Reuters/nationpress), Federal Register (vía prensa especializada), BIS (vía Baker McKenzie/JD Supra), MOFCOM (directo), Reuters, AP, WSJ, CNN, Euronews (vía vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (nota HSBC), tradersunion.com, frontlinesandbottomlines (blog), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk.
+**Fuentes utilizadas esta semana:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, proclamaciones de la Casa Blanca, CBP (vía KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (vía AP/Reuters/nationpress), Federal Register, BIS (vía Baker McKenzie/JD Supra), MOFCOM (directo), Reuters, AP, WSJ, CNN, Euronews (vía vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (nota HSBC), tradersunion.com, frontlinesandbottomlines (blog), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk.

@@ -151,7 +151,7 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 
 ### 3.7 デミニミスは廃止のまま。IEEPA還付は進行中
 
-**経緯。** 国際貿易裁判所（CIT、Aug 13、Detroit Axle事件）は、$800デミニミス免除のIEEPAに基づく廃止を支持した。「特権」の廃止は関税の賦課ではないため、IEEPA関税を違憲とした最高裁2月判決の影響を受けないとの判断である。世界のデミニミスは2025年8月29日に終了済み。議会独自の廃止は2027年7月に発効する。一方、CBPのCAPEシステム（4月20日稼働開始）は徴収済みの**約$165BのIEEPA関税**を処理中であり、利息は月約$650Mずつ積み上がっている。**CAPEフェーズ3はOct 6に展開**され、再精算された申告に係る還付を処理する。([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), トレードプレス)
+**経緯。** 国際貿易裁判所（CIT、Aug 13、Detroit Axle事件）は、$800デミニミス免除のIEEPAに基づく廃止を支持した。「特権」の廃止は関税の賦課ではないため、IEEPA関税を違憲とした最高裁2月判決の影響を受けないとの判断である。世界のデミニミスは2025年8月29日に終了済み。議会独自の廃止は2027年7月に発効する。一方、CBPのCAPEシステム（4月20日稼働開始）は徴収済みの**約$165BのIEEPA関税**を処理中であり、利息は月約$650Mずつ積み上がっている。**CAPEフェーズ3はOct 6に展開**され、再精算された申告に係る還付を処理する。([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php))
 
 ---
 
@@ -175,7 +175,7 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | 医薬品（特許品） | 第232条 | HTSUS 9903.04.60–70による | Sept 28にガイダンス更新 | CBP申告ガイダンス発出済み | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | インド（一般） | 第301条強制労働 | 10% | July 24, 2026 | 発効中 | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | インド含む16経済 | 第301条過剰生産能力調査 | n/a | 調査継続中 | USTRは「数週間以内」に措置を約束 | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178品目の適用除外 | 第301条適用除外 | 除外 | Nov 9, 2026まで | 失効予定 | トレードプレス |
+| 178品目の適用除外 | 第301条適用除外 | 除外 | Nov 9, 2026まで | 失効予定 |  |
 | EU（提案） | 「構造的対応」ツール | 市場遮断まで | Oct 5に提案。首脳会議はOct 15 | 未成立 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 
 ---
@@ -190,10 +190,10 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | Sept 29 | CBP | 2027年度TRQ公示：AGOA衣料、粗糖 | 割当年計画 | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | Sept 29 | CBP | 強制労働WRO2件（インドネシア産パーム油） | 発動中のWROは60件＋8件の認定に | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | Sept 29 | ホワイトハウス | カナダ輸入禁止の発効 | 貿易戦争初の米国による輸入*禁止*（関税ではない） | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| Sept 30 | USTR | 鉄鋼過剰生産能力グローバルフォーラム声明 | 鉄鋼措置の多国間的裏付け | トレードプレス |
+| Sept 30 | USTR | 鉄鋼過剰生産能力グローバルフォーラム声明 | 鉄鋼措置の多国間的裏付け |  |
 | Oct 1–2 | USTR（Greer） | G20ミルウォーキー：食料威圧の合意のみ。MFN改革論議を開始 | 多国間軌道は停滞、一国主義軌道を確認 | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| Oct 2 | USTR | 第14回RRM是正措置 ― Corporación de Occidenteタイヤ（メキシコ） | USMCA労働執行の継続 | トレードプレス |
-| Oct 2 | USTR | 2027年USMCA共同見直し：パブリックコメント期限は**2027年1月12日** | 見直し年の時計が始動 | トレードプレス |
+| Oct 2 | USTR | 第14回RRM是正措置 ― Corporación de Occidenteタイヤ（メキシコ） | USMCA労働執行の継続 |  |
+| Oct 2 | USTR | 2027年USMCA共同見直し：パブリックコメント期限は**2027年1月12日** | 見直し年の時計が始動 |  |
 | Oct 5 | ホワイトハウス／議会 | Graham Act施行カウントダウン（残り13日） | 最大100%二次関税が未施行 | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **分析。** 政権は3つの時計を同時に回している。(1)*懲罰*の時計――カナダ禁止、Graham Act二次関税、ポリシリコンMIP――いずれも年末までにレバレッジを最大化するよう設計されている。(2)*制度*の時計――USMCA2027年見直し準備、貿易委員会の手続き、MFN改革論議――恒久的な仕組みを構築している。(3)*法廷*の時計――CITのデミニミス勝訴と最高裁のIEEPA関税敗訴が並存し、$165BのIEEPA関税がCAPEを通じて還付されつつある。パターンは明確である。裁判所が制約を課すところ（IEEPA関税）では、政権は232条・338条・301条や制定法（Graham Act）で迂回する。輸入者は、措置の*減少*ではなく、*古い*権限に基づく*さらなる*措置を想定すべきである。
@@ -209,16 +209,16 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | 仏独の迅速対応ツール提案 | 「構造的対応」手段。少数派による発動。即時市場遮断まで。並行して多様化手段も | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | EU–中国貿易赤字 | 2025年€359.9B。2026年第2四半期€103B（2022年第3四半期以来最大）。機械、繊維、金属、化学品に輸入急増 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | Oct 15のEU首脳会議 | ブリュッセル首脳会議で中国のアンバランスを取り上げ――仏独提案の最初の試金石 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| EUの産業関税引き下げ検討 | 中国の鉄鋼報復を回避するための可能性（Capitol Forum報道による） | トレードプレス |
+| EUの産業関税引き下げ検討 | 中国の鉄鋼報復を回避するための可能性（Capitol Forum報道による） |  |
 
 ### カナダ
 
 | 動向 | 詳細 | 出典 |
 |---|---|---|
 | 報復関税が発効 | 335品目に15%／25%／50%（Sept 8～）。C$28B規模。輸送中貨物は除外 | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| C$7.5B支援パッケージ | 影響を受ける国内産業への支援 | トレードプレス |
-| 多様化の推進 | Carney政権は欧州・インドとの協定に軸足 | トレードプレス |
-| 米25州が提訴 | 関税体制への異議。判決はまだ | トレードプレス |
+| C$7.5B支援パッケージ | 影響を受ける国内産業への支援 |  |
+| 多様化の推進 | Carney政権は欧州・インドとの協定に軸足 |  |
+| 米25州が提訴 | 関税体制への異議。判決はまだ |  |
 
 ### 中国（商務部）
 
@@ -227,14 +227,14 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | EU産p-ニトロトルエン反ダンピング調査 | Oct 3開始（公告第44号）――報復シグナル | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | EUツールへの断固たる警告 | 迅速対応手段に対する「断固たる」報復を警告 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 30-for-30の発表内容 | 1,619ラインのリスト公表。石炭約束（2027–28年、各年1,000万トン）。レアアース出荷の正常化 | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| 第8回協議の発表 | 二国間チャネルは依然機能 | トレードプレス |
+| 第8回協議の発表 | 二国間チャネルは依然機能 |  |
 
 ### その他の地域
 
 | 国・地域 | 動向 | 出典 |
 |---|---|---|
 | インド | 強制労働製品の輸入禁止（7月のFTP改正）をG20で提起。10%関税にもかかわらず対米輸出は8月に前年比+21.83% | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 英国 | 今週、特筆すべき貿易政策の動きなし | トレードプレス |
+| 英国 | 今週、特筆すべき貿易政策の動きなし |  |
 | メキシコ／アルゼンチン | G20で米国の強制労働宣言に参加（共同文書案の失敗とは別枠） | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. 執行措置
@@ -245,7 +245,7 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | Everlight $5.15M和解 | Texas拠点のEverlight Americasが虚偽請求訴訟で和解。中国製LEDを台湾原産と偽り第301条を回避した疑い | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum 約$550M（5月） | アルミ押出材の関税回避――近年の貿易詐欺和解では最大級 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | DOJ詐欺メモ（Aug 13） | Colin McDonald司法次官補：貿易詐欺・関税回避を最優先事項とし、虚偽請求の執行を「制度化」 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| 迂回輸出取り締まりの予告 | ホワイトハウスが「大規模な違法迂回輸出スキーム」の詳細を公表し、AI主導の執行を予告 | トレードプレス (JD Supra) |
+| 迂回輸出取り締まりの予告 | ホワイトハウスが「大規模な違法迂回輸出スキーム」の詳細を公表し、AI主導の執行を予告 | JD Supra |
 | 強制労働関税レイヤー | 60経済（インド、カナダ含む）に対する第301条10%。7月24日～。UFLPAエンティティ執行とは別枠 | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **読み筋。** 執行は貨物単位の差し止めから*貸借対照表*への影響へと移行している。5億ドル級の虚偽請求和解、AI支援の迂回輸出検知、経済全体を罰する労働関税レイヤーである。コンプライアンスの負担は上流へ移っている。輸入者に必要なのは請求書レベルではなく*サプライヤーのサプライヤー*レベルでの原産地文書である。
@@ -256,7 +256,7 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 |---|---|---|
 | 米国商務省8月速報物品貿易（Sept 30） | 赤字$132.6B（前月比+11.5%）。輸入$336.1B（+5.5%）、輸出$203.4B（+1.9%）。産業資材＋AI資本財が輸入を牽引 | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | EU–中国二国間（Eurostat、報道経由） | EUの物品赤字は2026年第2四半期€103B。2025年€359.9B | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade／WITS／ITC／IMF | 今週の主要な定期発表なし（月次サイクル） | トレードプレス |
+| UN Comtrade／WITS／ITC／IMF | 今週の主要な定期発表なし（月次サイクル） |  |
 | Drewry Container Forecaster | 今後四半期は需給バランスが緩和し、スポット運賃のさらなる下落を見込む | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm)（前週） |
 
 ---
@@ -340,7 +340,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 タンカー・航空（参考）
 
 - **ダーティタンカー指数 5,444**（9月29日確定値で+0.22%）。**クリーンタンカー指数 2,293**（+3.01%）――製品船の迂回によりクリーンがアウトパフォーム。10月4日にサウジ石油施設へのフーシ派の攻撃が報じられたが、原油は急騰していない。([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **航空貨物**：バルチック航空貨物指数は**9月28日週+0.6%（前年比+22%）**。WorldACDのトン数は**前年比+8%**（第38週）――ピークシーズンに向けて堅調化。Xenetaは*抑制された*ピークを見込み、中国–米国EC貨物はデミニミス廃止で**前年比-34%**とみる。([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) via トレードプレス)
+- **航空貨物**：バルチック航空貨物指数は**9月28日週+0.6%（前年比+22%）**。WorldACDのトン数は**前年比+8%**（第38週）――ピークシーズンに向けて堅調化。Xenetaは*抑制された*ピークを見込み、中国–米国EC貨物はデミニミス廃止で**前年比-34%**とみる。([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/))
 
 ### 9.5 関税率の比較（主な措置、従価税）
 
@@ -402,12 +402,12 @@ timeline
 
 | 日付 | イベント | 意義 | 出典 |
 |---|---|---|---|
-| Oct 6, 2026 | CAPEフェーズ3の展開 | 再精算申告に係るIEEPA関税の還付 | トレードプレス |
+| Oct 6, 2026 | CAPEフェーズ3の展開 | 再精算申告に係るIEEPA関税の還付 |  |
 | Oct 15, 2026 | EU首脳会議（ブリュッセル） | 仏独迅速対応ツールの最初の試金石。中国のアンバランス | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Oct 18, 2026 | **Graham Act施行期限** | ロシア産エネルギー購入国への最大100%二次関税 | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| Nov 9, 2026 | 178件の第301条適用除外の失効 | 更新か失効かの判断 | トレードプレス |
+| Nov 9, 2026 | 178件の第301条適用除外の失効 | 更新か失効かの判断 |  |
 | Dec 4, 2026 | ポリシリコンMIP＋15%関税の発効 | 太陽光サプライチェーンのコストショック | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| Jan 12, 2027 | USMCA2027年共同見直し ― パブリックコメント期限 | 見直し年の議題設定 | トレードプレス |
+| Jan 12, 2027 | USMCA2027年共同見直し ― パブリックコメント期限 | 見直し年の議題設定 |  |
 | Feb 9, 2027 | ドローン部品（附属書III）25%関税 | ドローン関税の第二波 | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | H1 2027 | C.H. Robinson–RXO統合完了 | $25B超の統合3PL誕生 | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | July 2027 | デミニミスの法令による廃止 | $800免除の法令上の終了 | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |

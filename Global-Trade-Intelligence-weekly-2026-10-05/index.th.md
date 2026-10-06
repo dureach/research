@@ -150,7 +150,7 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 
 ### 3.7 De minimis ยังตายสนิท เงินคืน IEEPA เริ่มไหล
 
-**เกิดอะไรขึ้น** ศาลการค้าระหว่างประเทศ (13 ส.ค. คดี Detroit Axle) ยืนยันการยกเลิกข้อยกเว้น de minimis 800 ดอลลาร์บนฐาน IEEPA — ตัดสินว่าการยกเลิก "สิทธิพิเศษ" ไม่ใช่การเก็บภาษี จึงรอดจากคำตัดสินศาลฎีกาเดือนกุมภาพันธ์ที่ล้มภาษี IEEPA de minimis ทั่วโลกสิ้นสุด 29 ส.ค. 2025 สภาคองเกรสจะปิดช่องเองโดยกฎหมายมีผล ก.ค. 2027 อีกด้าน ระบบ CAPE ของ CBP (ใช้งานตั้งแต่ 20 เม.ย.) กำลังดำเนินการคืน**ภาษี IEEPA ประมาณ 165,000 ล้านดอลลาร์** ที่เก็บไป พร้อมดอกเบี้ยสะสม ~650 ล้านดอลลาร์/เดือน **CAPE Phase 3 ใช้งาน 6 ต.ค.** เพื่อจัดการเงินคืนสำหรับรายการที่ reliquidate ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), การสื่อการค้า)
+**เกิดอะไรขึ้น** ศาลการค้าระหว่างประเทศ (13 ส.ค. คดี Detroit Axle) ยืนยันการยกเลิกข้อยกเว้น de minimis 800 ดอลลาร์บนฐาน IEEPA — ตัดสินว่าการยกเลิก "สิทธิพิเศษ" ไม่ใช่การเก็บภาษี จึงรอดจากคำตัดสินศาลฎีกาเดือนกุมภาพันธ์ที่ล้มภาษี IEEPA de minimis ทั่วโลกสิ้นสุด 29 ส.ค. 2025 สภาคองเกรสจะปิดช่องเองโดยกฎหมายมีผล ก.ค. 2027 อีกด้าน ระบบ CAPE ของ CBP (ใช้งานตั้งแต่ 20 เม.ย.) กำลังดำเนินการคืน**ภาษี IEEPA ประมาณ 165,000 ล้านดอลลาร์** ที่เก็บไป พร้อมดอกเบี้ยสะสม ~650 ล้านดอลลาร์/เดือน **CAPE Phase 3 ใช้งาน 6 ต.ค.** เพื่อจัดการเงินคืนสำหรับรายการที่ reliquidate ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php))
 
 ---
 ## 4. ตัวติดตามภาษีศุลกากร
@@ -173,7 +173,7 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 | ยา (มีสิทธิบัตร) | มาตรา 232 | ตาม HTSUS 9903.04.60–70 | อัปเดตคำแนะนำ 28 ก.ย. | ออกคำแนะนำการยื่น CBP แล้ว | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | อินเดีย (ทั่วไป) | มาตรา 301 กรณีแรงงานบังคับ | 10% | 24 ก.ค. 2026 | มีผลบังคับ | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | 16 เศรษฐกิจรวมอินเดีย | ไต่สวนมาตรา 301 กำลังการผลิตส่วนเกิน | n/a | อยู่ระหว่างไต่สวน | USTR สัญญาจะดำเนินการ "ภายในไม่กี่สัปดาห์" | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178 รายการยกเว้นสินค้า | ข้อยกเว้นมาตรา 301 | ได้รับการยกเว้น | ถึง 9 พ.ย. 2026 | กำลังจะหมดอายุ | การสื่อการค้า |
+| 178 รายการยกเว้นสินค้า | ข้อยกเว้นมาตรา 301 | ได้รับการยกเว้น | ถึง 9 พ.ย. 2026 | กำลังจะหมดอายุ |  |
 | สหภาพยุโรป (เสนอ) | เครื่องมือ "systemic reaction" | สูงสุดถึงตัดขาดตลาด | เสนอ 5 ต.ค. ประชุมสุดยอด 15 ต.ค. | ยังไม่เป็นกฎหมาย | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 
 ---
@@ -188,10 +188,10 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 | 29 ก.ย. | CBP | ประกาศ TRQ ปีงบ 2027: เสื้อผ้า AGOA น้ำตาลทรายดิบ | วางแผนปีโควตา | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | 29 ก.ย. | CBP | WRO แรงงานบังคับ 2 ฉบับ (น้ำมันปาล์มอินโดนีเซีย) | WRO 60 ฉบับ + 8 Findings ยังมีผล | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | 29 ก.ย. | ทำเนียบขาว | ห้ามนำเข้าสินค้าแคนาดามีผลบังคับ | การห้ามนำเข้า*ครั้งแรก* (ไม่ใช่ภาษี) ของสงครามการค้า | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| 30 ก.ย. | USTR | ถ้อยแถลง Global Forum on Steel Excess Capacity | ปกคลุมพหุภาคีให้มาตรการเหล็ก | การสื่อการค้า |
+| 30 ก.ย. | USTR | ถ้อยแถลง Global Forum on Steel Excess Capacity | ปกคลุมพหุภาคีให้มาตรการเหล็ก |  |
 | 1–2 ต.ค. | USTR (Greer) | G20 มิลวอกี: เห็นพ้องเฉพาะเรื่องบีบบังคับอาหาร เปิดประเด็นปฏิรูป MFN | ช่องทางพหุภาคีชะงัก ยืนยันช่องทางฝ่ายเดียว | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| 2 ต.ค. | USTR | แก้ไข RRM ครั้งที่ 14 — ยาง Corporación de Occidente (เม็กซิโก) | บังคับใช้แรงงาน USMCA ต่อเนื่อง | การสื่อการค้า |
-| 2 ต.ค. | USTR | ทบทวนร่วม USMCA 2027: รับความเห็นสาธารณะถึง**12 ม.ค. 2027** | นาฬิกาปีทบทวนเริ่มเดิน | การสื่อการค้า |
+| 2 ต.ค. | USTR | แก้ไข RRM ครั้งที่ 14 — ยาง Corporación de Occidente (เม็กซิโก) | บังคับใช้แรงงาน USMCA ต่อเนื่อง |  |
+| 2 ต.ค. | USTR | ทบทวนร่วม USMCA 2027: รับความเห็นสาธารณะถึง**12 ม.ค. 2027** | นาฬิกาปีทบทวนเริ่มเดิน |  |
 | 5 ต.ค. | ทำเนียบขาว/สภาคองเกรส | นับถอยหลังบังคับใช้ Graham Act (เหลือ 13 วัน) | ภาษีทุติยภูมิสูงสุด 100% รออยู่ | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **วิเคราะห์** รัฐบาลกำลังเดินนาฬิกาสามเรือนพร้อมกัน: (1) นาฬิกา*ลงโทษ* — ห้ามนำเข้าแคนาดา ภาษีทุติยภูมิ Graham Act MIP โพลีซิลิคอน — ทั้งหมดออกแบบมาเพื่อเพิ่มอำนาจต่อรองสูงสุดก่อนสิ้นปี (2) นาฬิกา*สถาบัน* — เตรียมทบทวน USMCA 2027 ขั้นตอนคณะกรรมการการค้า ประเด็นปฏิรูป MFN — สร้างกลไกถาวร (3) นาฬิกา*กฎหมาย* — ชัยชนะ de minimis ของ CIT เทียบกับความพ่ายแพ้ภาษี IEEPA ในศาลฎีกา โดยเงินคืน IEEPA 165,000 ล้านดอลลาร์กำลังไหลผ่าน CAPE รูปแบบชัดเจน: ตรงไหนศาลจำกัด (ภาษี IEEPA) รัฐบาลก็อ้อมผ่าน 232/338/301 และกฎหมาย (Graham Act) ผู้นำเข้าควรวางแผนรับมาตรการ*เพิ่ม*ภายใต้กฎหมาย*เก่า* ไม่ใช่น้อยลง
@@ -206,16 +206,16 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 | ฝรั่งเศส-เยอรมนีเสนอเครื่องมือตอบโต้เร็ว | เครื่องมือ "systemic reaction" กระตุ้นด้วยเสียงข้างน้อย สูงสุดถึงตัดขาดตลาดทันที ควบคู่เครื่องมือกระจายความเสี่ยง | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | ดุล EU–จีน | ขาดดุล 359,900 ล้านยูโรในปี 2025 และ 103,000 ล้านยูโรในไตรมาส 2/2026 (สูงสุดตั้งแต่ไตรมาส 3/2022) การนำเข้าพุ่งในเครื่องจักร สิ่งทอ โลหะ เคมีภัณฑ์ | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | ประชุมสุดยอดผู้นำ EU 15 ต.ค. | ประชุมบรัสเซลส์หยิบยกความไม่สมดุลกับจีน — บททดสอบแรกของข้อเสนอฝรั่งเศส-เยอรมนี | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| EU พิจารณาลดภาษีอุตสาหกรรม | อาจลดภาษีเพื่อเลี่ยงการตอบโต้เหล็กของจีน (ตามรายงาน Capitol Forum) | การสื่อการค้า |
+| EU พิจารณาลดภาษีอุตสาหกรรม | อาจลดภาษีเพื่อเลี่ยงการตอบโต้เหล็กของจีน (ตามรายงาน Capitol Forum) |  |
 
 ### แคนาดา
 
 | ความเคลื่อนไหว | รายละเอียด | แหล่งที่มา |
 |---|---|---|
 | มาตรการตอบโต้มีผลบังคับ | 15%/25%/50% กับสินค้าสหรัฐฯ 335 รายการตั้งแต่ 8 ก.ย. ครอบคลุม 28,000 ล้านดอลลาร์แคนาดา สินค้าระหว่างขนส่งได้รับการยกเว้น | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| แพ็กเกจช่วย 7,500 ล้านดอลลาร์แคนาดา | ช่วยเหลืออุตสาหกรรมในประเทศที่ได้รับผลกระทบ | การสื่อการค้า |
-| ผลักดันกระจายตลาด | รัฐบาล Carney หันหาดีลยุโรป/อินเดีย | การสื่อการค้า |
-| 25 รัฐสหรัฐฯ ฟ้องร้อง | ท้าทายระบอบภาษี ยังไม่มีคำตัดสิน | การสื่อการค้า |
+| แพ็กเกจช่วย 7,500 ล้านดอลลาร์แคนาดา | ช่วยเหลืออุตสาหกรรมในประเทศที่ได้รับผลกระทบ |  |
+| ผลักดันกระจายตลาด | รัฐบาล Carney หันหาดีลยุโรป/อินเดีย |  |
+| 25 รัฐสหรัฐฯ ฟ้องร้อง | ท้าทายระบอบภาษี ยังไม่มีคำตัดสิน |  |
 
 ### จีน (MOFCOM)
 
@@ -224,14 +224,14 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 | ไต่สวนทุ่มตลาด: p-nitrotoluene จาก EU | เปิด 3 ต.ค. (ประกาศฉบับที่ 44) — สัญญาณตอบโต้ | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | เตือนแข็งกร้าวเรื่องเครื่องมือ EU | ขู่ตอบโต้ "อย่างเด็ดขาด" ต่อเครื่องมือตอบโต้เร็วใดๆ | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | สรุป 30-for-30 | ประกาศรายชื่อ 1,619 พิกัด ผูกมัดถ่านหิน (10 ล้านตัน/ปี 2027–28) การส่งแร่หายากจะกลับสู่ภาวะปกติ | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| สรุปการปรึกษาหารือรอบ 8 | ช่องทางทวิภาคียังทำงาน | การสื่อการค้า |
+| สรุปการปรึกษาหารือรอบ 8 | ช่องทางทวิภาคียังทำงาน |  |
 
 ### ทั่วโลกที่เหลือ
 
 | ประเทศ/ภูมิภาค | ความเคลื่อนไหว | แหล่งที่มา |
 |---|---|---|
 | อินเดีย | ห้ามนำเข้าสินค้าแรงงานบังคับ (แก้ FTP เดือน ก.ค.) ถูกหยิบยกที่ G20 ส่งออกไปสหรัฐฯ +21.83% YoY ในสิงหาคมแม้มีภาษี 10% | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| สหราชอาณาจักร | ไม่พบความเคลื่อนไหวนโยบายการค้าสำคัญสัปดาห์นี้ | การสื่อการค้า |
+| สหราชอาณาจักร | ไม่พบความเคลื่อนไหวนโยบายการค้าสำคัญสัปดาห์นี้ |  |
 | เม็กซิโก/อาร์เจนตินา | ร่วมแถลงการณ์แรงงานบังคับกับสหรัฐฯ ที่ G20 (แยกจากร่างร่วมที่ล้มเหลว) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. มาตรการบังคับใช้กฎหมาย
@@ -242,7 +242,7 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 | Everlight ยอมความ 5.15 ล้านดอลลาร์ | Everlight Americas ยอมความคดี False Claims กล่าวหาสำแดง LED จีนว่าเป็นไต้หวันเพื่อเลี่ยงภาษีมาตรา 301 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum ~550 ล้านดอลลาร์ (พ.ค.) | หลบเลี่ยงภาษีอะลูมิเนียมอัดรีด — คดียอมความฉ้อโกงภาษีใหญ่สุดช่วงนี้ | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | บันทึก DOJ เรื่องฉ้อโกง (13 ส.ค.) | AAG Colin McDonald: ฉ้อโกงการค้า/เลี่ยงศุลกากรเป็นวาระสูงสุด "ทำให้" การบังคับใช้ False Claims เป็นระบบ | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| ปราบปราม transshipment (ตัวอย่าง) | ทำเนียบขาวเปิดโปง "แผน transshipment ผิดกฎหมายขนาดใหญ่" เตรียมบังคับใช้ด้วย AI | การสื่อการค้า (JD Supra) |
+| ปราบปราม transshipment (ตัวอย่าง) | ทำเนียบขาวเปิดโปง "แผน transshipment ผิดกฎหมายขนาดใหญ่" เตรียมบังคับใช้ด้วย AI | JD Supra |
 | ชั้นภาษีแรงงานบังคับ | มาตรา 301 10% กับ 60 เศรษฐกิจ (รวมอินเดีย แคนาดา) ตั้งแต่ 24 ก.ค. — แยกจากการบังคับใช้ UFLPA รายนิติบุคคล | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **ข้อสรุป** การบังคับใช้กำลังเปลี่ยนจากการสกัดกั้นระดับ shipment สู่ผลลัพธ์ระดับ*งบดุล*: คดียอมความ False Claims ระดับครึ่งพันล้านดอลลาร์ การตรวจจับ transshipment ด้วย AI และชั้นภาษีที่ลงโทษทั้งเศรษฐกิจฐานแนวปฏิบัติด้านแรงงาน ภาระการปฏิบัติตามกฎหมายกำลังย้ายขึ้นต้นน้ำ — ผู้นำเข้าต้องมีเอกสารแหล่งกำเนิดถึงระดับ*ซัพพลายเออร์ของซัพพลายเออร์* ไม่ใช่แค่ใบแจ้งหนี้
@@ -253,7 +253,7 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 |---|---|---|
 | การค้าสินค้าเบื้องต้นสหรัฐฯ เดือนสิงหาคมของ Census (30 ก.ย.) | ขาดดุล 132,600 ล้านดอลลาร์ (+11.5% m/m) นำเข้า 336,100 ล้านดอลลาร์ (+5.5%) ส่งออก 203,400 ล้านดอลลาร์ (+1.9%) วัสดุอุตสาหกรรม + สินค้าทุน AI ขับเคลื่อนนำเข้า | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | ทวิภาคี EU–จีน (Eurostat ผ่านสื่อ) | สหภาพยุโรปขาดดุล 103,000 ล้านยูโรในไตรมาส 2/2026 และ 359,900 ล้านยูโรในปี 2025 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade / WITS / ITC / IMF | สัปดาห์นี้ไม่มีกำหนดเผยแพร่สำคัญ (รอบรายเดือน) | การสื่อการค้า |
+| UN Comtrade / WITS / ITC / IMF | สัปดาห์นี้ไม่มีกำหนดเผยแพร่สำคัญ (รอบรายเดือน) |  |
 | Drewry Container Forecaster | สมดุลอุปสงค์-อุปทานจะอ่อนลงในไตรมาสข้างหน้า คาดค่าระวาง spot หดตัวต่อ | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (สัปดาห์ก่อน) |
 
 ---
@@ -336,7 +336,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 เรือบรรทุกน้ำมันและขนส่งทางอากาศ (บริบท)
 
 - **ดัชนีเรือบรรทุกน้ำมันดิบ 5,444** (+0.22% ณ ฟิกซ์ 29 ก.ย.) **ดัชนีเรือบรรทุกน้ำมันสำเร็จรูป 2,293** (+3.01%) — เรือน้ำมันสำเร็จรูปทำได้ดีกว่าเมื่อสินค้าเปลี่ยนเส้นทาง มีรายงานฮูตีโจมตีน้ำมันซาอุฯ 4 ต.ค. แต่น้ำมันดิบไม่พุ่ง ([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **ขนส่งทางอากาศ**: ดัชนีค่าระวางอากาศ Baltic **+0.6% สัปดาห์สิ้นสุด 28 ก.ย. (+22% YoY)** ปริมาณ WorldACD **+8% YoY** (สัปดาห์ 38) — แข็งแกร่งเข้าช่วงพีค Xeneta มองพีค*แบบแผ่ว* โดยอีคอมเมิร์ซจีน–สหรัฐฯ **-34% YoY** จากการยกเลิก de minimis ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) ผ่านการสื่อการค้า)
+- **ขนส่งทางอากาศ**: ดัชนีค่าระวางอากาศ Baltic **+0.6% สัปดาห์สิ้นสุด 28 ก.ย. (+22% YoY)** ปริมาณ WorldACD **+8% YoY** (สัปดาห์ 38) — แข็งแกร่งเข้าช่วงพีค Xeneta มองพีค*แบบแผ่ว* โดยอีคอมเมิร์ซจีน–สหรัฐฯ **-34% YoY** จากการยกเลิก de minimis ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/))
 
 ### 9.5 เปรียบเทียบอัตราภาษี (มาตรการที่เลือก, ตามมูลค่า)
 
@@ -397,12 +397,12 @@ timeline
 
 | วันที่ | เหตุการณ์ | ทำไมจึงสำคัญ | แหล่งที่มา |
 |---|---|---|---|
-| 6 ต.ค. 2026 | CAPE Phase 3 ใช้งาน | เงินคืนภาษี IEEPA สำหรับรายการที่ reliquidate | การสื่อการค้า |
+| 6 ต.ค. 2026 | CAPE Phase 3 ใช้งาน | เงินคืนภาษี IEEPA สำหรับรายการที่ reliquidate |  |
 | 15 ต.ค. 2026 | ประชุมสุดยอดผู้นำ EU บรัสเซลส์ | บททดสอบแรกของเครื่องมือตอบโต้เร็วฝรั่งเศส-เยอรมนี เรื่องจีน | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 18 ต.ค. 2026 | **เส้นตายบังคับใช้ Graham Act** | ภาษีทุติยภูมิสูงสุด 100% กับผู้ซื้อพลังงานรัสเซีย | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| 9 พ.ย. 2026 | ข้อยกเว้นมาตรา 301 จำนวน 178 รายการหมดอายุ | ตัดสินใจต่ออายุหรือปล่อยหมด | การสื่อการค้า |
+| 9 พ.ย. 2026 | ข้อยกเว้นมาตรา 301 จำนวน 178 รายการหมดอายุ | ตัดสินใจต่ออายุหรือปล่อยหมด |  |
 | 4 ธ.ค. 2026 | MIP โพลีซิลิคอน + ภาษี 15% มีผล | ช็อกต้นทุนห่วงโซ่โซลาร์ | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| 12 ม.ค. 2027 | ทบทวนร่วม USMCA 2027 — หมดเขตรับความเห็นสาธารณะ | กำหนดวาระปีทบทวน | การสื่อการค้า |
+| 12 ม.ค. 2027 | ทบทวนร่วม USMCA 2027 — หมดเขตรับความเห็นสาธารณะ | กำหนดวาระปีทบทวน |  |
 | 9 ก.พ. 2027 | ภาษีชิ้นส่วนโดรน (ภาคผนวก III) 25% | ภาษีโดรนระลอกสอง | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | ครึ่งแรก 2027 | ปิดดีล C.H. Robinson–RXO | 3PL รวมมูลค่ากว่า 25,000 ล้านดอลลาร์ | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | ก.ค. 2027 | ปิด de minimis โดยกฎหมาย | สิ้นสุดข้อยกเว้น 800 ดอลลาร์ตามกฎหมาย | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |
@@ -421,4 +421,4 @@ timeline
 
 **กรอบเวลาครอบคลุม:** 28 กันยายน – 5 ตุลาคม 2026 **วิธี:** ค้นหาข่าวแนวตั้ง + อ่านหน้าเว็บโดยตรงจากแหล่งที่ระบุราว 45 แหล่ง ให้ความสำคัญแหล่งปฐมภูมิของรัฐบาล สำนักข่าวที่ติด paywall ใช้พาดหัว/สรุปเท่านั้น
 
-**แหล่งที่ใช้อ้างอิงสัปดาห์นี้:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, ประกาศทำเนียบขาว, CBP (ผ่าน KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (ผ่าน AP/Reuters/nationpress), Federal Register (ผ่านสื่อการค้า), BIS (ผ่าน Baker McKenzie/JD Supra), MOFCOM (โดยตรง), Reuters, AP, WSJ, CNN, Euronews (ผ่าน vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (บันทึก HSBC), tradersunion.com, frontlinesandbottomlines (บล็อก), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk
+**แหล่งที่ใช้อ้างอิงสัปดาห์นี้:** FreightWaves, thedcn.com.au (Baltic Exchange/Drewry), container-news.com, logisticsnews.ph, worldports.org, handybulk.com, bairdmaritime.com, indexbox.io, geopoliticsunplugged (Substack), metro.global, ประกาศทำเนียบขาว, CBP (ผ่าน KPMG, GHY, Thompson Hine, Trans-Border Global Freight), USTR (ผ่าน AP/Reuters/nationpress), Federal Register, BIS (ผ่าน Baker McKenzie/JD Supra), MOFCOM (โดยตรง), Reuters, AP, WSJ, CNN, Euronews (ผ่าน vespernews/tbsnews), brusselsmorning.com, LexBlog, JD Supra, Mondaq, tradepractitioner.com, KPMG TaxNewsFlash, GHY International, Thompson Hine, tariffcalculator2026.com, surtaxscan.com, tarifflens.ai, asrwe.com, thefinancialeconomy.com, jagranjosh.com, thehindubusinessline.com, nationpress.com, beatsinbrief.com, textalks.com, exencialrp (บันทึก HSBC), tradersunion.com, frontlinesandbottomlines (บล็อก), en.sedaily.com, logisticusgroup.com, etwenergy.com, jingsun-power.com, news.metal.com (SMM), news.bloomberglaw.com, openclassactions.com, srnnews.com/Reuters (de minimis), supplychaindive.com, suasnews.com, dronelife.com, rxo.com, inboundlogistics.com, ttnews.com, cdllife.com, financial-news.co.uk
