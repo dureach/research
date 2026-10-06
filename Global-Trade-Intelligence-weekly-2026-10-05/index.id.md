@@ -23,8 +23,8 @@ draft: false
 9. [Pasar angkutan](#9-freight-market)
 10. [Lini masa kebijakan](#10-policy-timelines)
 11. [Tenggat & agenda mendatang (90 hari ke depan)](#11-upcoming-deadlines--events-next-90-days)
-12. [Penanda konten — sudut pemasaran Dureach](#12-content-flags--dureach-marketing-angles)
-13. [Sumber & metodologi](#13-sources--methodology)
+[Penanda konten — sudut pemasaran Dureach](#12-content-flags--dureach-marketing-angles)
+12. [Sumber & metodologi](#12-sources--methodology)
 
 ---
 
@@ -409,15 +409,7 @@ timeline
 
 ---
 
-## 12. Penanda konten — sudut pemasaran Dureach
-
-1. **"Pemasok Anda ada di dua daftar tarif."** Penyelidikan 301 kelebihan kapasitas 16-ekonomi dan lapisan tarif kerja paksa 60-ekonomi sangat tumpang tindih — dan Graham Act menambah penyaringan ketiga (paparan energi Rusia). Postingan kalkulator risiko kepatuhan / rujukan silang daftar praktis menulis dirinya sendiri, dengan data pengiriman sebagai lapisan pembuktiannya. ([thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/))
-2. **Mega-merger CHRW–RXO → "siapa yang sebenarnya mengangkut barang."** Sudut konsolidasi 3PL untuk audiens forwarder; padukan dengan data bill of lading yang menunjukkan forwarder mana menyentuh jalur mana — pihak pengakuisisi membeli kepadatan, dan kepadatan terlihat dalam catatan pengiriman. ([reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/))
-3. **MIP polisilikon: preseden batas harga.** Penggunaan pertama harga impor minimum sebagai senjata dagang — jika berhasil di surya, perkirakan di baterai, EV, baja. Artikel penjelasan tentang "tarif 2.0: dari bea ke batas harga" memposisikan Dureach di depan gelombang berikutnya. ([mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions))
-
----
-
-## 13. Sumber & metodologi
+## 12. Sumber & metodologi
 
 **Jendela liputan:** 28 September – 5 Oktober 2026. **Metode:** pencarian web vertikal berita + pembacaan halaman langsung di ~45 sumber terdaftar; sumber primer pemerintah diutamakan; media berbayar via judul/cuplikan saja.
 

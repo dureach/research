@@ -23,8 +23,8 @@ draft: false
 9. [Mercado de fletes](#9-freight-market)
 10. [Cronogramas de políticas](#10-policy-timelines)
 11. [Próximos vencimientos y eventos (próximos 90 días)](#11-upcoming-deadlines--events-next-90-days)
-12. [Señales de contenido — ángulos de marketing de Dureach](#12-content-flags--dureach-marketing-angles)
-13. [Fuentes y metodología](#13-sources--methodology)
+[Señales de contenido — ángulos de marketing de Dureach](#12-content-flags--dureach-marketing-angles)
+12. [Fuentes y metodología](#12-sources--methodology)
 
 ---
 
@@ -403,15 +403,7 @@ timeline
 
 ---
 
-## 12. Señales de contenido — ángulos de marketing de Dureach
-
-1. **"Tus proveedores están en dos listas arancelarias."** La investigación 301 de exceso de capacidad sobre 16 economías y la capa arancelaria por trabajo forzoso sobre 60 economías se superponen ampliamente — y la Ley Graham agrega una tercera criba (exposición a energía rusa). Un post de calculadora de riesgo de cumplimiento / cruce de listas prácticamente se escribe solo, con datos de embarques como capa de prueba. ([thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/))
-2. **Megafusión CHRW–RXO → "quién mueve realmente la carga."** Ángulo de consolidación 3PL para la audiencia de forwarders; combínalo con datos de conocimiento de embarque que muestren qué forwarders tocan qué rutas — el adquirente compró densidad, y la densidad es visible en los registros de embarques. ([reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/))
-3. **MIPs de polisilicio: el precedente del precio mínimo.** Primer uso de precios mínimos de importación como arma comercial — si funciona en solar, espéralo en baterías, EVs, acero. Un explicador sobre "aranceles 2.0: de aranceles a precios mínimos" posiciona a Dureach delante de la próxima oleada. ([mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions))
-
----
-
-## 13. Fuentes y metodología
+## 12. Fuentes y metodología
 
 **Ventana de cobertura:** September 28 – October 5, 2026. **Método:** búsqueda web vertical de noticias + lecturas directas de páginas en ~45 fuentes listadas; se prefieren fuentes primarias gubernamentales; medios con paywall solo vía titulares/fragmentos.
 

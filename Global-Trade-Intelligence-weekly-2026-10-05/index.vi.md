@@ -23,8 +23,8 @@ draft: false
 9. [Thị trường vận tải](#9-freight-market)
 10. [Dòng thời gian chính sách](#10-policy-timelines)
 11. [Hạn chót & sự kiện sắp tới (90 ngày tới)](#11-upcoming-deadlines--events-next-90-days)
-12. [Điểm nhấn nội dung — các góc độ tiếp thị Dureach](#12-content-flags--dureach-marketing-angles)
-13. [Nguồn & phương pháp luận](#13-sources--methodology)
+[Điểm nhấn nội dung — các góc độ tiếp thị Dureach](#12-content-flags--dureach-marketing-angles)
+12. [Nguồn & phương pháp luận](#12-sources--methodology)
 
 ---
 
@@ -412,15 +412,7 @@ timeline
 
 ---
 
-## 12. Điểm nhấn nội dung — các góc độ tiếp thị Dureach
-
-1. **"Nhà cung cấp của bạn nằm trong hai danh sách thuế quan."** Cuộc điều tra Mục 301 về dư thừa công suất tại 16 nền kinh tế và lớp thuế lao động cưỡng bức tại 60 nền kinh tế chồng lấn mạnh — và Đạo luật Graham bổ sung một lớp sàng lọc thứ ba (rủi ro năng lượng Nga). Một bài đăng về công cụ tính toán rủi ro tuân thủ / đối chiếu danh sách gần như tự viết, với dữ liệu vận chuyển làm lớp chứng minh. ([thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/))
-2. **Siêu sáp nhập CHRW–RXO → "ai thực sự vận chuyển hàng."** Góc độ hợp nhất 3PL cho đối tượng giao nhận; kết hợp với dữ liệu vận đơn cho thấy hãng giao nhận nào chạm vào tuyến nào — bên mua đã mua mật độ, và mật độ hiện rõ trong hồ sơ vận chuyển. ([reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/))
-3. **MIP Polysilicon: tiền lệ giá sàn.** Lần đầu dùng giá nhập khẩu tối thiểu làm vũ khí thương mại — nếu hiệu quả với năng lượng mặt trời, hãy chờ đợi nó ở pin, xe điện, thép. Một bài giải thích về "thuế quan 2.0: từ thuế suất đến giá sàn" định vị Dureach đi trước làn sóng tiếp theo. ([mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions))
-
----
-
-## 13. Nguồn & phương pháp luận
+## 12. Nguồn & phương pháp luận
 
 **Khung thời gian:** 28 tháng 9 – 5 tháng 10, 2026. **Phương pháp:** tìm kiếm web theo chiều tin tức + đọc trực tiếp các trang trên ~45 nguồn đã liệt kê; ưu tiên nguồn chính phủ chính thức; các trang trả phí chỉ dùng tiêu đề/đoạn trích.
 

@@ -23,8 +23,8 @@ draft: false
 9. [货运市场](#9-货运市场)
 10. [政策时间线](#10-政策时间线)
 11. [未来90天重要节点与事件](#11-未来90天重要节点与事件)
-12. [内容选题：Dureach营销角度](#12-内容选题dureach营销角度)
-13. [来源与方法](#13-来源与方法)
+[内容选题：Dureach营销角度](#12-内容选题dureach营销角度)
+12. [来源与方法](#12-来源与方法)
 
 ---
 
@@ -412,15 +412,7 @@ timeline
 
 ---
 
-## 12. 内容选题：Dureach营销角度
-
-1. **"你的供应商上了两份关税清单。"** 16个经济体的301条款过剩产能调查与60个经济体的强迫劳动关税层高度重叠——《格雷厄姆法案》又加了第三道筛子（俄罗斯能源敞口）。一篇合规风险计算器/清单交叉比对的帖子几乎自己写好了，货运数据就是证明层。([thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/))
-2. **CHRW—RXO超级并购 → "到底是谁在运货。"** 面向货代受众的3PL整合角度；用提单数据展示哪些货代经手哪些航线——收购方买的是密度，而密度在货运记录里看得见。([reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/))
-3. **多晶硅最低限价：价格下限先例。** 首次把最低进口限价用作贸易武器——如果在光伏上奏效，电池、电动车、钢铁都会跟进。一篇"关税2.0：从从价税到价格下限"的解读，让Dureach站在下一波前面。([mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions))
-
----
-
-## 13. 来源与方法
+## 12. 来源与方法
 
 **覆盖窗口：** 2026年9月28日至10月5日。**方法：** 新闻垂直搜索＋直接页面阅读，覆盖约45个指定来源；优先政府一手来源；付费墙媒体仅用标题/摘要。
 

@@ -23,8 +23,7 @@ draft: false
 9. [Freight market](#9-freight-market)
 10. [Policy timelines](#10-policy-timelines)
 11. [Upcoming deadlines & events (next 90 days)](#11-upcoming-deadlines--events-next-90-days)
-12. [Content flags — Dureach marketing angles](#12-content-flags--dureach-marketing-angles)
-13. [Sources & methodology](#13-sources--methodology)
+12. [Sources & methodology](#12-sources--methodology)
 
 ---
 
@@ -412,15 +411,7 @@ timeline
 
 ---
 
-## 12. Content flags — Dureach marketing angles
-
-1. **"Your suppliers are on two tariff lists."** The 16-economy Section 301 excess-capacity probe and the 60-economy forced-labor tariff layer overlap heavily — and the Graham Act adds a third screen (Russian-energy exposure). A compliance-risk calculator / list-cross-reference post practically writes itself, with shipment data as the proof layer. ([thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/))
-2. **CHRW–RXO mega-merger → "who actually moves the freight."** 3PL consolidation angle for the forwarder audience; pair with bill-of-lading data showing which forwarders touch which lanes — the acquirer bought density, and density is visible in shipment records. ([reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/))
-3. **Polysilicon MIPs: the price-floor precedent.** First use of minimum import prices as a trade weapon — if it works on solar, expect it on batteries, EVs, steel. An explainer on "tariffs 2.0: from duties to price floors" positions Dureach ahead of the next wave. ([mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions))
-
----
-
-## 13. Sources & methodology
+## 12. Sources & methodology
 
 **Coverage window:** September 28 – October 5, 2026. **Method:** news-vertical web search and direct page reads across approximately 45 sources; government primary sources preferred.
 

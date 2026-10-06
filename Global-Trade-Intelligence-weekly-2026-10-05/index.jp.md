@@ -23,8 +23,8 @@ draft: false
 9. [海運市況](#9-freight-market)
 10. [政策タイムライン](#10-policy-timelines)
 11. [今後の期限・イベント（今後90日）](#11-upcoming-deadlines--events-next-90-days)
-12. [コンテンツフラグ ― Dureachマーケティングの切り口](#12-content-flags--dureach-marketing-angles)
-13. [情報源と作成方法](#13-sources--methodology)
+[コンテンツフラグ ― Dureachマーケティングの切り口](#12-content-flags--dureach-marketing-angles)
+12. [情報源と作成方法](#12-sources--methodology)
 
 ---
 
@@ -414,15 +414,7 @@ timeline
 
 ---
 
-## 12. コンテンツフラグ ― Dureachマーケティングの切り口
-
-1. **「あなたのサプライヤーは2つの関税リストに載っている。」** 16経済を対象とする第301条過剰生産能力調査と、60経済を対象とする強制労働関税レイヤーは大きく重なる。Graham Actが第三のスクリーン（ロシア産エネルギーへの関与）を加える。コンプライアンスリスクの計算ツール／リスト突合コンテンツは船積みデータを裏付けにすれば成立する。([thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/))
-2. **CHRW–RXOメガ統合 → 「実際に貨物を動かしているのは誰か」。** フォワーダー向けの3PL再編の切り口。どのフォワーダーがどの航路を扱うかを船荷証券データと組み合わせる。買収者が買ったのは密度であり、密度は船積み記録に可視化できる。([reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/))
-3. **ポリシリコンMIP：価格下限という前例。** 貿易兵器としての最低輸入価格の初の本格利用。太陽光で機能すれば、電池、EV、鉄鋼にも広がる。「関税2.0：従価税から価格下限へ」の解説コンテンツで、次の波に先回りできる。([mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions))
-
----
-
-## 13. 情報源と作成方法
+## 12. 情報源と作成方法
 
 **対象期間：** 2026年9月28日～10月5日。**方法：** ニュース垂直検索＋約45の指定情報源の直接閲読。政府一次情報を優先。ペイウォール媒体は見出し・要旨のみ利用。
 
