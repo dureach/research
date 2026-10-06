@@ -151,7 +151,7 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 
 ### 3.7 De minimis vẫn chết; tiền hoàn IEEPA chảy về
 
-**Diễn biến.** Tòa án Thương mại Quốc tế (13 tháng 8, vụ Detroit Axle) đã giữ nguyên việc bãi bỏ miễn trừ de minimis 800 USD dựa trên IEEPA — phán quyết rằng việc xóa một "đặc quyền" không phải là áp thuế, vì vậy nó vẫn đứng vững sau phán quyết tháng 2 của Tòa án Tối cao bác bỏ thuế quan IEEPA. De minimis toàn cầu kết thúc ngày 29 tháng 8, 2025; Quốc hội tự đóng cửa nó có hiệu lực tháng 7/2027. Riêng rẽ, hệ thống CAPE của CBP (hoạt động từ 20 tháng 4) đang xử lý **~165 tỷ USD thuế IEEPA** đã thu, với lãi phát sinh ~650 triệu USD/tháng; **CAPE Giai đoạn 3 triển khai ngày 6 tháng 10** để xử lý tiền hoàn cho các tờ khai được thanh khoản lại. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), quét lần đầu)
+**Diễn biến.** Tòa án Thương mại Quốc tế (13 tháng 8, vụ Detroit Axle) đã giữ nguyên việc bãi bỏ miễn trừ de minimis 800 USD dựa trên IEEPA — phán quyết rằng việc xóa một "đặc quyền" không phải là áp thuế, vì vậy nó vẫn đứng vững sau phán quyết tháng 2 của Tòa án Tối cao bác bỏ thuế quan IEEPA. De minimis toàn cầu kết thúc ngày 29 tháng 8, 2025; Quốc hội tự đóng cửa nó có hiệu lực tháng 7/2027. Riêng rẽ, hệ thống CAPE của CBP (hoạt động từ 20 tháng 4) đang xử lý **~165 tỷ USD thuế IEEPA** đã thu, với lãi phát sinh ~650 triệu USD/tháng; **CAPE Giai đoạn 3 triển khai ngày 6 tháng 10** để xử lý tiền hoàn cho các tờ khai được thanh khoản lại. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), báo chí thương mại)
 
 ---
 
@@ -175,7 +175,7 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Dược phẩm (có bằng sáng chế) | Mục 232 | Theo HTSUS 9903.04.60–70 | Hướng dẫn cập nhật 28 tháng 9 | Đã ban hành hướng dẫn khai báo CBP | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | Ấn Độ (chung) | Mục 301 lao động cưỡng bức | 10% | 24 tháng 7, 2026 | Có hiệu lực | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | 16 nền kinh tế gồm Ấn Độ | Điều tra Mục 301 dư thừa công suất | n/a | Đang điều tra | USTR hứa hành động "trong vài tuần" | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178 trường hợp loại trừ sản phẩm | Loại trừ Mục 301 | Được loại trừ | Đến 9 tháng 11, 2026 | Sắp hết hạn | Quét lần đầu |
+| 178 trường hợp loại trừ sản phẩm | Loại trừ Mục 301 | Được loại trừ | Đến 9 tháng 11, 2026 | Sắp hết hạn | Báo chí thương mại |
 | EU (đề xuất) | Công cụ "phản ứng hệ thống" | Lên đến cắt đứt thị trường | Đề xuất 5 tháng 10; hội nghị 15 tháng 10 | Chưa thành luật | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 
 ---
@@ -190,10 +190,10 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | 29 tháng 9 | CBP | Bản tin TRQ năm tài khóa 2027: hàng may mặc AGOA, đường mía thô | Lập kế hoạch năm hạn ngạch | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | 29 tháng 9 | CBP | Hai lệnh WRO lao động cưỡng bức (dầu cọ Indonesia) | Hiện có 60 WRO + 8 Kết luận đang hoạt động | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | 29 tháng 9 | Nhà Trắng | Lệnh cấm nhập khẩu Canada có hiệu lực | Lệnh cấm nhập khẩu *đầu tiên* (không phải thuế quan) của chiến tranh thương mại | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| 30 tháng 9 | USTR | Tuyên bố Diễn đàn Toàn cầu về Dư thừa Công suất Thép | Vỏ bọc đa phương cho các hành động thép | Quét lần đầu |
+| 30 tháng 9 | USTR | Tuyên bố Diễn đàn Toàn cầu về Dư thừa Công suất Thép | Vỏ bọc đa phương cho các hành động thép | Báo chí thương mại |
 | 1–2 tháng 10 | USTR (Greer) | G20 Milwaukee: chỉ đồng thuận về cưỡng ép lương thực; mở tranh luận cải cách MFN | Kênh đa phương đình trệ; kênh đơn phương được khẳng định | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| 2 tháng 10 | USTR | Biện pháp khắc phục RRM lần thứ 14 — lốp xe Corporación de Occidente (Mexico) | Thực thi lao động USMCA tiếp tục | Quét lần đầu |
-| 2 tháng 10 | USTR | Đánh giá chung USMCA 2027: nhận ý kiến công chúng đến **12 tháng 1, 2027** | Đồng hồ năm đánh giá bắt đầu | Quét lần đầu |
+| 2 tháng 10 | USTR | Biện pháp khắc phục RRM lần thứ 14 — lốp xe Corporación de Occidente (Mexico) | Thực thi lao động USMCA tiếp tục | Báo chí thương mại |
+| 2 tháng 10 | USTR | Đánh giá chung USMCA 2027: nhận ý kiến công chúng đến **12 tháng 1, 2027** | Đồng hồ năm đánh giá bắt đầu | Báo chí thương mại |
 | 5 tháng 10 | Nhà Trắng/Quốc hội | Đếm ngược thực thi Đạo luật Graham (còn 13 ngày) | Thuế quan thứ cấp lên đến 100% đang chờ | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Phân tích.** Chính quyền đang vận hành ba đồng hồ cùng lúc: (1) đồng hồ *trừng phạt* — lệnh cấm Canada, thuế thứ cấp Đạo luật Graham, MIP polysilicon — tất cả được thiết kế để tối đa hóa đòn bẩy trước cuối năm; (2) đồng hồ *thể chế* — chuẩn bị đánh giá USMCA 2027, thủ tục Hội đồng Thương mại, tranh luận cải cách MFN — xây dựng bộ máy lâu dài; (3) đồng hồ *pháp lý* — chiến thắng de minimis của CIT so với thất bại thuế quan IEEPA tại Tòa án Tối cao, với 165 tỷ USD tiền hoàn thuế IEEPA nay chảy qua CAPE. Mô hình: ở những nơi tòa án siết chặt (thuế quan IEEPA), chính quyền đi đường vòng qua 232/338/301 và luật định (Đạo luật Graham). Các nhà nhập khẩu nên chuẩn bị cho *nhiều* biện pháp hơn theo các thẩm quyền *cũ* hơn, chứ không phải ít đi.
@@ -207,16 +207,16 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Công cụ phản ứng nhanh Pháp–Đức được đề xuất | Công cụ "phản ứng hệ thống"; ngưỡng kích hoạt thiểu số; lên đến cắt đứt thị trường ngay lập tức; công cụ đa dạng hóa song hành | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Thâm hụt EU–Trung Quốc | 359,9 tỷ EUR năm 2025; 103 tỷ EUR trong quý 2/2026 (cao nhất kể từ quý 3/2022); làn sóng nhập khẩu vào máy móc, dệt may, kim loại, hóa chất | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | Hội nghị thượng đỉnh lãnh đạo EU 15 tháng 10 | Hội nghị Brussels xem xét mất cân bằng Trung Quốc — phép thử đầu tiên của đề xuất Pháp–Đức | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| EU cân nhắc cắt giảm thuế công nghiệp | Có thể cắt giảm để tránh Trung Quốc trả đũa thép (theo báo cáo của Capitol Forum) | Quét lần đầu |
+| EU cân nhắc cắt giảm thuế công nghiệp | Có thể cắt giảm để tránh Trung Quốc trả đũa thép (theo báo cáo của Capitol Forum) | Báo chí thương mại |
 
 ### Canada
 
 | Diễn biến | Chi tiết | Nguồn |
 |---|---|---|
 | Thuế quan trả đũa có hiệu lực | 15%/25%/50% đối với 335 mặt hàng Mỹ từ 8 tháng 9; phạm vi 28 tỷ CAD; hàng đang vận chuyển được loại trừ | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| Gói hỗ trợ 7,5 tỷ CAD | Viện trợ trong nước cho các ngành bị ảnh hưởng | Quét lần đầu |
-| Đẩy mạnh đa dạng hóa | Chính phủ Carney xoay trục sang các thỏa thuận với châu Âu/Ấn Độ | Quét lần đầu |
-| 25 bang Mỹ kiện | Thách thức chế độ thuế quan; chưa có phán quyết | Quét lần đầu |
+| Gói hỗ trợ 7,5 tỷ CAD | Viện trợ trong nước cho các ngành bị ảnh hưởng | Báo chí thương mại |
+| Đẩy mạnh đa dạng hóa | Chính phủ Carney xoay trục sang các thỏa thuận với châu Âu/Ấn Độ | Báo chí thương mại |
+| 25 bang Mỹ kiện | Thách thức chế độ thuế quan; chưa có phán quyết | Báo chí thương mại |
 
 ### Trung Quốc (MOFCOM)
 
@@ -225,14 +225,14 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Điều tra chống bán phá giá: p-nitrotoluene EU | Mở ngày 3 tháng 10 (Thông báo số 44) — tín hiệu trả đũa | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | Cảnh báo cứng rắn về công cụ EU | Đe dọa trả đũa "cứng rắn" đối với bất kỳ công cụ phản ứng nhanh nào của EU | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Báo cáo 30-đổi-30 | Công bố danh sách 1.619 dòng; cam kết than (10 triệu tấn/năm 2027–28); xuất khẩu đất hiếm về mức bình thường | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| Báo cáo vòng tham vấn thứ 8 | Kênh song phương vẫn hoạt động | Quét lần đầu |
+| Báo cáo vòng tham vấn thứ 8 | Kênh song phương vẫn hoạt động | Báo chí thương mại |
 
 ### Các nơi khác trên thế giới
 
 | Quốc gia/khu vực | Diễn biến | Nguồn |
 |---|---|---|
 | Ấn Độ | Lệnh cấm nhập khẩu lao động cưỡng bức (sửa đổi FTP tháng 7) được nêu tại G20; xuất khẩu sang Mỹ +21,83% so với cùng kỳ năm ngoái trong tháng 8 bất chấp thuế 10% | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| Anh | Không phát hiện động thái chính sách thương mại lớn nào trong tuần | Quét lần đầu |
+| Anh | Không phát hiện động thái chính sách thương mại lớn nào trong tuần | Báo chí thương mại |
 | Mexico/Argentina | Tham gia tuyên bố lao động cưỡng bức của Mỹ tại G20 (tách khỏi văn bản chung thất bại) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. Hành động thực thi
@@ -243,7 +243,7 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Everlight dàn xếp 5,15 triệu USD | Everlight Americas tại Texas dàn xếp vụ kiện False Claims với cáo buộc khai LED Trung Quốc là xuất xứ Đài Loan để né Mục 301 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum ~550 triệu USD (tháng 5) | Né thuế nhôm định hình — dàn xếp gian lận thương mại lớn nhất gần đây | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Bản ghi nhớ gian lận của DOJ (13 tháng 8) | AAG Colin McDonald: gian lận thương mại/né thuế hải quan là ưu tiên hàng đầu; "thể chế hóa" thực thi False Claims | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| Xem trước trấn áp trung chuyển | Nhà Trắng nêu chi tiết các "kế hoạch trung chuyển bất hợp pháp quy mô lớn," xem trước thực thi điều khiển bằng AI | Quét lần đầu (JD Supra) |
+| Xem trước trấn áp trung chuyển | Nhà Trắng nêu chi tiết các "kế hoạch trung chuyển bất hợp pháp quy mô lớn," xem trước thực thi điều khiển bằng AI | Báo chí thương mại (JD Supra) |
 | Lớp thuế lao động cưỡng bức | Mục 301 10% đối với 60 nền kinh tế (gồm Ấn Độ, Canada) kể từ 24 tháng 7 — khác với thực thi thực thể UFLPA | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **Nhận định.** Thực thi đang chuyển từ đánh chặn ở cấp độ lô hàng sang hậu quả ở *bảng cân đối kế toán*: các dàn xếp False Claims nửa tỷ USD, phát hiện trung chuyển hỗ trợ bởi AI, và các lớp thuế quan trừng phạt toàn bộ nền kinh tế vì thực hành lao động. Gánh nặng tuân thủ đang dịch chuyển lên thượng nguồn — nhà nhập khẩu cần tài liệu xuất xứ ở cấp *nhà cung cấp của nhà cung cấp*, chứ không chỉ hóa đơn.
@@ -254,7 +254,7 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 |---|---|---|
 | Thương mại hàng hóa sơ bộ tháng 8 của Cục Điều tra Dân số Mỹ (30 tháng 9) | Thâm hụt 132,6 tỷ USD (+11,5% so với tháng trước); nhập khẩu 336,1 tỷ USD (+5,5%), xuất khẩu 203,4 tỷ USD (+1,9%); vật tư công nghiệp + hàng hóa vốn xây dựng AI thúc đẩy nhập khẩu | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | Song phương EU–Trung Quốc (Eurostat qua báo chí) | Thâm hụt hàng hóa EU 103 tỷ EUR trong quý 2/2026; 359,9 tỷ EUR năm 2025 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade / WITS / ITC / IMF | Không có đợt công bố lớn theo lịch trong tuần (chu kỳ hàng tháng) | Quét lần đầu |
+| UN Comtrade / WITS / ITC / IMF | Không có đợt công bố lớn theo lịch trong tuần (chu kỳ hàng tháng) | Báo chí thương mại |
 | Drewry Container Forecaster | Cân bằng cung–cầu sẽ suy yếu trong các quý tới; dự kiến giá giao ngay tiếp tục co lại | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (tuần trước) |
 
 ---
@@ -338,7 +338,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 Tàu chở dầu & hàng không (bối cảnh)
 
 - **Chỉ số Tàu chở dầu bẩn 5.444** (+0,22% tại giá chốt 29 tháng 9); **Chỉ số Tàu chở dầu sạch 2.293** (+3,01%) — tàu sạch vượt trội khi các tuyến sản phẩm định tuyến lại; vụ Houthi tấn công dầu mỏ Saudi ghi nhận ngày 4 tháng 10 nhưng giá dầu thô không tăng vọt. ([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **Hàng không**: Chỉ số Cước hàng không Baltic **+0,6% tuần kết thúc 28 tháng 9 (+22% so với cùng kỳ năm ngoái)**; sản lượng WorldACD **+8% so với cùng kỳ năm ngoái** (tuần 38) — vững dần vào mùa cao điểm; Xeneta dự báo mùa cao điểm *trầm lắng* với thương mại điện tử Trung Quốc–Mỹ **-34% so với cùng kỳ năm ngoái** do xóa bỏ de minimis. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) qua quét lần đầu)
+- **Hàng không**: Chỉ số Cước hàng không Baltic **+0,6% tuần kết thúc 28 tháng 9 (+22% so với cùng kỳ năm ngoái)**; sản lượng WorldACD **+8% so với cùng kỳ năm ngoái** (tuần 38) — vững dần vào mùa cao điểm; Xeneta dự báo mùa cao điểm *trầm lắng* với thương mại điện tử Trung Quốc–Mỹ **-34% so với cùng kỳ năm ngoái** do xóa bỏ de minimis. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) qua báo chí thương mại)
 
 ### 9.5 So sánh mức thuế quan (các biện pháp tiêu biểu, theo giá trị)
 
@@ -400,12 +400,12 @@ timeline
 
 | Ngày | Sự kiện | Vì sao quan trọng | Nguồn |
 |---|---|---|---|
-| 6 tháng 10, 2026 | CAPE Giai đoạn 3 triển khai | Tiền hoàn thuế IEEPA cho các tờ khai được thanh khoản lại | Quét lần đầu |
+| 6 tháng 10, 2026 | CAPE Giai đoạn 3 triển khai | Tiền hoàn thuế IEEPA cho các tờ khai được thanh khoản lại | Báo chí thương mại |
 | 15 tháng 10, 2026 | Hội nghị thượng đỉnh lãnh đạo EU, Brussels | Phép thử đầu tiên của công cụ phản ứng nhanh Pháp–Đức; mất cân bằng Trung Quốc | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 18 tháng 10, 2026 | **Hạn chót thực thi Đạo luật Graham** | Thuế quan thứ cấp lên đến 100% đối với các nhà mua năng lượng Nga | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| 9 tháng 11, 2026 | 178 trường hợp loại trừ Mục 301 hết hạn | Quyết định gia hạn hoặc hết hiệu lực | Quét lần đầu |
+| 9 tháng 11, 2026 | 178 trường hợp loại trừ Mục 301 hết hạn | Quyết định gia hạn hoặc hết hiệu lực | Báo chí thương mại |
 | 4 tháng 12, 2026 | MIP polysilicon + thuế 15% có hiệu lực | Cú sốc chi phí chuỗi cung ứng năng lượng mặt trời | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| 12 tháng 1, 2027 | Đánh giá chung USMCA 2027 — hạn nhận ý kiến công chúng | Định hình chương trình nghị sự năm đánh giá | Quét lần đầu |
+| 12 tháng 1, 2027 | Đánh giá chung USMCA 2027 — hạn nhận ý kiến công chúng | Định hình chương trình nghị sự năm đánh giá | Báo chí thương mại |
 | 9 tháng 2, 2027 | Thuế 25% linh kiện drone (Phụ lục III) | Đợt thuế drone thứ hai | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | Nửa đầu 2027 | Hoàn tất C.H. Robinson–RXO | 3PL hợp nhất trị giá 25 tỷ USD+ | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | Tháng 7/2027 | De minimis đóng cửa theo luật | Chấm dứt miễn trừ 800 USD theo đạo luật | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |

@@ -151,7 +151,7 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 
 ### 3.7 小额豁免维持死刑；IEEPA退税启动
 
-**发生了什么。** 国际贸易法院（8月13日，Detroit Axle案）维持了基于IEEPA取消800美元小额豁免的做法——裁定取消一项"特权"不等于加征关税，因此不受最高法院2月推翻IEEPA关税判决的影响。全球小额豁免已于2025年8月29日终结；国会立法版关闭将于2027年7月生效。另一方面，CBP的CAPE系统（4月20日上线）正在处理已征收的**约1,650亿美元IEEPA关税**，利息约每月6.5亿美元累积；**CAPE第三阶段10月6日部署**，处理重新清算条目的退税。([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), 第一轮扫描)
+**发生了什么。** 国际贸易法院（8月13日，Detroit Axle案）维持了基于IEEPA取消800美元小额豁免的做法——裁定取消一项"特权"不等于加征关税，因此不受最高法院2月推翻IEEPA关税判决的影响。全球小额豁免已于2025年8月29日终结；国会立法版关闭将于2027年7月生效。另一方面，CBP的CAPE系统（4月20日上线）正在处理已征收的**约1,650亿美元IEEPA关税**，利息约每月6.5亿美元累积；**CAPE第三阶段10月6日部署**，处理重新清算条目的退税。([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), 贸易媒体)
 
 ---
 
@@ -175,7 +175,7 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 | 药品（专利药） | 232条款 | 按HTSUS 9903.04.60–70 | 9月28日更新指引 | CBP已发布申报指引 | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | 印度（一般） | 301条款强迫劳动 | 10% | 2026年7月24日 | 生效中 | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | 16个经济体（含印度） | 301条款过剩产能调查 | n/a | 调查进行中 | USTR承诺"数周内"采取行动 | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178项产品豁免 | 301条款豁免 | 豁免 | 至2026年11月9日 | 即将到期 | 第一轮扫描 |
+| 178项产品豁免 | 301条款豁免 | 豁免 | 至2026年11月9日 | 即将到期 | 贸易媒体 |
 | 欧盟（提案） | "系统性反应"工具 | 最高市场切断 | 10月5日提案；10月15日峰会 | 尚未立法 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 
 ---
@@ -190,10 +190,10 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 | 9月29日 | CBP | FY2027配额公告：AGOA服装、原蔗糖 | 配额年度规划 | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | 9月29日 | CBP | 两份强迫劳动暂扣令（印尼棕榈油） | 现行有效暂扣令60份＋调查结果8份 | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | 9月29日 | 白宫 | 加拿大进口禁令生效 | 贸易战中首次美国进口*禁令*（非关税） | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| 9月30日 | USTR | 全球钢铁过剩产能论坛声明 | 为钢铁行动披多边外衣 | 第一轮扫描 |
+| 9月30日 | USTR | 全球钢铁过剩产能论坛声明 | 为钢铁行动披多边外衣 | 贸易媒体 |
 | 10月1－2日 | USTR (Greer) | G20密尔沃基：仅粮食胁迫达成共识；抛出最惠国改革辩论 | 多边轨道停滞；单边轨道获确认 | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| 10月2日 | USTR | 第14次快速反应机制整改——Corporación de Occidente轮胎（墨西哥） | USMCA劳工执法继续 | 第一轮扫描 |
-| 10月2日 | USTR | 2027年USMCA联合审查：公众意见截止**2027年1月12日** | 审查年时钟启动 | 第一轮扫描 |
+| 10月2日 | USTR | 第14次快速反应机制整改——Corporación de Occidente轮胎（墨西哥） | USMCA劳工执法继续 | 贸易媒体 |
+| 10月2日 | USTR | 2027年USMCA联合审查：公众意见截止**2027年1月12日** | 审查年时钟启动 | 贸易媒体 |
 | 10月5日 | 白宫/国会 | 《格雷厄姆法案》实施倒计时（剩13天） | 最高100%次级关税待定 | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **分析。** 本届政府同时拨动三个时钟：（1）*惩罚*时钟——加拿大禁令、《格雷厄姆法案》次级关税、多晶硅最低限价——都为在年底前最大化筹码；（2）*建制*时钟——USMCA 2027年审查筹备、贸易委员会程序、最惠国改革辩论——在搭建永久机器；（3）*法律*时钟——国际贸易法院维持小额豁免死刑 vs 最高法院推翻IEEPA关税，1,650亿美元IEEPA关税正经CAPE退税。规律：在法院受限处（IEEPA关税），政府绕道232/338/301和成文法（《格雷厄姆法案》）。进口商应为*更多*措施做准备，走的是*更老*的法律授权，而不是更少。
@@ -207,16 +207,16 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 | 法德快速反应工具提案 | "系统性反应"工具；少数成员国可触发；最高立即切断市场准入；配套多元化工具 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 欧盟对华逆差 | 2025年3,599亿欧元；2026年二季度1,030亿欧元（2022年三季度以来最高）；进口冲击蔓延至机械、纺织、金属、化工 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | 10月15日欧盟领导人峰会 | 布鲁塞尔峰会讨论对华失衡——法德提案的首次考验 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| 欧盟考虑下调工业关税 | 或为避免中国钢铁报复而下调（据Capitol Forum报道） | 第一轮扫描 |
+| 欧盟考虑下调工业关税 | 或为避免中国钢铁报复而下调（据Capitol Forum报道） | 贸易媒体 |
 
 ### 加拿大
 
 | 动态 | 详情 | 来源 |
 |---|---|---|
 | 反制关税生效 | 9月8日起对335项美国商品加征15%/25%/50%；覆盖280亿加元；在途货物豁免 | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| 75亿加元支持计划 | 援助受影响产业的国内方案 | 第一轮扫描 |
-| 多元化转向 | Carney政府转向欧洲/印度协议 | 第一轮扫描 |
-| 美国25州起诉 | 挑战关税机制；尚无裁决 | 第一轮扫描 |
+| 75亿加元支持计划 | 援助受影响产业的国内方案 | 贸易媒体 |
+| 多元化转向 | Carney政府转向欧洲/印度协议 | 贸易媒体 |
+| 美国25州起诉 | 挑战关税机制；尚无裁决 | 贸易媒体 |
 
 ### 中国（商务部）
 
@@ -225,14 +225,14 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 | 对欧盟对硝基甲苯反倾销调查 | 10月3日立案（第44号公告）——报复信号 | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | 就欧盟工具发出强硬警告 | 对任何快速反应工具威胁"坚决"报复 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | "30换30"清单解读 | 公布1,619个税号清单；煤炭承诺（2027－28年每年1,000万吨）；稀土发货量恢复正常 | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| 第八轮磋商纪要 | 双边渠道仍在运转 | 第一轮扫描 |
+| 第八轮磋商纪要 | 双边渠道仍在运转 | 贸易媒体 |
 
 ### 世界其他地区
 
 | 国家/地区 | 动态 | 来源 |
 |---|---|---|
 | 印度 | 7月外贸政策修订中的强迫劳动进口禁令在G20提出；尽管有10%关税，8月对美出口同比+21.83% | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 英国 | 本周未发现重大贸易政策动作 | 第一轮扫描 |
+| 英国 | 本周未发现重大贸易政策动作 | 贸易媒体 |
 | 墨西哥/阿根廷 | 在G20加入美国强迫劳动声明（独立于失败的联合文本） | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. 执法行动
@@ -243,7 +243,7 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 | Everlight 515万美元和解 | 德州Everlight Americas就《虚假申报法》诉讼和解，被指将中国LED申报为台湾原产以规避301关税 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum约5.5亿美元（5月） | 铝挤压材关税规避——近年最大贸易欺诈和解 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | 司法部欺诈备忘录（8月13日） | 助理部长Colin McDonald：贸易欺诈/海关规避为头号重点；"制度化"《虚假申报法》执法 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| 转运打击预告 | 白宫详述"大规模非法转运行为"，预告AI驱动执法 | 第一轮扫描（JD Supra） |
+| 转运打击预告 | 白宫详述"大规模非法转运行为"，预告AI驱动执法 | 贸易媒体（JD Supra） |
 | 强迫劳动关税层 | 301条款10%覆盖60个经济体（含印度、加拿大），自7月24日——区别于UFLPA实体执法 | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **解读。** 执法正从单票货物拦截转向*资产负债表*后果：数亿美元的《虚假申报法》和解、AI辅助的转运行为侦测、对整个经济体因劳工问题加征关税层。合规负担向上游迁移——进口商需要的原产地文件要到*供应商的供应商*层级，而不只是发票。
@@ -254,7 +254,7 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 |---|---|---|
 | 美国人口普查局8月预估货物贸易（9月30日） | 逆差1,326亿美元（环比+11.5%）；进口3,361亿美元（+5.5%），出口2,034亿美元（+1.9%）；工业用品＋AI资本品拉动进口 | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | 欧盟对华双边（欧统局，经媒体） | 2026年二季度欧盟货物逆差1,030亿欧元；2025年3,599亿欧元 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade / WITS / ITC / IMF | 本周无重大例行发布（月度周期） | 第一轮扫描 |
+| UN Comtrade / WITS / ITC / IMF | 本周无重大例行发布（月度周期） | 贸易媒体 |
 | Drewry集装箱预测 | 未来几季度供需平衡走弱；预计现货运价进一步收缩 | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm)（上周） |
 
 ---
@@ -338,7 +338,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 油轮与空运（背景）
 
 - **脏油轮指数5,444**（9月29日定盘+0.22%）；**成品油轮指数2,293**（+3.01%）——成品油因改道跑赢；10月4日胡塞袭击沙特石油设施，但原油未大涨。([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **空运**：波罗的海空运指数**周环比+0.6%（同比+22%）**，截至9月28日当周；WorldACD货量**同比+8%**（第38周）——旺季前走强；Xeneta认为旺季*偏弱*，中国—美国电商**同比-34%**，受小额豁免取消拖累。([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) via 第一轮扫描)
+- **空运**：波罗的海空运指数**周环比+0.6%（同比+22%）**，截至9月28日当周；WorldACD货量**同比+8%**（第38周）——旺季前走强；Xeneta认为旺季*偏弱*，中国—美国电商**同比-34%**，受小额豁免取消拖累。([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) via 贸易媒体)
 
 ### 9.5 关税税率对比（部分措施，从价税）
 
@@ -400,12 +400,12 @@ timeline
 
 | 日期 | 事件 | 意义 | 来源 |
 |---|---|---|---|
-| 2026年10月6日 | CAPE第三阶段部署 | IEEPA关税重新清算条目的退税 | 第一轮扫描 |
+| 2026年10月6日 | CAPE第三阶段部署 | IEEPA关税重新清算条目的退税 | 贸易媒体 |
 | 2026年10月15日 | 欧盟领导人峰会，布鲁塞尔 | 法德快速反应工具的首次考验；对华失衡 | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 2026年10月18日 | **《格雷厄姆法案》实施截止日** | 对俄罗斯能源买家最高100%次级关税 | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| 2026年11月9日 | 178项301条款豁免到期 | 续期或失效决定 | 第一轮扫描 |
+| 2026年11月9日 | 178项301条款豁免到期 | 续期或失效决定 | 贸易媒体 |
 | 2026年12月4日 | 多晶硅最低限价＋15%关税生效 | 光伏供应链成本冲击 | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| 2027年1月12日 | USMCA 2027年联合审查——公众意见截止 | 审查年议程设定 | 第一轮扫描 |
+| 2027年1月12日 | USMCA 2027年联合审查——公众意见截止 | 审查年议程设定 | 贸易媒体 |
 | 2027年2月9日 | 无人机部件（附件三）25%关税 | 第二波无人机关税 | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | 2027年上半年 | C.H. Robinson—RXO交割 | 250亿美元＋合并3PL | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | 2027年7月 | 小额豁免立法版关闭 | 800美元豁免依法终结 | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |

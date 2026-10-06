@@ -150,7 +150,7 @@ Pada 3 Oktober, MOFCOM (Pengumuman No. 44) membuka **penyelidikan anti-dumping a
 
 ### 3.7 De minimis tetap mati; pengembalian dana IEEPA mengalir
 
-**Yang terjadi.** Pengadilan Perdagangan Internasional (13 Agustus, kasus Detroit Axle) menegakkan pencabutan berbasis IEEPA atas pengecualian de minimis $800 — memutuskan bahwa mencabut "hak istimewa" bukanlah mengenakan tarif, sehingga selamat dari putusan Mahkamah Agung Februari yang membatalkan tarif IEEPA. De minimis global berakhir 29 Agustus 2025; penutupan oleh Kongres sendiri berlaku Juli 2027. Terpisah, sistem CAPE milik CBP (aktif sejak 20 April) memproses **~$165B bea IEEPA** yang terkumpul, dengan bunga bertambah ~$650 juta/bulan; **CAPE Fase 3 dikerahkan 6 Oktober** untuk menangani pengembalian atas entri yang dilikuidasi ulang. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), pemindaian awal)
+**Yang terjadi.** Pengadilan Perdagangan Internasional (13 Agustus, kasus Detroit Axle) menegakkan pencabutan berbasis IEEPA atas pengecualian de minimis $800 — memutuskan bahwa mencabut "hak istimewa" bukanlah mengenakan tarif, sehingga selamat dari putusan Mahkamah Agung Februari yang membatalkan tarif IEEPA. De minimis global berakhir 29 Agustus 2025; penutupan oleh Kongres sendiri berlaku Juli 2027. Terpisah, sistem CAPE milik CBP (aktif sejak 20 April) memproses **~$165B bea IEEPA** yang terkumpul, dengan bunga bertambah ~$650 juta/bulan; **CAPE Fase 3 dikerahkan 6 Oktober** untuk menangani pengembalian atas entri yang dilikuidasi ulang. ([reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/), [openclassactions.com](https://openclassactions.com/tariff-class-actions.php), media perdagangan)
 
 ---
 
@@ -174,7 +174,7 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | Farmasi (berpaten) | Pasal 232 | Per HTSUS 9903.04.60–70 | Panduan diperbarui 28 September | Panduan entri CBP diterbitkan | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | India (umum) | Pasal 301 kerja paksa | 10% | 24 Juli 2026 | Berlaku | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 | 16 ekonomi termasuk India | Penyelidikan 301 kelebihan kapasitas | n/a | Penyelidikan berjalan | Aksi USTR dijanjikan "dalam beberapa pekan" | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| 178 pengecualian produk | Pengecualian Pasal 301 | Dikecualikan | Hingga 9 November 2026 | Kedaluwarsa | Pemindaian awal |
+| 178 pengecualian produk | Pengecualian Pasal 301 | Dikecualikan | Hingga 9 November 2026 | Kedaluwarsa | Media perdagangan |
 | UE (diusulkan) | Instrumen "reaksi sistemik" | Hingga pemutusan pasar | Usulan 5 Oktober; KTT 15 Oktober | Belum menjadi hukum | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 ---
 
@@ -188,10 +188,10 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | 29 September | CBP | Buletin TRQ FY2027: pakaian AGOA, gula tebu mentah | Perencanaan tahun kuota | [ghy.com](https://www.ghy.com/trade-compliance/category/international-trade-issues/) |
 | 29 September | CBP | Dua WRO kerja paksa (minyak sawit Indonesia) | Kini 60 WRO + 8 Temuan aktif | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-cbp-wros-indonesian-palm-oil.html) |
 | 29 September | Gedung Putih | Larangan impor Kanada berlaku | Larangan impor AS *pertama* (bukan tarif) dalam perang dagang | [asrwe.com](https://asrwe.com/asr-university/us-canada-import-ban-alcohol-motorcycles-section-338-expansion-september-2026) |
-| 30 September | USTR | Pernyataan Forum Global Kelebihan Kapasitas Baja | Payung multilateral bagi aksi baja | Pemindaian awal |
+| 30 September | USTR | Pernyataan Forum Global Kelebihan Kapasitas Baja | Payung multilateral bagi aksi baja | Media perdagangan |
 | 1–2 Oktober | USTR (Greer) | G20 Milwaukee: hanya konsensus pemaksaan pangan; debat reformasi MFN dibuka | Jalur multilateral macet; jalur unilateral ditegaskan | [reuters.com](https://www.reuters.com/world/china/g20-trade-chiefs-denounce-food-trade-coercion-not-excess-factory-capacity-2026-10-01/) |
-| 2 Oktober | USTR | Remediasi RRM ke-14 — ban Corporación de Occidente (Meksiko) | Penegakan ketenagakerjaan USMCA berlanjut | Pemindaian awal |
-| 2 Oktober | USTR | Tinjauan bersama USMCA 2027: komentar publik jatuh tempo **12 Januari 2027** | Jam tinjauan dimulai | Pemindaian awal |
+| 2 Oktober | USTR | Remediasi RRM ke-14 — ban Corporación de Occidente (Meksiko) | Penegakan ketenagakerjaan USMCA berlanjut | Media perdagangan |
+| 2 Oktober | USTR | Tinjauan bersama USMCA 2027: komentar publik jatuh tempo **12 Januari 2027** | Jam tinjauan dimulai | Media perdagangan |
 | 5 Oktober | Gedung Putih/Kongres | Hitung mundur implementasi Graham Act (13 hari tersisa) | Tarif sekunder hingga 100% tertunda | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Analisis.** Pemerintahan menjalankan tiga jam sekaligus: (1) jam *punitif* — larangan Kanada, tarif sekunder Graham Act, MIP polisilikon — semuanya dirancang memaksimalkan daya ungkit sebelum akhir tahun; (2) jam *kelembagaan* — persiapan tinjauan USMCA 2027, prosedur Dewan Dagang, debat reformasi MFN — membangun mesin permanen; (3) jam *hukum* — kemenangan de minimis CIT vs kekalahan tarif IEEPA di Mahkamah Agung, dengan $165 miliar pengembalian IEEPA kini mengalir melalui CAPE. Polanya: di mana pengadilan membatasi (tarif IEEPA), pemerintahan memutar via 232/338/301 dan undang-undang (Graham Act). Importir sebaiknya merencanakan *lebih banyak* tindakan di bawah kewenangan *lama*, bukan lebih sedikit.
@@ -205,16 +205,16 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | Instrumen respons cepat Prancis-Jerman diusulkan | Instrumen "reaksi sistemik"; pemicu minoritas; hingga pemutusan pasar langsung; instrumen diversifikasi menyertai | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Defisit UE–Tiongkok | €359.9B pada 2025; €103B pada Q2 2026 (tertinggi sejak Q3 2022); lonjakan impor mesin, tekstil, logam, bahan kimia | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
 | KTT pemimpin UE 15 Oktober | KTT Brussels membahas ketidakseimbangan Tiongkok — ujian pertama usulan Prancis-Jerman | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
-| UE menimbang pemotongan tarif industri | Kemungkinan pemotongan untuk menghindari retaliasi baja Tiongkok (menurut pelaporan Capitol Forum) | Pemindaian awal |
+| UE menimbang pemotongan tarif industri | Kemungkinan pemotongan untuk menghindari retaliasi baja Tiongkok (menurut pelaporan Capitol Forum) | Media perdagangan |
 
 ### Kanada
 
 | Perkembangan | Detail | Sumber |
 |---|---|---|
 | Tarif balasan berlaku | 15%/25%/50% atas 335 barang AS sejak 8 September; cakupan C$28 miliar; barang dalam perjalanan dikecualikan | [surtaxscan.com](https://surtaxscan.com/news/canadas-counter-tariffs-are-back-15-25-and-50-on-335-us-tariff-items-from) |
-| Paket dukungan C$7.5B | Bantuan domestik bagi industri terdampak | Pemindaian awal |
-| Dorongan diversifikasi | Pemerintahan Carney beralih ke kesepakatan Eropa/India | Pemindaian awal |
-| 25 negara bagian AS menggugat | Gugatan terhadap rezim tarif; belum ada putusan | Pemindaian awal |
+| Paket dukungan C$7.5B | Bantuan domestik bagi industri terdampak | Media perdagangan |
+| Dorongan diversifikasi | Pemerintahan Carney beralih ke kesepakatan Eropa/India | Media perdagangan |
+| 25 negara bagian AS menggugat | Gugatan terhadap rezim tarif; belum ada putusan | Media perdagangan |
 
 ### Tiongkok (MOFCOM)
 
@@ -223,14 +223,14 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | Penyelidikan anti-dumping: p-nitrotoluena UE | Dibuka 3 Oktober (Pengumuman No. 44) — sinyal balasan | [vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f) |
 | Peringatan keras soal instrumen UE | Retaliasi "tegas" diancam terhadap instrumen respons cepat mana pun | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | Hasil 30-untuk-30 | Daftar 1.619 pos terbit; komitmen batu bara (10 juta MT/tahun 2027–28); pengiriman tanah jarang dinormalisasi | [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html) |
-| Putaran konsultasi ke-8 | Kanal bilateral masih berfungsi | Pemindaian awal |
+| Putaran konsultasi ke-8 | Kanal bilateral masih berfungsi | Media perdagangan |
 
 ### Seluruh dunia lainnya
 
 | Negara/kawasan | Perkembangan | Sumber |
 |---|---|---|
 | India | Larangan impor kerja paksa (amendemen FTP Juli) diangkat di G20; ekspor ke AS +21.83% YoY pada Agustus meski tarif 10% | [beatsinbrief.com](https://beatsinbrief.com/2026/10/03/milwaukee-g20-trade-ministers-piyush-goyal-india-positions/), [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
-| Inggris | Tak ada langkah kebijakan dagang besar terpantau pekan ini | Pemindaian awal |
+| Inggris | Tak ada langkah kebijakan dagang besar terpantau pekan ini | Media perdagangan |
 | Meksiko/Argentina | Bergabung dalam deklarasi kerja paksa AS di G20 (terpisah dari teks bersama yang gagal) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
 ## 7. Tindakan penegakan
@@ -241,7 +241,7 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | Penyelesaian Everlight $5.15M | Everlight Americas yang berbasis di Texas menyelesaikan gugatan False Claims yang menuduh LED Tiongkok dinyatakan sebagai asal Taiwan untuk menghindari Pasal 301 | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Perfectus Aluminum ~$550M (Mei) | Penghindaran bea ekstrusi aluminium — penyelesaian penipuan dagang terbesar belakangan ini | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
 | Memo penipuan DOJ (13 Agustus) | AAG Colin McDonald: penipuan dagang/penghindaran pabean prioritas utama; "melembagakan" penegakan False Claims | [news.bloomberglaw.com](https://news.bloomberglaw.com/federal-contracting/tariff-dodging-settlements-underscore-doj-focus-on-trade-fraud) |
-| Pratinjau penindakan transshipment | Gedung Putih merinci "skema transshipment ilegal besar-besaran," pratinjau penegakan berbasis AI | Pemindaian awal (JD Supra) |
+| Pratinjau penindakan transshipment | Gedung Putih merinci "skema transshipment ilegal besar-besaran," pratinjau penegakan berbasis AI | Media perdagangan (JD Supra) |
 | Lapisan tarif kerja paksa | Pasal 301 10% atas 60 ekonomi (termasuk India, Kanada) sejak 24 Juli — berbeda dari penegakan entitas UFLPA | [thefinancialeconomy.com](https://www.thefinancialeconomy.com/india-us-trade-talks/) |
 
 **Pembacaan.** Penegakan bergeser dari interdiksi tingkat pengiriman ke konsekuensi *neraca*: penyelesaian False Claims setengah miliar dolar, deteksi transshipment berbantuan AI, dan lapisan tarif yang menghukum seluruh ekonomi atas praktik ketenagakerjaan. Beban kepatuhan bermigrasi ke hulu — importir memerlukan dokumentasi asal hingga tingkat *pemasok dari pemasok*, bukan sekadar faktur.
@@ -252,7 +252,7 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 |---|---|---|
 | Perdagangan barang pendahuluan Biro Sensus AS, Agustus (30 September) | Defisit $132.6B (+11.5% b/b); impor $336.1B (+5.5%), ekspor $203.4B (+1.9%); pasokan industri + barang modal AI mendorong impor | [reuters.com](https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-august-2026-09-30/) |
 | Bilateral UE–Tiongkok (Eurostat via pers) | Defisit barang UE €103B pada Q2 2026; €359.9B pada 2025 | [brusselsmorning.com](https://brusselsmorning.com/eu-china-trade-tensions/104764/) |
-| UN Comtrade / WITS / ITC / IMF | Tak ada rilis terjadwal besar pekan ini (siklus bulanan) | Pemindaian awal |
+| UN Comtrade / WITS / ITC / IMF | Tak ada rilis terjadwal besar pekan ini (siklus bulanan) | Media perdagangan |
 | Drewry Container Forecaster | Keseimbangan pasokan-permintaan melemah pada kuartal mendatang; kontraksi tarif spot lanjutan diperkirakan | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (pekan sebelumnya) |
 ---
 
@@ -335,7 +335,7 @@ BDI (comp)  -8.1%  ████████████████████�
 ### 9.4 Tanker & udara (konteks)
 
 - **Indeks Tanker Kotor 5,444** (+0.22% pada penetapan 29 September); **Indeks Tanker Bersih 2,293** (+3.01%) — tanker bersih mengungguli seiring perubahan rute produk; serangan Houthi atas minyak Saudi dicatat 4 Oktober tetapi minyak mentah tidak melonjak. ([geopoliticsunplugged.substack.com](https://geopoliticsunplugged.substack.com/p/houthis-strike-at-saudi-oil-as-the))
-- **Kargo udara**: Indeks Angkutan Udara Baltic **+0.6% pekan berakhir 28 September (+22% YoY)**; tonase WorldACD **+8% YoY** (pekan 38) — menguat menuju puncak; Xeneta melihat puncak yang *lesu* dengan e-commerce Tiongkok–AS **-34% YoY** akibat eliminasi de minimis. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) via pemindaian awal)
+- **Kargo udara**: Indeks Angkutan Udara Baltic **+0.6% pekan berakhir 28 September (+22% YoY)**; tonase WorldACD **+8% YoY** (pekan 38) — menguat menuju puncak; Xeneta melihat puncak yang *lesu* dengan e-commerce Tiongkok–AS **-34% YoY** akibat eliminasi de minimis. ([metro.global](https://www.metro.global/2026/09/30/airfreight-market-strengthens-as-peak-season-nears/) via media perdagangan)
 
 ### 9.5 Perbandingan tarif (tindakan terpilih, ad valorem)
 
@@ -397,12 +397,12 @@ timeline
 
 | Tanggal | Agenda | Mengapa penting | Sumber |
 |---|---|---|---|
-| 6 Oktober 2026 | CAPE Fase 3 dikerahkan | Pengembalian bea IEEPA atas entri yang dilikuidasi ulang | Pemindaian awal |
+| 6 Oktober 2026 | CAPE Fase 3 dikerahkan | Pengembalian bea IEEPA atas entri yang dilikuidasi ulang | Media perdagangan |
 | 15 Oktober 2026 | KTT pemimpin UE, Brussels | Ujian pertama instrumen respons cepat Prancis-Jerman; ketidakseimbangan Tiongkok | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 | 18 Oktober 2026 | **Tenggat implementasi Graham Act** | Tarif sekunder hingga 100% atas pembeli energi Rusia | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
-| 9 November 2026 | 178 pengecualian Pasal 301 kedaluwarsa | Keputusan perpanjangan atau berakhir | Pemindaian awal |
+| 9 November 2026 | 178 pengecualian Pasal 301 kedaluwarsa | Keputusan perpanjangan atau berakhir | Media perdagangan |
 | 4 Desember 2026 | MIP polisilikon + tarif 15% berlaku | Guncangan biaya rantai pasok surya | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
-| 12 Januari 2027 | Tinjauan bersama USMCA 2027 — komentar publik jatuh tempo | Penetapan agenda tahun tinjauan | Pemindaian awal |
+| 12 Januari 2027 | Tinjauan bersama USMCA 2027 — komentar publik jatuh tempo | Penetapan agenda tahun tinjauan | Media perdagangan |
 | 9 Februari 2027 | Tarif 25% komponen drone (Lampiran III) | Gelombang kedua bea drone | [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/) |
 | H1 2027 | Penutupan C.H. Robinson–RXO | 3PL gabungan $25B+ | [reuters.com](https://www.reuters.com/business/ch-robinson-buy-freight-broker-rxo-58-billion-2026-10-05/) |
 | Juli 2027 | De minimis ditutup secara legislatif | Berakhirnya pengecualian $800 menurut undang-undang | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |
