@@ -12,18 +12,18 @@ draft: false
 
 ## Índice
 
-1. [Resumen ejecutivo](#1-executive-summary)
-2. [Alertas](#2-alerts)
-3. [Historias destacadas — análisis a fondo](#3-top-stories--deep-dives)
-4. [Rastreador de aranceles](#4-tariff-tracker)
-5. [Análisis a fondo de la política estadounidense](#5-us-policy-deep-dive)
-6. [Política mundial por región](#6-world-policy-by-region)
-7. [Medidas de aplicación](#7-enforcement-actions)
-8. [Publicaciones de datos](#8-data-releases)
-9. [Mercado de fletes](#9-freight-market)
-10. [Cronogramas de políticas](#10-policy-timelines)
-11. [Próximos plazos y eventos (próximos 90 días)](#11-upcoming-deadlines--events-next-90-days)
-12. [Fuentes y metodología](#12-sources--methodology)
+1. [Resumen ejecutivo](#1-resumen-ejecutivo)
+2. [Alertas](#2-alertas)
+3. [Historias destacadas — análisis a fondo](#3-historias-destacadas--análisis-a-fondo)
+4. [Rastreador de aranceles](#4-rastreador-de-aranceles)
+5. [Análisis a fondo de la política estadounidense](#5-análisis-a-fondo-de-la-política-estadounidense)
+6. [Política mundial por región](#6-política-mundial-por-región)
+7. [Medidas de aplicación](#7-medidas-de-aplicación)
+8. [Publicaciones de datos](#8-publicaciones-de-datos)
+9. [Mercado de fletes](#9-mercado-de-fletes)
+10. [Cronogramas de políticas](#10-cronogramas-de-políticas)
+11. [Próximos plazos y eventos (próximos 90 días)](#11-próximos-plazos-y-eventos-próximos-90-días)
+12. [Fuentes y metodología](#12-fuentes-y-metodología)
 
 ---
 

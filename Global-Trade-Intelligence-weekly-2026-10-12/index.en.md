@@ -504,7 +504,7 @@ timeline
 
 Coverage window: October 5–12, 2026.
 
-**Trade news & analysis:** FreightWaves, The Loadstar, Splash247, gCaptain, Hellenic Shipping News, Container News, Supply Chain Dive, Logistics Management, Air Cargo News, Port Technology International, JOC (headlines only), Freightmate/Sea Intelligence/I LA Industry Insights via trade press, TradeInt public announcements via press coverage.
+**Trade news & analysis:** FreightWaves, The Loadstar, Splash247, gCaptain, Hellenic Shipping News, Container News, Supply Chain Dive, Logistics Management, Air Cargo News, Port Technology International, JOC (headlines only), Freightmate/Sea Intelligence/ILA Industry Insights via trade press, TradeInt public announcements via press coverage.
 
 **US policy:** whitehouse.gov fact sheets, cbp.gov (via trade advisories), ustr.gov press releases, federalregister.gov (AD/CVD notices, Section 301 review), bis.doc.gov (via KPMG/JD Supra analysis), internationaltradetoday.com (headlines), JD Supra law-firm analysis, Thompson Hine, GHY International, Withum, Akin Gump, Bell Nunnally, Mondaq, KPMG Tax News Flash, Digital Policy Alert.
 

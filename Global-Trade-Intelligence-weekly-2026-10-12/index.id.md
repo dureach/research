@@ -12,18 +12,18 @@ draft: false
 
 ## Daftar isi
 
-1. [Ringkasan eksekutif](#1-executive-summary)
-2. [Peringatan](#2-alerts)
-3. [Berita utama — ulasan mendalam](#3-top-stories--deep-dives)
-4. [Pelacak tarif](#4-tariff-tracker)
-5. [Ulasan mendalam kebijakan AS](#5-us-policy-deep-dive)
-6. [Kebijakan dunia per kawasan](#6-world-policy-by-region)
-7. [Tindakan penegakan](#7-enforcement-actions)
-8. [Rilis data](#8-data-releases)
-9. [Pasar angkutan](#9-freight-market)
-10. [Linimasa kebijakan](#10-policy-timelines)
-11. [Batas waktu dan agenda mendatang (90 hari ke depan)](#11-upcoming-deadlines--events-next-90-days)
-12. [Sumber & metodologi](#12-sources--methodology)
+1. [Ringkasan eksekutif](#1-ringkasan-eksekutif)
+2. [Peringatan](#2-peringatan)
+3. [Berita utama — ulasan mendalam](#3-berita-utama--ulasan-mendalam)
+4. [Pelacak tarif](#4-pelacak-tarif)
+5. [Ulasan mendalam kebijakan AS](#5-ulasan-mendalam-kebijakan-as)
+6. [Kebijakan dunia per kawasan](#6-kebijakan-dunia-per-kawasan)
+7. [Tindakan penegakan](#7-tindakan-penegakan)
+8. [Rilis data](#8-rilis-data)
+9. [Pasar angkutan](#9-pasar-angkutan)
+10. [Linimasa kebijakan](#10-linimasa-kebijakan)
+11. [Batas waktu dan agenda mendatang (90 hari ke depan)](#11-batas-waktu-dan-agenda-mendatang-90-hari-ke-depan)
+12. [Sumber & metodologi](#12-sumber--metodologi)
 
 ---
 
@@ -341,7 +341,7 @@ Beban tarif per rumah tangga AS, 2026 (estimasi think-tank)
 
 ### Tarif spot kontainer — Drewry World Container Index
 
-Drewry World Container Index menutup penilaian Kamis **8 Oktober** pada **$4.351 per kontainer 40 kaki, turun 2% week-on-week** — dikaitkan dengan melemahnya permintaan pada perdagangan Transpasifik dan Asia–Eropa selama Pekan Emas Tiongkok. Penilaian sebelumnya (1 Oktober) ditutup pada $4.434, turun 1%. Kepala analis Xeneta Peter Sand mengatakan 1 Oktober menandai puncak pasca-krisis Hormuz: spot Timur Jauh–Pantai Barat AS mencapai $8.346/FEU, Pantai Timur $11.523/FEU — lebih dari empat kali level pra-krisis 28 Februari. Tarif Asia–Eropa kini turun selama **13 pekan berturut-turut**; Drewry mengidentifikasi kembalinya ke Suez yang lebih cepat dari perkiraan sebagai ancaman utama atas upaya operator mendukung tarif. Drewry memperkirakan tarif tetap stabil pada pekan mendatang, mencatat upaya operator menaikkan tarif FAK Asia–Eropa pada paruh kedua Oktober dan kemungkinan pemulihan ke AS setelah liburan di bawah gencatan senjata AS–Tiongkok yang diperpanjang.
+Drewry World Container Index menutup penilaian Kamis **8 Oktober** pada **$4.351 per kontainer 40 kaki, turun 2% dibandingkan pekan sebelumnya** — dikaitkan dengan melemahnya permintaan pada perdagangan Transpasifik dan Asia–Eropa selama Pekan Emas Tiongkok. Penilaian sebelumnya (1 Oktober) ditutup pada $4.434, turun 1%. Kepala analis Xeneta Peter Sand mengatakan 1 Oktober menandai puncak pasca-krisis Hormuz: spot Timur Jauh–Pantai Barat AS mencapai $8.346/FEU, Pantai Timur $11.523/FEU — lebih dari empat kali level pra-krisis 28 Februari. Tarif Asia–Eropa kini turun selama **13 pekan berturut-turut**; Drewry mengidentifikasi kembalinya ke Suez yang lebih cepat dari perkiraan sebagai ancaman utama atas upaya operator mendukung tarif. Drewry memperkirakan tarif tetap stabil pada pekan mendatang, mencatat upaya operator menaikkan tarif FAK Asia–Eropa pada paruh kedua Oktober dan kemungkinan pemulihan ke AS setelah liburan di bawah gencatan senjata AS–Tiongkok yang diperpanjang.
 
 | Rute (40 kaki) | 8 Okt 2026 | Perubahan w/w | Sumber |
 |---|---|---|---|
@@ -504,7 +504,7 @@ timeline
 
 Cakupan: 5–12 Oktober 2026.
 
-**Berita & analisis dagang:** FreightWaves, The Loadstar, Splash247, gCaptain, Hellenic Shipping News, Container News, Supply Chain Dive, Logistics Management, Air Cargo News, Port Technology International, JOC (hanya tajuk), Freightmate/Sea Intelligence/I LA Industry Insights via pers dagang, pengumuman publik TradeInt via liputan pers.
+**Berita & analisis dagang:** FreightWaves, The Loadstar, Splash247, gCaptain, Hellenic Shipping News, Container News, Supply Chain Dive, Logistics Management, Air Cargo News, Port Technology International, JOC (hanya tajuk), Freightmate/Sea Intelligence/ILA Industry Insights via pers dagang, pengumuman publik TradeInt via liputan pers.
 
 **Kebijakan AS:** lembar fakta whitehouse.gov, cbp.gov (via advisori dagang), siaran pers ustr.gov, federalregister.gov (pemberitahuan AD/CVD, tinjauan Section 301), bis.doc.gov (via analisis KPMG/JD Supra), internationaltradetoday.com (tajuk), analisis firma hukum JD Supra, Thompson Hine, GHY International, Withum, Akin Gump, Bell Nunnally, Mondaq, KPMG Tax News Flash, Digital Policy Alert.
 

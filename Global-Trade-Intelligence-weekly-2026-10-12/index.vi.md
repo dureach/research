@@ -12,18 +12,18 @@ draft: false
 
 ## Mục lục
 
-1. [Tóm tắt điều hành](#1-executive-summary)
-2. [Cảnh báo](#2-alerts)
-3. [Những câu chuyện hàng đầu — phân tích sâu](#3-top-stories--deep-dives)
-4. [Công cụ theo dõi thuế quan](#4-tariff-tracker)
-5. [Phân tích sâu chính sách Hoa Kỳ](#5-us-policy-deep-dive)
-6. [Chính sách thế giới theo khu vực](#6-world-policy-by-region)
-7. [Hành động thực thi](#7-enforcement-actions)
-8. [Các bản phát hành dữ liệu](#8-data-releases)
-9. [Thị trường cước vận chuyển](#9-freight-market)
-10. [Dòng thời gian chính sách](#10-policy-timelines)
-11. [Các hạn chót & sự kiện sắp tới (90 ngày tới)](#11-upcoming-deadlines--events-next-90-days)
-12. [Nguồn & phương pháp](#12-sources--methodology)
+1. [Tóm tắt điều hành](#1-tóm-tắt-điều-hành)
+2. [Cảnh báo](#2-cảnh-báo)
+3. [Những câu chuyện hàng đầu — phân tích sâu](#3-những-câu-chuyện-hàng-đầu--phân-tích-sâu)
+4. [Công cụ theo dõi thuế quan](#4-công-cụ-theo-dõi-thuế-quan)
+5. [Phân tích sâu chính sách Hoa Kỳ](#5-phân-tích-sâu-chính-sách-hoa-kỳ)
+6. [Chính sách thế giới theo khu vực](#6-chính-sách-thế-giới-theo-khu-vực)
+7. [Hành động thực thi](#7-hành-động-thực-thi)
+8. [Các bản phát hành dữ liệu](#8-các-bản-phát-hành-dữ-liệu)
+9. [Thị trường cước vận chuyển](#9-thị-trường-cước-vận-chuyển)
+10. [Dòng thời gian chính sách](#10-dòng-thời-gian-chính-sách)
+11. [Các hạn chót & sự kiện sắp tới (90 ngày tới)](#11-các-hạn-chót--sự-kiện-sắp-tới-90-ngày-tới)
+12. [Nguồn & phương pháp](#12-nguồn--phương-pháp)
 
 ---
 
@@ -181,7 +181,7 @@ Thâm hụt thương mại hàng tháng của Hoa Kỳ, tháng 8 năm 2026
 | EU → Trung Quốc | Điều tiết xuất khẩu hybrid/PHEV — "hiểu biết chung" | Kiềm chế xuất khẩu tự nguyện (Šefčovič tuyên bố cắt giảm một nửa; văn bản Bắc Kinh không nêu con số) | Kết quả được quyết định tại hội nghị thượng đỉnh EU ngày 15–16 tháng 10 | Đang chờ ủng hộ chính trị | [eureporter.co](https://www.eureporter.co/world/china-2/2026/10/09/eu-and-china-strike-preliminary-trade-deal-ahead-of-crucial-leaders-summit/) |
 | Vương quốc Anh → Trung Quốc | Thuế đối với xe điện sản xuất tại Trung Quốc | Lên tới 45% (tương đương mức thuế tổng hợp của EU) | Đang cân nhắc | Chưa quyết định ("cân bằng mong manh") | [fleetnews.co.uk](https://Www.fleetnews.co.uk/news/uk-weighs-chinese-car-tariffs-as-fleet-demand-for-evs-surges) |
 | Brazil | Thuế 0%: micro, nhạc cụ, máy may gia đình | 0% (từ 18–20%) | 1 tháng 10 năm 2026 | Đang áp dụng | [datamarnews.com](https://datamarnews.com/noticias/zero-import-tariffs-take-effect-for-musical-instruments-in-brazil/) |
-| Hoa Kỳ | Thuế Mục 232 đối với polysilicon & dẫn xuất | MIP: 21 USD/kg poly, 100 USD/kg wafer, 0,22 USD/W pin, 0,38 USD/mô-đun + 15% theo giá trị | 4 tháng 12 năm 2026 (quy tắc chống tăng đột biến có hiệu lực từ 22 tháng 9) | Đã lên lịch | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
+| Hoa Kỳ | Thuế Mục 232 đối với polysilicon & dẫn xuất | MIP: 21 USD/kg polysilicon, 100 USD/kg wafer, 0,22 USD/W pin, 0,38 USD/mô-đun + 15% theo giá trị | 4 tháng 12 năm 2026 (quy tắc chống tăng đột biến có hiệu lực từ 22 tháng 9) | Đã lên lịch | [mondaq.com](https://www.mondaq.com/unitedstates/export-controls-trade-investment-sanctions/1848548/polysilicon-and-derivatives-in-the-bullseye-for-major-new-tariffs-and-other-restrictions) |
 | Hoa Kỳ → Trung Quốc | Mục 301 Danh sách 2 & 3 (hành động 2018) | 7,5%–25% | Đang áp dụng (USTR kết thúc đợt rà soát 4 năm lần hai ngày 7 tháng 10, thuế tiếp tục) | Đang áp dụng | [internationaltradetoday.com](https://internationaltradetoday.com/article/2026/10/06/ustr-section-301-tariffs-from-2018-will-continue-2610060064?BC=bc_6ac595c738480) |
 | Hoa Kỳ → ~60 nền kinh tế | Thuế lao động cưỡng bức Mục 301 | Bậc 10% (17 nền kinh tế gồm Canada, Ấn Độ, Mexico, Anh); 12,5% đối với phần còn lại; EU/Đài Loan giới hạn 10% tổng hợp | 23 tháng 7 năm 2026 | Đang áp dụng; 3 vụ kiện đang chờ | [jdsupra.com](https://www.jdsupra.com/legalnews/forced-labor-meet-section-301-new-1432199/) |
 | Hoa Kỳ → ~60 nền kinh tế (TRQ đề xuất) | Hạn ngạch thuế quan ASEAN (Bangladesh, Campuchia, Indonesia, Malaysia) cho hàng hóa có nguyên liệu bông/dệt may Hoa Kỳ — miễn thuế lao động cưỡng bức Mục 301 | chưa xác định | Đang cân nhắc | Giai đoạn đề xuất | [asiadaily.org](https://asiadaily.org/news/14890/) |
@@ -234,7 +234,7 @@ Các cuộc điều tra AD/CVD mới được khởi xướng đối với **h�
 
 ### Các mục thường trực
 
-- **Polysilicon Mục 232:** không đổi. Hiệu lực ngày 4 tháng 12 giữ nguyên (MIP 21 USD/kg poly, 100 USD/kg wafer, 0,22 USD/W pin, 0,38 USD/mô-đun; 15% theo giá trị đối với dẫn xuất; các hạn chế chống tăng đột biến chạy từ 22 tháng 9 đến 4 tháng 12). Giá mô-đun trung vị của Hoa Kỳ đạt 0,38 USD/W vào cuối tháng 9, tăng ~40,7% từ 0,27 USD/W trong tháng 8.
+- **Polysilicon Mục 232:** không đổi. Hiệu lực ngày 4 tháng 12 giữ nguyên (MIP 21 USD/kg polysilicon, 100 USD/kg wafer, 0,22 USD/W pin, 0,38 USD/mô-đun; 15% theo giá trị đối với dẫn xuất; các hạn chế chống tăng đột biến chạy từ 22 tháng 9 đến 4 tháng 12). Giá mô-đun trung vị của Hoa Kỳ đạt 0,38 USD/W vào cuối tháng 9, tăng ~40,7% từ 0,27 USD/W trong tháng 8.
 - **Đình chiến Mỹ–Trung:** gia hạn khuôn khổ Busan đến **ngày 10 tháng 1 năm 2027** giữ nguyên; Nhà Trắng chưa chính thức văn bản hóa. Các lô hàng đất hiếm chưa trở lại mức đã thỏa thuận; các biện pháp kiểm soát tháng 4 năm 2025 đối với bảy nguyên tố đất hiếm chưa bao giờ bị đình chỉ. Các miễn trừ Mục 301 cho 178 sản phẩm Trung Quốc hết hạn ngày 10 tháng 11.
 - **"30-đối-30" Mỹ–Trung:** cả hai chính phủ công bố danh sách giảm thuế đối ứng ngày 28 tháng 9 (~30 tỷ USD mỗi bên theo khuôn khổ Hội đồng Thương mại Mỹ–Trung); cổng thông tin tiếng Anh của MOFCOM đăng tải thông tin công bố về khuôn khổ.
 
