@@ -7,7 +7,7 @@ AI-authorship score (0-100). Exits 0 on PASS, 1 on REJECT
 2 on setup errors.
 
 Usage: review_report.py <markdown-file>
-Env:   REVIEW_PROVIDER (deepseek | openrouter, default deepseek)
+Env:   REVIEW_PROVIDER (deepseek | openrouter, default openrouter)
        DEEPSEEK_API_KEY (required when provider=deepseek)
        OPENROUTER_API_KEY (required when provider=openrouter)
        AI_REJECT_ABOVE (default 20), QUALITY_MIN_SCORE (default 90),
@@ -23,7 +23,7 @@ import urllib.request
 
 AI_REJECT_ABOVE = int(os.environ.get("AI_REJECT_ABOVE", "20"))
 QUALITY_MIN = int(os.environ.get("QUALITY_MIN_SCORE", "90"))
-PROVIDER = os.environ.get("REVIEW_PROVIDER", "deepseek").lower()
+PROVIDER = os.environ.get("REVIEW_PROVIDER", "openrouter").lower()
 
 PROVIDERS = {
     "deepseek": {
