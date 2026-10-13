@@ -24,7 +24,7 @@ jobs:
     env:
       AI_REJECT_ABOVE: '20'
       QUALITY_MIN_SCORE: '90'
-      REVIEW_PROVIDER: 'deepseek'
+      REVIEW_PROVIDER: 'openrouter'
     steps:
       - name: Check out PR head
         uses: actions/checkout@v4
