@@ -2,7 +2,7 @@ name: Independent report review
 
 # Proofreads each weekly report's English edition, assigns a quality score
 # and an AI-authorship score. FAILS the check when the AI-authorship score
-# reaches the threshold (default 70) — a failed check rejects the PR.
+# is above 20 or the quality score is below 90 — a failed check rejects the PR.
 #
 # Required secret: DEEPSEEK_API_KEY (repo Settings -> Secrets and variables -> Actions)
 
@@ -21,7 +21,8 @@ jobs:
   review:
     runs-on: ubuntu-latest
     env:
-      AI_SCORE_THRESHOLD: '70'
+      AI_REJECT_ABOVE: '20'
+      QUALITY_MIN_SCORE: '90'
     steps:
       - name: Check out PR head
         uses: actions/checkout@v4
@@ -45,6 +46,8 @@ jobs:
         if: steps.changed.outputs.any_changed == 'true'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          AI_REJECT_ABOVE: ${{ env.AI_REJECT_ABOVE }}
+          QUALITY_MIN_SCORE: ${{ env.QUALITY_MIN_SCORE }}
         run: |
           rm -f review-summary.md review-result.json
           status=0
@@ -65,7 +68,7 @@ jobs:
             try {
               body = fs.readFileSync('review-summary.md', 'utf8');
             } catch (e) {
-              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add ANTHROPIC_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
+              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add DEEPSEEK_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
             }
             const exitCode = process.env.REVIEW_EXIT || '0';
             const header = exitCode !== '0'
