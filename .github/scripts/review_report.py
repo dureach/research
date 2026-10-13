@@ -7,8 +7,11 @@ AI-authorship score (0-100). Exits 0 on PASS, 1 on REJECT
 2 on setup errors.
 
 Usage: review_report.py <markdown-file>
-Env:   DEEPSEEK_API_KEY (required), AI_REJECT_ABOVE (default 20),
-       QUALITY_MIN_SCORE (default 90), REVIEW_MODEL (default deepseek-flash)
+Env:   REVIEW_PROVIDER (deepseek | openrouter, default deepseek)
+       DEEPSEEK_API_KEY (required when provider=deepseek)
+       OPENROUTER_API_KEY (required when provider=openrouter)
+       AI_REJECT_ABOVE (default 20), QUALITY_MIN_SCORE (default 90),
+       REVIEW_MODEL (default deepseek-flash | nvidia/nemotron-3-ultra-550b-a55b:free)
 Writes: review-result.json, review-summary.md (appended per file)
 """
 import json
@@ -19,8 +22,30 @@ import urllib.request
 
 AI_REJECT_ABOVE = int(os.environ.get("AI_REJECT_ABOVE", "20"))
 QUALITY_MIN = int(os.environ.get("QUALITY_MIN_SCORE", "90"))
-MODEL = os.environ.get("REVIEW_MODEL", "deepseek-flash")
-API_URL = os.environ.get("DEEPSEEK_API_URL", "https://api.deepseek.com/chat/completions")
+PROVIDER = os.environ.get("REVIEW_PROVIDER", "deepseek").lower()
+
+PROVIDERS = {
+    "deepseek": {
+        "url": os.environ.get("DEEPSEEK_API_URL", "https://api.deepseek.com/chat/completions"),
+        "key_env": "DEEPSEEK_API_KEY",
+        "default_model": "deepseek-flash",
+        "json_mode": True,
+    },
+    "openrouter": {
+        "url": os.environ.get("OPENROUTER_API_URL", "https://openrouter.ai/api/v1/chat/completions"),
+        "key_env": "OPENROUTER_API_KEY",
+        "default_model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+        "json_mode": False,
+    },
+}
+
+if PROVIDER not in PROVIDERS:
+    print(f"ERROR: unknown REVIEW_PROVIDER '{PROVIDER}' (use deepseek or openrouter)", file=sys.stderr)
+    sys.exit(2)
+
+CFG = PROVIDERS[PROVIDER]
+MODEL = os.environ.get("REVIEW_MODEL", CFG["default_model"])
+API_URL = CFG["url"]
 
 PROMPT = """You are an independent senior editor at a professional trade-intelligence publication. You did not write the report below and have no stake in it. Review it cold.
 
@@ -44,38 +69,38 @@ Report markdown:
 """
 
 
-def call_deepseek(text):
-    key = os.environ.get("DEEPSEEK_API_KEY")
+def call_llm(text):
+    key = os.environ.get(CFG["key_env"])
     if not key:
         print(
-            "ERROR: DEEPSEEK_API_KEY is not set. Add it in the repo's "
-            "Settings -> Secrets and variables -> Actions as DEEPSEEK_API_KEY.",
+            f"ERROR: {CFG['key_env']} is not set. Add it in the repo's "
+            f"Settings -> Secrets and variables -> Actions as {CFG['key_env']}.",
             file=sys.stderr,
         )
         sys.exit(2)
-    body = json.dumps(
-        {
-            "model": MODEL,
-            "max_tokens": 4000,
-            "response_format": {"type": "json_object"},
-            "messages": [
-                {"role": "user", "content": PROMPT.replace("%REPORT%", text[:120000])}
-            ],
-        }
-    ).encode()
-    req = urllib.request.Request(
-        API_URL,
-        data=body,
-        headers={
-            "Authorization": "Bearer " + key,
-            "content-type": "application/json",
-        },
-    )
+    payload = {
+        "model": MODEL,
+        "max_tokens": 4000,
+        "messages": [
+            {"role": "user", "content": PROMPT.replace("%REPORT%", text[:120000])}
+        ],
+    }
+    if CFG["json_mode"]:
+        payload["response_format"] = {"type": "json_object"}
+    headers = {
+        "Authorization": "Bearer " + key,
+        "content-type": "application/json",
+    }
+    if PROVIDER == "openrouter":
+        headers["HTTP-Referer"] = "https://github.com/dureach/research"
+        headers["X-Title"] = "Dureach research report review"
+    body = json.dumps(payload).encode()
+    req = urllib.request.Request(API_URL, data=body, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=600) as r:
             resp = json.load(r)
     except Exception as e:
-        print(f"ERROR: DeepSeek API call failed: {e}", file=sys.stderr)
+        print(f"ERROR: {PROVIDER} API call failed: {e}", file=sys.stderr)
         sys.exit(2)
     return resp["choices"][0]["message"]["content"]
 
@@ -99,7 +124,7 @@ def main():
     with open(path, encoding="utf-8") as f:
         text = f.read()
 
-    raw = call_deepseek(text)
+    raw = call_llm(text)
     try:
         result = parse_json(raw)
     except Exception as e:
