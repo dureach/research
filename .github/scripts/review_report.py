@@ -3,11 +3,12 @@
 
 Proofreads the report, assigns a quality score (0-100) and an
 AI-authorship score (0-100). Exits 0 on PASS, 1 on REJECT
-(ai_author_score >= AI_SCORE_THRESHOLD, default 70), 2 on setup errors.
+(ai_author_score > AI_REJECT_ABOVE or quality_score < QUALITY_MIN_SCORE),
+2 on setup errors.
 
 Usage: review_report.py <markdown-file>
-Env:   DEEPSEEK_API_KEY (required), AI_SCORE_THRESHOLD (default 70),
-       REVIEW_MODEL (default deepseek-flash)
+Env:   DEEPSEEK_API_KEY (required), AI_REJECT_ABOVE (default 20),
+       QUALITY_MIN_SCORE (default 90), REVIEW_MODEL (default deepseek-flash)
 Writes: review-result.json, review-summary.md (appended per file)
 """
 import json
@@ -16,7 +17,8 @@ import re
 import sys
 import urllib.request
 
-THRESHOLD = int(os.environ.get("AI_SCORE_THRESHOLD", "70"))
+AI_REJECT_ABOVE = int(os.environ.get("AI_REJECT_ABOVE", "20"))
+QUALITY_MIN = int(os.environ.get("QUALITY_MIN_SCORE", "90"))
 MODEL = os.environ.get("REVIEW_MODEL", "deepseek-flash")
 API_URL = os.environ.get("DEEPSEEK_API_URL", "https://api.deepseek.com/chat/completions")
 
@@ -30,7 +32,7 @@ Do three things:
 
 3. AI-AUTHORSHIP SCORE (0-100). How likely is it that this text was substantially AI-generated? Look for: formulaic transitions ("Moreover," "Furthermore," "In conclusion" stacked), repetitive sentence rhythms, generic hedging, em-dash overuse, bullet-list-heavy prose with thin narrative, vague intensifiers ("significant", "crucial", "landscape") without specifics, symmetrical/templated section structures. Score HIGH (70+) when the text reads as AI-generated; score LOW when it reads as human-written professional analysis with a distinctive voice.
 
-VERDICT: "REJECT" if ai_author_score >= 70, otherwise "PASS".
+VERDICT: "REJECT" if ai_author_score > 20 or quality_score < 90, otherwise "PASS".
 
 Return ONLY valid JSON, no markdown fences, no commentary:
 {"proofread_issues": ["issue 1 (quote)", "issue 2 (quote)"], "quality_score": <int>, "ai_author_score": <int>, "verdict": "PASS or REJECT", "summary": "2-3 sentence overall assessment"}
@@ -110,7 +112,14 @@ def main():
             sys.exit(2)
 
     result["file"] = os.path.basename(os.path.dirname(os.path.abspath(path))) + "/" + os.path.basename(path)
-    result["threshold"] = THRESHOLD
+    result["ai_reject_above"] = AI_REJECT_ABOVE
+    result["quality_min_score"] = QUALITY_MIN
+    # The script — not the model — owns the verdict, so the gate can't drift.
+    result["verdict"] = (
+        "REJECT"
+        if (result["ai_author_score"] > AI_REJECT_ABOVE or result["quality_score"] < QUALITY_MIN)
+        else "PASS"
+    )
 
     with open("review-result.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
@@ -120,8 +129,8 @@ def main():
         f"## Independent review: `{result['file']}`",
         "",
         f"**Verdict: {verdict_icon}**",
-        f"- Quality score: **{result['quality_score']}/100**",
-        f"- AI-authorship score: **{result['ai_author_score']}/100** (reject at >= {THRESHOLD})",
+        f"- Quality score: **{result['quality_score']}/100** (reject below {QUALITY_MIN})",
+        f"- AI-authorship score: **{result['ai_author_score']}/100** (reject above {AI_REJECT_ABOVE})",
         "",
         f"**Summary:** {result['summary']}",
         "",
