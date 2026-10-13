@@ -4,7 +4,8 @@ name: Independent report review
 # and an AI-authorship score. FAILS the check when the AI-authorship score
 # is above 20 or the quality score is below 90 — a failed check rejects the PR.
 #
-# Required secret: DEEPSEEK_API_KEY (repo Settings -> Secrets and variables -> Actions)
+# Required secret: DEEPSEEK_API_KEY (repo Settings -> Secrets and variables -> Actions),
+#   or OPENROUTER_API_KEY to use OpenRouter (free models) via REVIEW_PROVIDER=openrouter.
 
 on:
   pull_request:
@@ -23,6 +24,7 @@ jobs:
     env:
       AI_REJECT_ABOVE: '20'
       QUALITY_MIN_SCORE: '90'
+      REVIEW_PROVIDER: 'deepseek'
     steps:
       - name: Check out PR head
         uses: actions/checkout@v4
@@ -46,6 +48,8 @@ jobs:
         if: steps.changed.outputs.any_changed == 'true'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          REVIEW_PROVIDER: ${{ env.REVIEW_PROVIDER }}
           AI_REJECT_ABOVE: ${{ env.AI_REJECT_ABOVE }}
           QUALITY_MIN_SCORE: ${{ env.QUALITY_MIN_SCORE }}
         run: |
