@@ -4,7 +4,7 @@ name: Independent report review
 # and an AI-authorship score. FAILS the check when the AI-authorship score
 # reaches the threshold (default 70) — a failed check rejects the PR.
 #
-# Required secret: ANTHROPIC_API_KEY (repo Settings -> Secrets and variables -> Actions)
+# Required secret: DEEPSEEK_API_KEY (repo Settings -> Secrets and variables -> Actions)
 
 on:
   pull_request:
@@ -44,7 +44,7 @@ jobs:
       - name: Run independent review
         if: steps.changed.outputs.any_changed == 'true'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
           rm -f review-summary.md review-result.json
           status=0
@@ -65,7 +65,7 @@ jobs:
             try {
               body = fs.readFileSync('review-summary.md', 'utf8');
             } catch (e) {
-              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add ANTHROPIC_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
+              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add DEEPSEEK_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
             }
             const exitCode = process.env.REVIEW_EXIT || '0';
             const header = exitCode !== '0'
