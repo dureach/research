@@ -6,17 +6,19 @@ AI-authorship score (0-100). Exits 0 on PASS, 1 on REJECT
 (ai_author_score >= AI_SCORE_THRESHOLD, default 70), 2 on setup errors.
 
 Usage: review_report.py <markdown-file>
-Env:   ANTHROPIC_API_KEY (required), AI_SCORE_THRESHOLD (default 70),
-       REVIEW_MODEL (default claude-sonnet-4-20250514)
+Env:   DEEPSEEK_API_KEY (required), AI_SCORE_THRESHOLD (default 70),
+       REVIEW_MODEL (default deepseek-flash)
 Writes: review-result.json, review-summary.md (appended per file)
 """
 import json
 import os
+import re
 import sys
 import urllib.request
 
 THRESHOLD = int(os.environ.get("AI_SCORE_THRESHOLD", "70"))
-MODEL = os.environ.get("REVIEW_MODEL", "claude-sonnet-4-20250514")
+MODEL = os.environ.get("REVIEW_MODEL", "deepseek-flash")
+API_URL = os.environ.get("DEEPSEEK_API_URL", "https://api.deepseek.com/chat/completions")
 
 PROMPT = """You are an independent senior editor at a professional trade-intelligence publication. You did not write the report below and have no stake in it. Review it cold.
 
@@ -40,12 +42,12 @@ Report markdown:
 """
 
 
-def call_anthropic(text):
-    key = os.environ.get("ANTHROPIC_API_KEY")
+def call_deepseek(text):
+    key = os.environ.get("DEEPSEEK_API_KEY")
     if not key:
         print(
-            "ERROR: ANTHROPIC_API_KEY is not set. Add it in the repo's "
-            "Settings -> Secrets and variables -> Actions as ANTHROPIC_API_KEY.",
+            "ERROR: DEEPSEEK_API_KEY is not set. Add it in the repo's "
+            "Settings -> Secrets and variables -> Actions as DEEPSEEK_API_KEY.",
             file=sys.stderr,
         )
         sys.exit(2)
@@ -53,17 +55,17 @@ def call_anthropic(text):
         {
             "model": MODEL,
             "max_tokens": 4000,
+            "response_format": {"type": "json_object"},
             "messages": [
                 {"role": "user", "content": PROMPT.replace("%REPORT%", text[:120000])}
             ],
         }
     ).encode()
     req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
+        API_URL,
         data=body,
         headers={
-            "x-api-key": key,
-            "anthropic-version": "2023-06-01",
+            "Authorization": "Bearer " + key,
             "content-type": "application/json",
         },
     )
@@ -71,9 +73,9 @@ def call_anthropic(text):
         with urllib.request.urlopen(req, timeout=600) as r:
             resp = json.load(r)
     except Exception as e:
-        print(f"ERROR: Anthropic API call failed: {e}", file=sys.stderr)
+        print(f"ERROR: DeepSeek API call failed: {e}", file=sys.stderr)
         sys.exit(2)
-    return resp["content"][0]["text"]
+    return resp["choices"][0]["message"]["content"]
 
 
 def parse_json(raw):
@@ -82,9 +84,6 @@ def parse_json(raw):
         raw = re.sub(r"^```[a-zA-Z]*\n?", "", raw)
         raw = re.sub(r"\n?```$", "", raw)
     return json.loads(raw)
-
-
-import re  # noqa: E402  (kept after defs for single-file simplicity)
 
 
 def main():
@@ -98,7 +97,7 @@ def main():
     with open(path, encoding="utf-8") as f:
         text = f.read()
 
-    raw = call_anthropic(text)
+    raw = call_deepseek(text)
     try:
         result = parse_json(raw)
     except Exception as e:
