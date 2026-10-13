@@ -1,0 +1,79 @@
+name: Independent report review
+
+# Proofreads each weekly report's English edition, assigns a quality score
+# and an AI-authorship score. FAILS the check when the AI-authorship score
+# reaches the threshold (default 70) — a failed check rejects the PR.
+#
+# Required secret: ANTHROPIC_API_KEY (repo Settings -> Secrets and variables -> Actions)
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'Global-Trade-Intelligence-weekly-*/index.en.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    env:
+      AI_SCORE_THRESHOLD: '70'
+    steps:
+      - name: Check out PR head
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find changed English reports
+        id: changed
+        uses: tj-actions/changed-files@v45
+        with:
+          files: 'Global-Trade-Intelligence-weekly-*/index.en.md'
+          separator: ' '
+
+      - name: Set up Python
+        if: steps.changed.outputs.any_changed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run independent review
+        if: steps.changed.outputs.any_changed == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          rm -f review-summary.md review-result.json
+          status=0
+          for f in ${{ steps.changed.outputs.all_changed_files }}; do
+            echo "=== Reviewing $f ==="
+            python .github/scripts/review_report.py "$f" || status=$?
+          done
+          echo "REVIEW_EXIT=$status" >> "$GITHUB_ENV"
+          exit $status
+
+      - name: Post review comment on PR
+        if: always() && steps.changed.outputs.any_changed == 'true' && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let body;
+            try {
+              body = fs.readFileSync('review-summary.md', 'utf8');
+            } catch (e) {
+              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add ANTHROPIC_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
+            }
+            const exitCode = process.env.REVIEW_EXIT || '0';
+            const header = exitCode !== '0'
+              ? 'WARNING: REVIEW FAILED - see scores below.'
+              : 'Review passed.';
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: header + '\n\n' + body,
+            });
