@@ -59,6 +59,8 @@ Do three things:
 
 VERDICT: "REJECT" if ai_author_score > 20 or quality_score < 90, otherwise "PASS".
 
+CRITICAL: do NOT narrate your thinking, outline your plan, or explain your process. Your ENTIRE response must be exactly one JSON object and nothing else — no preamble, no reasoning text, no trailing commentary.
+
 Return ONLY valid JSON, no markdown fences, no commentary:
 {"proofread_issues": ["issue 1 (quote)", "issue 2 (quote)"], "quality_score": <int>, "ai_author_score": <int>, "verdict": "PASS or REJECT", "summary": "2-3 sentence overall assessment"}
 
@@ -106,11 +108,64 @@ def call_llm(text):
 
 
 def parse_json(raw):
-    raw = raw.strip()
-    if raw.startswith("```"):
-        raw = re.sub(r"^```[a-zA-Z]*\n?", "", raw)
-        raw = re.sub(r"\n?```$", "", raw)
-    return json.loads(raw)
+    """Pull the JSON object out of a model response, tolerating fences and prose.
+
+    Some models (notably reasoning-flavored ones) emit chain-of-thought text
+    before/around the JSON. We try, in order: direct parse, fenced block,
+    last {...} span, then a balanced-brace scan from the first '{'.
+    """
+    text = raw.strip()
+    try:
+        obj = json.loads(text)
+        if isinstance(obj, dict):
+            return obj
+    except Exception:
+        pass
+    m = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.S)
+    if m:
+        try:
+            obj = json.loads(m.group(1))
+            if isinstance(obj, dict):
+                return obj
+        except Exception:
+            pass
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end > start:
+        try:
+            obj = json.loads(text[start : end + 1])
+            if isinstance(obj, dict):
+                return obj
+        except Exception:
+            pass
+        depth = 0
+        in_str = False
+        esc = False
+        for i in range(start, len(text)):
+            ch = text[i]
+            if in_str:
+                if esc:
+                    esc = False
+                elif ch == "\\":
+                    esc = True
+                elif ch == '"':
+                    in_str = False
+            else:
+                if ch == '"':
+                    in_str = True
+                elif ch == "{":
+                    depth += 1
+                elif ch == "}":
+                    depth -= 1
+                    if depth == 0:
+                        try:
+                            obj = json.loads(text[start : i + 1])
+                            if isinstance(obj, dict):
+                                return obj
+                        except Exception:
+                            pass
+                        break
+    raise ValueError("no JSON object found in model output")
 
 
 def main():
