@@ -11,7 +11,7 @@ Env:   REVIEW_PROVIDER (deepseek | openrouter, default deepseek)
        DEEPSEEK_API_KEY (required when provider=deepseek)
        OPENROUTER_API_KEY (required when provider=openrouter)
        AI_REJECT_ABOVE (default 20), QUALITY_MIN_SCORE (default 90),
-       REVIEW_MODEL (default deepseek-flash | nvidia/nemotron-3-ultra-550b-a55b:free)
+       REVIEW_MODEL (default deepseek-flash | google/gemma-4-31b-it:free)
 Writes: review-result.json, review-summary.md (appended per file)
 """
 import json
@@ -34,7 +34,7 @@ PROVIDERS = {
     "openrouter": {
         "url": os.environ.get("OPENROUTER_API_URL", "https://openrouter.ai/api/v1/chat/completions"),
         "key_env": "OPENROUTER_API_KEY",
-        "default_model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+        "default_model": "google/gemma-4-31b-it:free",
         "json_mode": False,
     },
 }
