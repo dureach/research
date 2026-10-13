@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 
 AI_REJECT_ABOVE = int(os.environ.get("AI_REJECT_ABOVE", "20"))
@@ -71,11 +72,26 @@ Report markdown:
 """
 
 
-def api_post(payload, headers):
+def api_post(payload, headers, max_429_retries=4):
+    """POST JSON; on HTTP 429 back off exponentially (30s, 60s, 120s, 240s)."""
     body = json.dumps(payload).encode()
-    req = urllib.request.Request(API_URL, data=body, headers=headers)
-    with urllib.request.urlopen(req, timeout=600) as r:
-        return json.load(r)
+    delay = 30
+    for attempt in range(max_429_retries + 1):
+        req = urllib.request.Request(API_URL, data=body, headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=600) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < max_429_retries:
+                print(
+                    f"WARNING: {PROVIDER} rate-limited (429); waiting {delay}s "
+                    f"(retry {attempt + 1}/{max_429_retries})",
+                    file=sys.stderr,
+                )
+                time.sleep(delay)
+                delay *= 2
+                continue
+            raise
 
 
 def call_llm(text):
