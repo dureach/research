@@ -71,6 +71,13 @@ Report markdown:
 """
 
 
+def api_post(payload, headers):
+    body = json.dumps(payload).encode()
+    req = urllib.request.Request(API_URL, data=body, headers=headers)
+    with urllib.request.urlopen(req, timeout=600) as r:
+        return json.load(r)
+
+
 def call_llm(text):
     key = os.environ.get(CFG["key_env"])
     if not key:
@@ -80,15 +87,13 @@ def call_llm(text):
             file=sys.stderr,
         )
         sys.exit(2)
-    payload = {
+    base = {
         "model": MODEL,
         "max_tokens": 4000,
         "messages": [
             {"role": "user", "content": PROMPT.replace("%REPORT%", text[:120000])}
         ],
     }
-    if CFG["json_mode"]:
-        payload["response_format"] = {"type": "json_object"}
     headers = {
         "Authorization": "Bearer " + key,
         "content-type": "application/json",
@@ -96,15 +101,32 @@ def call_llm(text):
     if PROVIDER == "openrouter":
         headers["HTTP-Referer"] = "https://github.com/dureach/research"
         headers["X-Title"] = "Dureach research report review"
-    body = json.dumps(payload).encode()
-    req = urllib.request.Request(API_URL, data=body, headers=headers)
-    try:
-        with urllib.request.urlopen(req, timeout=600) as r:
-            resp = json.load(r)
-    except Exception as e:
-        print(f"ERROR: {PROVIDER} API call failed: {e}", file=sys.stderr)
-        sys.exit(2)
-    return resp["choices"][0]["message"]["content"]
+    # Payload variants to try in order. DeepSeek mandates json_object.
+    # OpenRouter: attempt structured output first (much more reliable JSON
+    # compliance), fall back to a plain request if the model rejects
+    # response_format with HTTP 400.
+    variants = []
+    if CFG["json_mode"] or PROVIDER == "openrouter":
+        variants.append(dict(base, response_format={"type": "json_object"}))
+    if PROVIDER == "openrouter":
+        variants.append(dict(base))
+    last_err = None
+    for payload in variants:
+        try:
+            resp = api_post(payload, headers)
+            return resp["choices"][0]["message"]["content"]
+        except urllib.error.HTTPError as e:
+            if e.code == 400 and payload is not variants[-1]:
+                last_err = f"HTTP 400 for response_format, retrying plain: {e}"
+                print(f"WARNING: {last_err}", file=sys.stderr)
+                continue
+            print(f"ERROR: {PROVIDER} API call failed: HTTP {e.code}: {e}", file=sys.stderr)
+            sys.exit(2)
+        except Exception as e:
+            print(f"ERROR: {PROVIDER} API call failed: {e}", file=sys.stderr)
+            sys.exit(2)
+    print(f"ERROR: {PROVIDER} API call failed: {last_err}", file=sys.stderr)
+    sys.exit(2)
 
 
 def parse_json(raw):
