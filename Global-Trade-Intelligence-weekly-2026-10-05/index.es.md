@@ -23,10 +23,11 @@ draft: false
 9. [Mercado de fletes](#9-freight-market)
 10. [Cronogramas de políticas](#10-policy-timelines)
 11. [Próximos vencimientos y eventos (próximos 90 días)](#11-upcoming-deadlines--events-next-90-days)
-[Señales de contenido — ángulos de marketing de Dureach](#12-content-flags--dureach-marketing-angles)
 12. [Fuentes y metodología](#12-sources--methodology)
 
 ---
+
+<span id="1-executive-summary"></span>
 
 ## 1. Resumen ejecutivo
 
@@ -41,6 +42,8 @@ Mientras tanto, el sistema multilateral se desgastó aún más: los ministros de
 **Fletes:** un mercado a dos velocidades. Las tarifas de contenedores transpacíficas se mantuvieron firmes (Drewry WCI $4,434/FEU, -1% w/w; Shanghái–Nueva York $10,428), mientras Asia–Europa cayó por 12.ª semana consecutiva por el regreso de la capacidad vía Suez. Los graneles secos tuvieron su peor semana en un mes (BDI 3,148, -8.1% w/w) con el colapso de 12.8% en las ganancias de los capesize.
 
 ---
+
+<span id="2-alerts"></span>
 
 ## 2. Alertas
 
@@ -61,7 +64,7 @@ Regla crítica de acumulación: el arancel del 50% de la Sección 338 **no tiene
 
 ### A2 — WROs sobre aceite de palma de Indonesia (detalle)
 
-Las órdenes del Sept 29 de CBP apuntan al aceite de palma y derivados de Mitra Aneka Rezeki (MAR) y Hardaya Inti Plantation (HIP). Evidencia revisada: entrevistas a trabajadores, recibos de nómina, cuotas de cosecha, fotografías, informes de ONG/gobiernos, medios de prensa, investigación académica. Los trabajadores de MAR mostraron **nueve** indicadores de trabajo forzoso de la OIT (incluida la retención de documentos de identidad y el aislamiento); HIP mostró **siete** (servidumbre por deudas, retención de salarios, engaño, horas extras excesivas, intimidación, condiciones abusivas, abuso de vulnerabilidad). Las detenciones son inmediatas en todos los puertos de EE. UU.; los importadores pueden exportar, destruir o demostrar abastecimiento limpio. ([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
+Las órdenes del Sept 29 de CBP apuntan al aceite de palma y derivados de Mitra Aneka Rezeki (MAR) y Hardaya Inti Plantation (HIP). información revisada: entrevistas a trabajadores, recibos de nómina, cuotas de cosecha, fotografías, informes de ONG/gobiernos, medios de prensa, investigación académica. Los trabajadores de MAR mostraron **nueve** indicadores de trabajo forzoso de la OIT (incluida la retención de documentos de identidad y el aislamiento); HIP mostró **siete** (servidumbre por deudas, retención de salarios, engaño, horas extras excesivas, intimidación, condiciones abusivas, abuso de vulnerabilidad). Las detenciones son inmediatas en todos los puertos de EE. UU.; los importadores pueden exportar, destruir o demostrar abastecimiento limpio. ([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
 
 ### A3 — Ley Graham (detalle)
 
@@ -71,6 +74,8 @@ H.R. 5334, firmada el Sept 18 con apoyo bipartidista, pone el régimen de sancio
 
 Proclamación del Aug 6 + regla final temporal de Comercio (Sept 24). Desde el **Dec 4**: precios mínimos de importación de **$21/kg** (polisilicio), **$100/kg** (lingotes/oblea
 ...[truncated 19762 chars]---
+
+<span id="3-top-stories--deep-dives"></span>
 
 ## 3. Historias destacadas — análisis en profundidad
 
@@ -146,6 +151,8 @@ Proclamación del Aug 6 + regla final temporal de Comercio (Sept 24). Desde el *
 
 ---
 
+<span id="4-tariff-tracker"></span>
+
 ## 4. Monitor arancelario
 
 Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salvo indicación contraria; las reglas de acumulación varían por medida — verifica HTS, origen y fecha de entrada por embarque.
@@ -171,6 +178,8 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 
 ---
 
+<span id="5-us-policy-deep-dive"></span>
+
 ## 5. Análisis en profundidad de la política de EE. UU.
 
 ### Acciones de EE. UU. esta semana
@@ -188,6 +197,8 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Oct 5 | Casa Blanca/Congreso | Cuenta regresiva de implementación de la Ley Graham (13 días restantes) | Aranceles secundarios de hasta 100% pendientes | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Análisis.** La administración está manejando tres relojes simultáneamente: (1) el reloj *punitivo* — prohibiciones a Canadá, aranceles secundarios de la Ley Graham, MIPs de polisilicio — todos diseñados para maximizar la presión antes de fin de año; (2) el reloj *institucional* — preparación de la revisión USMCA 2027, procedimientos de la Junta de Comercio, debate de reforma del NMF — construyendo maquinaria permanente; (3) el reloj *legal* — la victoria del CIT sobre de minimis vs. la derrota de los aranceles IEEPA en la Corte Suprema, con $165B en reembolsos IEEPA fluyendo por CAPE. El patrón: donde los tribunales restringen (aranceles IEEPA), la administración rodea vía 232/338/301 y estatutos (Ley Graham). Los importadores deben planificar *más* medidas bajo autoridades *más antiguas*, no menos.
+
+<span id="6-world-policy-by-region"></span>
 
 ## 6. Política mundial por región
 
@@ -226,6 +237,8 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Reino Unido | Sin movimientos importantes de política comercial detectados esta semana |  |
 | México/Argentina | Se sumaron a la declaración de EE. UU. sobre trabajo forzoso en el G20 (separada del texto conjunto fallido) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
+<span id="7-enforcement-actions"></span>
+
 ## 7. Medidas de cumplimiento
 
 | Acción | Detalle | Fuente |
@@ -239,6 +252,8 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 
 **Lectura.** El cumplimiento está pasando de la interdicción a nivel de embarque a consecuencias de *balance*: acuerdos de False Claims de medio billón de dólares, detección de transbordo asistida por IA y capas arancelarias que castigan economías enteras por prácticas laborales. La carga de cumplimiento migra aguas arriba — los importadores necesitan documentación de origen al nivel del *proveedor del proveedor*, no solo la factura.
 
+<span id="8-data-releases"></span>
+
 ## 8. Publicación de datos
 
 | Publicación | Detalle | Fuente |
@@ -249,6 +264,8 @@ Línea base + cambios de esta semana. Las tasas son aranceles *adicionales* salv
 | Drewry Container Forecaster | El balance oferta-demanda se debilitará en los próximos trimestres; se espera más contracción de tarifas spot | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (semana previa) |
 
 ---
+
+<span id="9-freight-market"></span>
 
 ## 9. Mercado de fletes
 
@@ -345,6 +362,8 @@ Canada/India Sec. 301 FL          10%  ████
 
 ---
 
+<span id="10-policy-timelines"></span>
+
 ## 10. Cronogramas de políticas
 
 ### Escalada EE. UU.–Canadá, 2026
@@ -387,6 +406,8 @@ timeline
 
 ---
 
+<span id="11-upcoming-deadlines--events-next-90-days"></span>
+
 ## 11. Próximos vencimientos y eventos (próximos 90 días)
 
 | Fecha | Evento | Por qué importa | Fuente |
@@ -402,6 +423,8 @@ timeline
 | July 2027 | Cierre legislativo del de minimis | Fin de la exención de $800 por estatuto | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |
 
 ---
+
+<span id="12-sources--methodology"></span>
 
 ## 12. Fuentes y metodología
 

@@ -23,7 +23,6 @@ draft: false
 9. [货运市场](#9-货运市场)
 10. [政策时间线](#10-政策时间线)
 11. [未来90天重要节点与事件](#11-未来90天重要节点与事件)
-[内容选题：Dureach营销角度](#12-内容选题dureach营销角度)
 12. [来源与方法](#12-来源与方法)
 
 ---
@@ -61,7 +60,7 @@ draft: false
 
 ### A2 — 印尼棕榈油暂扣令（详情）
 
-CBP 9月29日的命令针对Mitra Aneka Rezeki（MAR）和Hardaya Inti Plantation（HIP）的棕榈油及衍生品。审查证据包括：工人访谈、工资单、采收定额、照片、NGO/政府报告、新闻媒体、学术研究。MAR的工人呈现**九项**ILO强迫劳动指标（含扣留身份证件、与世隔绝）；HIP呈现**七项**（债务奴役、扣发工资、欺骗、过度加班、恐吓、恶劣工作条件、利用弱势地位）。全美港口立即扣留；进口商可选择复出口、销毁或证明供应链清白。([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
+CBP 9月29日的命令针对Mitra Aneka Rezeki（MAR）和Hardaya Inti Plantation（HIP）的棕榈油及衍生品。审查信息包括：工人访谈、工资单、采收定额、照片、NGO/政府报告、新闻媒体、学术研究。MAR的工人呈现**九项**ILO强迫劳动指标（含扣留身份证件、与世隔绝）；HIP呈现**七项**（债务奴役、扣发工资、欺骗、过度加班、恐吓、恶劣工作条件、利用弱势地位）。全美港口立即扣留；进口商可选择复出口、销毁或证明供应链清白。([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
 
 ### A3 — 《格雷厄姆法案》（详情）
 

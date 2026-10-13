@@ -23,10 +23,11 @@ draft: false
 9. [Thị trường vận tải](#9-freight-market)
 10. [Dòng thời gian chính sách](#10-policy-timelines)
 11. [Hạn chót & sự kiện sắp tới (90 ngày tới)](#11-upcoming-deadlines--events-next-90-days)
-[Điểm nhấn nội dung — các góc độ tiếp thị Dureach](#12-content-flags--dureach-marketing-angles)
 12. [Nguồn & phương pháp luận](#12-sources--methodology)
 
 ---
+
+<span id="1-executive-summary"></span>
 
 ## 1. Tóm tắt điều hành
 
@@ -41,6 +42,8 @@ Trong khi đó, hệ thống đa phương tiếp tục rạn nứt: các bộ tr
 **Vận tải:** thị trường hai tốc độ. Giá container xuyên Thái Bình Dương giữ vững (Drewry WCI 4.434 USD/FEU, -1% so với tuần trước; Thượng Hải–New York 10.428 USD), trong khi tuyến Á–Âu giảm tuần thứ 12 liên tiếp do công suất kênh đào Suez quay trở lại. Hàng rời khô có tuần tệ nhất trong một tháng (BDI 3.148, -8,1% so với tuần trước) khi thu nhập tàu Capesize sụt giảm 12,8%.
 
 ---
+
+<span id="2-alerts"></span>
 
 ## 2. Cảnh báo
 
@@ -61,7 +64,7 @@ Quy tắc cộng dồn quan trọng: thuế Mục 338 ở mức 50% **không có
 
 ### A2 — Lệnh WRO đối với dầu cọ Indonesia (chi tiết)
 
-Lệnh ngày 29 tháng 9 của CBP nhắm vào dầu cọ và các sản phẩm phái sinh từ Mitra Aneka Rezeki (MAR) và Hardaya Inti Plantation (HIP). Bằng chứng được xem xét: phỏng vấn công nhân, phiếu lương, chỉ tiêu thu hoạch, ảnh chụp, báo cáo NGO/chính phủ, truyền thông, nghiên cứu học thuật. Công nhân tại MAR cho thấy **chín** chỉ số lao động cưỡng bức của ILO (bao gồm giữ giấy tờ tùy thân và cô lập); HIP cho thấy **bảy** chỉ số (nô lệ nợ, giữ lương, lừa dối, làm thêm giờ quá mức, đe dọa, điều kiện làm việc lạm dụng, lạm dụng tình trạng dễ bị tổn thương). Việc giam giữ có hiệu lực ngay tại mọi cảng Mỹ; nhà nhập khẩu có thể xuất khẩu trở lại, tiêu hủy, hoặc chứng minh nguồn cung sạch. ([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
+Lệnh ngày 29 tháng 9 của CBP nhắm vào dầu cọ và các sản phẩm phái sinh từ Mitra Aneka Rezeki (MAR) và Hardaya Inti Plantation (HIP). thông tin được xem xét: phỏng vấn công nhân, phiếu lương, chỉ tiêu thu hoạch, ảnh chụp, báo cáo NGO/chính phủ, truyền thông, nghiên cứu học thuật. Công nhân tại MAR cho thấy **chín** chỉ số lao động cưỡng bức của ILO (bao gồm giữ giấy tờ tùy thân và cô lập); HIP cho thấy **bảy** chỉ số (nô lệ nợ, giữ lương, lừa dối, làm thêm giờ quá mức, đe dọa, điều kiện làm việc lạm dụng, lạm dụng tình trạng dễ bị tổn thương). Việc giam giữ có hiệu lực ngay tại mọi cảng Mỹ; nhà nhập khẩu có thể xuất khẩu trở lại, tiêu hủy, hoặc chứng minh nguồn cung sạch. ([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
 
 ### A3 — Đạo luật Graham (chi tiết)
 
@@ -80,6 +83,8 @@ Macron và Merz đã viết thư cho von der Leyen ngày 5 tháng 10 đề xuấ
 Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra chống bán phá giá đối với p-nitrotoluene từ EU** — vài ngày trước các cuộc đàm phán thương mại Bắc Kinh và trùng thời điểm với đề xuất Pháp–Đức. MOFCOM riêng rẽ cảnh báo sẽ trả đũa "cứng rắn" đối với bất kỳ công cụ phản ứng nhanh nào của EU. ([vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f))
 
 ---
+
+<span id="3-top-stories--deep-dives"></span>
 
 ## 3. Tin tức hàng đầu — phân tích chuyên sâu
 
@@ -155,6 +160,8 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 
 ---
 
+<span id="4-tariff-tracker"></span>
+
 ## 4. Trình theo dõi thuế quan
 
 Đường cơ sở + các thay đổi trong tuần. Các mức thuế là thuế *bổ sung* trừ khi có ghi chú khác; quy tắc cộng dồn khác nhau theo từng biện pháp — kiểm tra mã HTS, xuất xứ và ngày nhập cảnh cho từng lô hàng.
@@ -180,6 +187,8 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 
 ---
 
+<span id="5-us-policy-deep-dive"></span>
+
 ## 5. Phân tích chuyên sâu chính sách Hoa Kỳ
 
 ### Các hành động của Mỹ trong tuần
@@ -197,6 +206,8 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | 5 tháng 10 | Nhà Trắng/Quốc hội | Đếm ngược thực thi Đạo luật Graham (còn 13 ngày) | Thuế quan thứ cấp lên đến 100% đang chờ | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Phân tích.** Chính quyền đang vận hành ba đồng hồ cùng lúc: (1) đồng hồ *trừng phạt* — lệnh cấm Canada, thuế thứ cấp Đạo luật Graham, MIP polysilicon — tất cả được thiết kế để tối đa hóa đòn bẩy trước cuối năm; (2) đồng hồ *thể chế* — chuẩn bị đánh giá USMCA 2027, thủ tục Hội đồng Thương mại, tranh luận cải cách MFN — xây dựng bộ máy lâu dài; (3) đồng hồ *pháp lý* — chiến thắng de minimis của CIT so với thất bại thuế quan IEEPA tại Tòa án Tối cao, với 165 tỷ USD tiền hoàn thuế IEEPA nay chảy qua CAPE. Mô hình: ở những nơi tòa án siết chặt (thuế quan IEEPA), chính quyền đi đường vòng qua 232/338/301 và luật định (Đạo luật Graham). Các nhà nhập khẩu nên chuẩn bị cho *nhiều* biện pháp hơn theo các thẩm quyền *cũ* hơn, chứ không phải ít đi.
+
+<span id="6-world-policy-by-region"></span>
 
 ## 6. Chính sách thế giới theo khu vực
 
@@ -235,6 +246,8 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Anh | Không phát hiện động thái chính sách thương mại lớn nào trong tuần |  |
 | Mexico/Argentina | Tham gia tuyên bố lao động cưỡng bức của Mỹ tại G20 (tách khỏi văn bản chung thất bại) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
+<span id="7-enforcement-actions"></span>
+
 ## 7. Hành động thực thi
 
 | Hành động | Chi tiết | Nguồn |
@@ -248,6 +261,8 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 
 **Nhận định.** Thực thi đang chuyển từ đánh chặn ở cấp độ lô hàng sang hậu quả ở *bảng cân đối kế toán*: các dàn xếp False Claims nửa tỷ USD, phát hiện trung chuyển hỗ trợ bởi AI, và các lớp thuế quan trừng phạt toàn bộ nền kinh tế vì thực hành lao động. Gánh nặng tuân thủ đang dịch chuyển lên thượng nguồn — nhà nhập khẩu cần tài liệu xuất xứ ở cấp *nhà cung cấp của nhà cung cấp*, chứ không chỉ hóa đơn.
 
+<span id="8-data-releases"></span>
+
 ## 8. Các đợt công bố dữ liệu
 
 | Đợt công bố | Chi tiết | Nguồn |
@@ -258,6 +273,8 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Drewry Container Forecaster | Cân bằng cung–cầu sẽ suy yếu trong các quý tới; dự kiến giá giao ngay tiếp tục co lại | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (tuần trước) |
 
 ---
+
+<span id="9-freight-market"></span>
 
 ## 9. Thị trường vận tải
 
@@ -354,6 +371,8 @@ Canada/India Sec. 301 FL          10%  ████
 
 ---
 
+<span id="10-policy-timelines"></span>
+
 ## 10. Dòng thời gian chính sách
 
 ### Leo thang Mỹ–Canada, 2026
@@ -396,6 +415,8 @@ timeline
 
 ---
 
+<span id="11-upcoming-deadlines--events-next-90-days"></span>
+
 ## 11. Hạn chót & sự kiện sắp tới (90 ngày tới)
 
 | Ngày | Sự kiện | Vì sao quan trọng | Nguồn |
@@ -411,6 +432,8 @@ timeline
 | Tháng 7/2027 | De minimis đóng cửa theo luật | Chấm dứt miễn trừ 800 USD theo đạo luật | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |
 
 ---
+
+<span id="12-sources--methodology"></span>
 
 ## 12. Nguồn & phương pháp luận
 

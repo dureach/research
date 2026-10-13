@@ -306,7 +306,7 @@ CBP于**10月6日**通过其在线索赔平台（CAPE）开启**法院命令的I
 | USTR快速反应机制 | GLM Components Mexico（普埃布拉；汽车零部件）——暂停清算 | 2026年10月8日 | 审查进行中 | [ustr.gov](https://ustr.gov/about/policy-offices/press-office/press-releases/2026) |
 | CBP | IEEPA退款程序第三阶段（CAPE） | 2026年10月6日 | 开放；意见征询截止11月4日 | [thompsonhine.com](https://www.thompsonhine.com/insights/cbp-confirms-october-6-2026-launch-of-phase-3-of-the-ieepa-tariff-refund-process/) |
 
-**暂扣令详情（MAR/HIP）：** CBP 9月29日的命令覆盖Mitra Aneka Rezeki和Hardaya Inti Plantation的棕榈油及衍生品。审查证据包括：工人访谈、工资单、采摘配额、照片、NGO/政府报告、新闻媒体、学术研究。MAR工人呈现**九项**国际劳工组织强迫劳动指标（包括扣留身份证件和隔离）；HIP呈现**七项**（债务束缚、克扣工资、欺骗、过度加班、恐吓、虐待性条件、利用弱势地位）。美国所有港口立即扣留；进口商可选择出口、销毁或证明清洁来源。
+**暂扣令详情（MAR/HIP）：** CBP 9月29日的命令覆盖Mitra Aneka Rezeki和Hardaya Inti Plantation的棕榈油及衍生品。审查信息包括：工人访谈、工资单、采摘配额、照片、NGO/政府报告、新闻媒体、学术研究。MAR工人呈现**九项**国际劳工组织强迫劳动指标（包括扣留身份证件和隔离）；HIP呈现**七项**（债务束缚、克扣工资、欺骗、过度加班、恐吓、虐待性条件、利用弱势地位）。美国所有港口立即扣留；进口商可选择出口、销毁或证明清洁来源。
 
 ---
 

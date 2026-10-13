@@ -6,7 +6,7 @@ draft: false
 ---
 # グローバル貿易インテリジェンスレポート ― 2026年9月28日～10月5日週
 
-**アナリスト級の週間ブリーフィング。** 対象期間：2026年9月28日～10月5日。世界の貿易ニュース・政策・データ・海運に関する約45の情報源から編纂。すべての主張に出典を付記。検証不能な値はn/aと表記。
+**アナリスト級の週間ブリーフィング。** 対象期間：2026年9月28日～10月5日。世界の貿易ニュース・政策・データ・海運に関する約45のデータソースから編纂。すべての主張に出典を付記。検証不能な値はn/aと表記。
 
 ---
 
@@ -23,10 +23,11 @@ draft: false
 9. [海運市況](#9-freight-market)
 10. [政策タイムライン](#10-policy-timelines)
 11. [今後の期限・イベント（今後90日）](#11-upcoming-deadlines--events-next-90-days)
-[コンテンツフラグ ― Dureachマーケティングの切り口](#12-content-flags--dureach-marketing-angles)
-12. [情報源と作成方法](#12-sources--methodology)
+12. [データソースと作成方法](#12-sources--methodology)
 
 ---
+
+<span id="1-executive-summary"></span>
 
 ## 1. エグゼクティブサマリー
 
@@ -41,6 +42,8 @@ draft: false
 **海運：** 二極化した市況。太平洋航路のコンテナ運賃は堅調（Drewry世界コンテナ指数 $4,434/FEU、前週比-1%。上海–ニューヨーク $10,428）の一方、アジア–欧州航路はスエズ経由輸送の回復により12週連続で下落した。ドライバルクは1か月で最悪の週となり（バルチック海運指数 3,148、前週比-8.1%）、ケープサイズ船の収益が12.8%急落した。
 
 ---
+
+<span id="2-alerts"></span>
 
 ## 2. アラート
 
@@ -61,7 +64,7 @@ Sept 8の大統領布告により二段階の構造が作られた。第一波�
 
 ### A2 ― インドネシア産パーム油WRO（詳細）
 
-CBPのSept 29命令は、Mitra Aneka Rezeki（MAR）およびHardaya Inti Plantation（HIP）由来のパーム油とその派生物を対象とする。検討された証拠：労働者への聞き取り、給与明細、収穫ノルマ、写真、NGO・政府報告書、報道、学術研究。MARの労働者にはILOの強制労働指標のうち**9項目**（身分証明書の取り上げや隔離を含む）が、HIPには**7項目**（債務束縛、賃金の不払い、欺瞞、過度の時間外労働、脅迫、虐待的労働条件、脆弱性の悪用）が確認された。全米港湾で即時差し止め。輸入者は輸出、廃棄、またはクリーンな調達の立証のいずれかを選択できる。([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
+CBPのSept 29命令は、Mitra Aneka Rezeki（MAR）およびHardaya Inti Plantation（HIP）由来のパーム油とその派生物を対象とする。検討された情報：労働者への聞き取り、給与明細、収穫ノルマ、写真、NGO・政府報告書、報道、学術研究。MARの労働者にはILOの強制労働指標のうち**9項目**（身分証明書の取り上げや隔離を含む）が、HIPには**7項目**（債務束縛、賃金の不払い、欺瞞、過度の時間外労働、脅迫、虐待的労働条件、脆弱性の悪用）が確認された。全米港湾で即時差し止め。輸入者は輸出、廃棄、またはクリーンな調達の立証のいずれかを選択できる。([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
 
 ### A3 ― Graham Act（詳細）
 
@@ -80,6 +83,8 @@ Aug 6の大統領布告＋商務省暫定最終規則（Sept 24）。**Dec 4**�
 Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに対する反ダンピング調査**を開始した。北京での貿易協議の数日前、仏独提案に対抗するタイミングである。商務部はEUの迅速対応手段に対して別途「断固たる」報復を警告した。([vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f))
 
 ---
+
+<span id="3-top-stories--deep-dives"></span>
 
 ## 3. トップストーリー ― 深掘り
 
@@ -155,6 +160,8 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 
 ---
 
+<span id="4-tariff-tracker"></span>
+
 ## 4. 関税トラッカー
 
 ベースライン＋今週の変更。特記なき限り税率は*追加*関税。積み上げルールは措置ごとに異なるため、出荷ごとにHTS、原産地、入国日を確認すること。
@@ -180,6 +187,8 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 
 ---
 
+<span id="5-us-policy-deep-dive"></span>
+
 ## 5. 米国政策の深掘り
 
 ### 今週の米国の動き
@@ -199,6 +208,8 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 **分析。** 政権は3つの時計を同時に回している。(1)*懲罰*の時計――カナダ禁止、Graham Act二次関税、ポリシリコンMIP――いずれも年末までにレバレッジを最大化するよう設計されている。(2)*制度*の時計――USMCA2027年見直し準備、貿易委員会の手続き、MFN改革論議――恒久的な仕組みを構築している。(3)*法廷*の時計――CITのデミニミス勝訴と最高裁のIEEPA関税敗訴が並存し、$165BのIEEPA関税がCAPEを通じて還付されつつある。パターンは明確である。裁判所が制約を課すところ（IEEPA関税）では、政権は232条・338条・301条や制定法（Graham Act）で迂回する。輸入者は、措置の*減少*ではなく、*古い*権限に基づく*さらなる*措置を想定すべきである。
 
 ---
+
+<span id="6-world-policy-by-region"></span>
 
 ## 6. 地域別・世界の政策
 
@@ -237,6 +248,8 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | 英国 | 今週、特筆すべき貿易政策の動きなし |  |
 | メキシコ／アルゼンチン | G20で米国の強制労働宣言に参加（共同文書案の失敗とは別枠） | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
+<span id="7-enforcement-actions"></span>
+
 ## 7. 執行措置
 
 | 措置 | 詳細 | 出典 |
@@ -250,6 +263,8 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 
 **読み筋。** 執行は貨物単位の差し止めから*貸借対照表*への影響へと移行している。5億ドル級の虚偽請求和解、AI支援の迂回輸出検知、経済全体を罰する労働関税レイヤーである。コンプライアンスの負担は上流へ移っている。輸入者に必要なのは請求書レベルではなく*サプライヤーのサプライヤー*レベルでの原産地文書である。
 
+<span id="8-data-releases"></span>
+
 ## 8. データ発表
 
 | 発表 | 詳細 | 出典 |
@@ -260,6 +275,8 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | Drewry Container Forecaster | 今後四半期は需給バランスが緩和し、スポット運賃のさらなる下落を見込む | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm)（前週） |
 
 ---
+
+<span id="9-freight-market"></span>
 
 ## 9. 海運市況
 
@@ -356,6 +373,8 @@ Canada/India Sec. 301 FL          10%  ████
 
 ---
 
+<span id="10-policy-timelines"></span>
+
 ## 10. 政策タイムライン
 
 ### 米加エスカレーション（2026年）
@@ -398,6 +417,8 @@ timeline
 
 ---
 
+<span id="11-upcoming-deadlines--events-next-90-days"></span>
+
 ## 11. 今後の期限・イベント（今後90日）
 
 | 日付 | イベント | 意義 | 出典 |
@@ -414,8 +435,10 @@ timeline
 
 ---
 
-## 12. 情報源と作成方法
+<span id="12-sources--methodology"></span>
+
+## 12. データソースと作成方法
 
 **対象期間：** 2026年9月28日～10月5日。
 
-**今週参照した情報源：** FreightWaves、thedcn.com.au（バルチック取引所／Drewry）、container-news.com、logisticsnews.ph、worldports.org、handybulk.com、bairdmaritime.com、indexbox.io、geopoliticsunplugged（Substack）、metro.global、ホワイトハウス布告、CBP（KPMG、GHY、Thompson Hine、Trans-Border Global Freight経由）、USTR（AP／Reuters／nationpress経由）、Federal Register（貿易専門紙経由）、BIS（Baker McKenzie／JD Supra経由）、MOFCOM（直接）、Reuters、AP、WSJ、CNN、Euronews（vespernews／tbsnews経由）、brusselsmorning.com、LexBlog、JD Supra、Mondaq、tradepractitioner.com、KPMG TaxNewsFlash、GHY International、Thompson Hine、tariffcalculator2026.com、surtaxscan.com、tarifflens.ai、asrwe.com、thefinancialeconomy.com、jagranjosh.com、thehindubusinessline.com、nationpress.com、beatsinbrief.com、textalks.com、exencialrp（HSBCノート）、tradersunion.com、frontlinesandbottomlines（ブログ）、en.sedaily.com、logisticusgroup.com、etwenergy.com、jingsun-power.com、news.metal.com（SMM）、news.bloomberglaw.com、openclassactions.com、srnnews.com／Reuters（デミニミス）、supplychaindive.com、suasnews.com、dronelife.com、rxo.com、inboundlogistics.com、ttnews.com、cdllife.com、financial-news.co.uk。
+**今週参照したデータソース：** FreightWaves、thedcn.com.au（バルチック取引所／Drewry）、container-news.com、logisticsnews.ph、worldports.org、handybulk.com、bairdmaritime.com、indexbox.io、geopoliticsunplugged（Substack）、metro.global、ホワイトハウス布告、CBP（KPMG、GHY、Thompson Hine、Trans-Border Global Freight経由）、USTR（AP／Reuters／nationpress経由）、Federal Register（貿易専門紙経由）、BIS（Baker McKenzie／JD Supra経由）、MOFCOM（直接）、Reuters、AP、WSJ、CNN、Euronews（vespernews／tbsnews経由）、brusselsmorning.com、LexBlog、JD Supra、Mondaq、tradepractitioner.com、KPMG TaxNewsFlash、GHY International、Thompson Hine、tariffcalculator2026.com、surtaxscan.com、tarifflens.ai、asrwe.com、thefinancialeconomy.com、jagranjosh.com、thehindubusinessline.com、nationpress.com、beatsinbrief.com、textalks.com、exencialrp（HSBCノート）、tradersunion.com、frontlinesandbottomlines（ブログ）、en.sedaily.com、logisticusgroup.com、etwenergy.com、jingsun-power.com、news.metal.com（SMM）、news.bloomberglaw.com、openclassactions.com、srnnews.com／Reuters（デミニミス）、supplychaindive.com、suasnews.com、dronelife.com、rxo.com、inboundlogistics.com、ttnews.com、cdllife.com、financial-news.co.uk。

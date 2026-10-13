@@ -23,10 +23,11 @@ draft: false
 9. [Pasar angkutan](#9-freight-market)
 10. [Lini masa kebijakan](#10-policy-timelines)
 11. [Tenggat & agenda mendatang (90 hari ke depan)](#11-upcoming-deadlines--events-next-90-days)
-[Penanda konten — sudut pemasaran Dureach](#12-content-flags--dureach-marketing-angles)
 12. [Sumber & metodologi](#12-sources--methodology)
 
 ---
+
+<span id="1-executive-summary"></span>
 
 ## 1. Ringkasan eksekutif
 
@@ -41,6 +42,8 @@ Sementara itu sistem multilateral semakin retak: para menteri perdagangan G20 di
 **Angkutan:** pasar dua kecepatan. Tarif kontainer transpasifik bertahan kuat (Drewry WCI $4,434/FEU, -1% w/w; Shanghai–New York $10,428), sementara Asia–Eropa turun untuk pekan ke-12 berturut-turut karena kembalinya kapasitas Terusan Suez. Kargo curah kering mencatat pekan terburuknya dalam sebulan (BDI 3,148, -8.1% w/w) seiring anjloknya pendapatan Capesize 12.8%.
 
 ---
+
+<span id="2-alerts"></span>
 
 ## 2. Peringatan
 
@@ -61,7 +64,7 @@ Aturan penumpukan kritis: bea 50% Pasal 338 **tanpa pengecualian USMCA** — ser
 
 ### A2 — WRO minyak sawit Indonesia (detail)
 
-Perintah CBP 29 September menargetkan minyak sawit dan turunannya dari Mitra Aneka Rezeki (MAR) dan Hardaya Inti Plantation (HIP). Bukti yang ditelaah: wawancara pekerja, slip gaji, kuota panen, foto, laporan LSM/pemerintah, media berita, riset akademik. Pekerja di MAR menunjukkan **sembilan** indikator kerja paksa ILO (termasuk penahanan dokumen identitas dan isolasi); HIP menunjukkan **tujuh** (perbudakan utang, penahanan upah, penipuan, lembur berlebihan, intimidasi, kondisi kerja yang kasar, penyalahgunaan kerentanan). Penahanan segera berlaku di semua pelabuhan AS; importir dapat mengekspor kembali, memusnahkan, atau membuktikan sumber yang bersih. ([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
+Perintah CBP 29 September menargetkan minyak sawit dan turunannya dari Mitra Aneka Rezeki (MAR) dan Hardaya Inti Plantation (HIP). informasi yang ditelaah: wawancara pekerja, slip gaji, kuota panen, foto, laporan LSM/pemerintah, media berita, riset akademik. Pekerja di MAR menunjukkan **sembilan** indikator kerja paksa ILO (termasuk penahanan dokumen identitas dan isolasi); HIP menunjukkan **tujuh** (perbudakan utang, penahanan upah, penipuan, lembur berlebihan, intimidasi, kondisi kerja yang kasar, penyalahgunaan kerentanan). Penahanan segera berlaku di semua pelabuhan AS; importir dapat mengekspor kembali, memusnahkan, atau membuktikan sumber yang bersih. ([thompsonhine.com](https://www.thompsonhine.com/insights/cbp-issues-withhold-release-orders-on-two-indonesian-palm-oil-producers/), [ghy.com](https://www.ghy.com/trade-compliance/2026-withhold-release-orders-wros/))
 
 ### A3 — Graham Act (detail)
 
@@ -80,6 +83,8 @@ Macron dan Merz menulis surat kepada von der Leyen pada 5 Oktober mengusulkan in
 Pada 3 Oktober, MOFCOM (Pengumuman No. 44) membuka **penyelidikan anti-dumping atas p-nitrotoluena dari UE** — beberapa hari sebelum perundingan dagang Beijing dan bertepatan dengan usulan Prancis-Jerman. MOFCOM secara terpisah memperingatkan retaliasi "tegas" terhadap instrumen respons cepat UE mana pun. ([vespernews.com](https://www.vespernews.com/en/news/7dd758b7-b501-4c41-b2ee-13cb57ed832f))
 
 ---
+
+<span id="3-top-stories--deep-dives"></span>
 
 ## 3. Berita utama — telaah mendalam
 
@@ -154,6 +159,8 @@ Pada 3 Oktober, MOFCOM (Pengumuman No. 44) membuka **penyelidikan anti-dumping a
 
 ---
 
+<span id="4-tariff-tracker"></span>
+
 ## 4. Pelacak tarif
 
 Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan lain; aturan penumpukan berbeda-beda menurut tindakan — periksa HTS, asal, dan tanggal entri per pengiriman.
@@ -178,6 +185,8 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | UE (diusulkan) | Instrumen "reaksi sistemik" | Hingga pemutusan pasar | Usulan 5 Oktober; KTT 15 Oktober | Belum menjadi hukum | [reuters.com](https://www.reuters.com/world/china/france-germany-propose-new-rapid-eu-trade-response-tool-2026-10-05/) |
 ---
 
+<span id="5-us-policy-deep-dive"></span>
+
 ## 5. Telaah mendalam kebijakan AS
 
 ### Aksi AS pekan ini
@@ -195,6 +204,8 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | 5 Oktober | Gedung Putih/Kongres | Hitung mundur implementasi Graham Act (13 hari tersisa) | Tarif sekunder hingga 100% tertunda | [lexblog.com](https://www.lexblog.com/2026/09/24/the-lindsey-graham-sanctions-act-what-businesses-need-to-know-about-the-new-tariffs/) |
 
 **Analisis.** Pemerintahan menjalankan tiga jam sekaligus: (1) jam *punitif* — larangan Kanada, tarif sekunder Graham Act, MIP polisilikon — semuanya dirancang memaksimalkan daya ungkit sebelum akhir tahun; (2) jam *kelembagaan* — persiapan tinjauan USMCA 2027, prosedur Dewan Dagang, debat reformasi MFN — membangun mesin permanen; (3) jam *hukum* — kemenangan de minimis CIT vs kekalahan tarif IEEPA di Mahkamah Agung, dengan $165 miliar pengembalian IEEPA kini mengalir melalui CAPE. Polanya: di mana pengadilan membatasi (tarif IEEPA), pemerintahan memutar via 232/338/301 dan undang-undang (Graham Act). Importir sebaiknya merencanakan *lebih banyak* tindakan di bawah kewenangan *lama*, bukan lebih sedikit.
+
+<span id="6-world-policy-by-region"></span>
 
 ## 6. Kebijakan dunia menurut kawasan
 
@@ -233,6 +244,8 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | Inggris | Tak ada langkah kebijakan dagang besar terpantau pekan ini |  |
 | Meksiko/Argentina | Bergabung dalam deklarasi kerja paksa AS di G20 (terpisah dari teks bersama yang gagal) | [nationpress.com](https://www.nationpress.com/all/g20-milwaukee-talks-eye-more-diesel-globally) |
 
+<span id="7-enforcement-actions"></span>
+
 ## 7. Tindakan penegakan
 
 | Tindakan | Detail | Sumber |
@@ -246,6 +259,8 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 
 **Pembacaan.** Penegakan bergeser dari interdiksi tingkat pengiriman ke konsekuensi *neraca*: penyelesaian False Claims setengah miliar dolar, deteksi transshipment berbantuan AI, dan lapisan tarif yang menghukum seluruh ekonomi atas praktik ketenagakerjaan. Beban kepatuhan bermigrasi ke hulu — importir memerlukan dokumentasi asal hingga tingkat *pemasok dari pemasok*, bukan sekadar faktur.
 
+<span id="8-data-releases"></span>
+
 ## 8. Rilis data
 
 | Rilis | Detail | Sumber |
@@ -255,6 +270,8 @@ Dasar + perubahan pekan ini. Tarif bersifat bea *tambahan* kecuali dinyatakan la
 | UN Comtrade / WITS / ITC / IMF | Tak ada rilis terjadwal besar pekan ini (siklus bulanan) |  |
 | Drewry Container Forecaster | Keseimbangan pasokan-permintaan melemah pada kuartal mendatang; kontraksi tarif spot lanjutan diperkirakan | [fibre2fashion.com](https://www.fibre2fashion.com/news/textile-news/drewry-wci-further-falls-1-transpacific-rates-less-volatile-305782-newsdetails.htm) (pekan sebelumnya) |
 ---
+
+<span id="9-freight-market"></span>
 
 ## 9. Pasar angkutan
 
@@ -351,6 +368,8 @@ Canada/India Sec. 301 FL          10%  ████
 
 ---
 
+<span id="10-policy-timelines"></span>
+
 ## 10. Lini masa kebijakan
 
 ### Eskalasi AS–Kanada, 2026
@@ -393,6 +412,8 @@ timeline
 
 ---
 
+<span id="11-upcoming-deadlines--events-next-90-days"></span>
+
 ## 11. Tenggat & agenda mendatang (90 hari ke depan)
 
 | Tanggal | Agenda | Mengapa penting | Sumber |
@@ -408,6 +429,8 @@ timeline
 | Juli 2027 | De minimis ditutup secara legislatif | Berakhirnya pengecualian $800 menurut undang-undang | [reuters.com](https://www.reuters.com/legal/government/us-court-backs-trumps-power-close-de-minimis-tariff-exemption-2026-08-13/) |
 
 ---
+
+<span id="12-sources--methodology"></span>
 
 ## 12. Sumber & metodologi
 
