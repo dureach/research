@@ -487,8 +487,7 @@ xychart-beta
 
 ### ข่าวกรองผู้ขาย
 
-- **Descartes Systems Group:** รายงาน Global Shipping Report เดือนตุลาคม (เผยแพร่ 8 ตุลาคม) — การนำเข้าตู้คอนเทนเนอร์สหรัฐฯ สถิติเดือนกันยายน (ดู §3.7); **Descartes Datamyne AI Agent** (ประกาศ ~1 ตุลาคม) — เอเจนต์ AI สนทนาที่ดึงจากบันทึกการส่ง 500 ล้าน+ รายการที่เพิ่มรายปีใน 230 ตลาด อ้างลดเวลาวิจัย 90%; งาน Innovation Forum 2026 (6–8 ตุลาคม ชิคาโก) โชว์เทคโนโลยีโลจิสติกส์ AI รวมถึงเอเจนต์ AI MacroPoint OpsForce (อ้างผลลัพธ์ลูกค้า: +30% ระบบติดตามอัตโนมัติแบบไม่แตะ 1.5 เท่าผลผลิตทีมติดตาม) การทบทวน descartes.com/solutions/global-trade-intelligence โดยตรงเป็นไปไม่ได้ในเซสชันนี้; รายการข้างต้นจากข่าวสาธารณะ ([reuters.com](https://www.reuters.com/world/china/us-ocean-container-imports-set-new-record-september-descartes-says-2026-10-08/), [disruptsmedia.com](https://disrupts.disruptsmedia.com/transportation-logistics/descartes-datamyne-ai-agent-targets-90-cut-trade-data-research))
-- **TradeInt:** เงินช่วยเหลือกระทรวงพาณิชย์ตุรกี × TradeInt (ประกาศ 30 กันยายน รายงานในสื่อสัปดาห์นี้) — ให้ทุนเข้าถึงบันทึกการส่ง เอกสารศุลกากร และข้อมูลใบตราส่งใน 200+ ประเทศสำหรับบริษัทที่ปรึกษาตุรกี; การทบทวนข้อมูลของ TradeInt ระบุการส่งออกตุรกีปี 2025 ที่ $269.7 พันล้าน (กันยายนสถิติ $22.6 พันล้าน) รายงานผ่านสื่อสาธารณะเท่านั้น; ไม่ใช้การเข้าถึงแพลตฟอร์มข้อมูล ([citybuzz.co](https://www.citybuzz.co/2026/09/30/turkiyes-ministry-of-trade-and-tradeint-launch-grant-to-arm-local-consultants-with-global-trade-data-through-tradeint-partnership))
+- **TradeInt:** เงินช่วยเหลือกระทรวงพาณิชย์ตุรกี × TradeInt (ประกาศ 30 กันยายน รายงานในสื่อสัปดาห์นี้) — ให้ทุนเข้าถึงบันทึกการส่ง เอกสารศุลกากร และข้อมูลใบตราส่งใน 200+ ประเทศสำหรับบริษัทที่ปรึกษาตุรกี; การทบทวนข้อมูลของ TradeInt ระบุการส่งออกตุรกีปี 2025 ที่ $269.7 พันล้าน (กันยายนสถิติ $22.6 พันล้าน) ([citybuzz.co](https://www.citybuzz.co/2026/09/30/turkiyes-ministry-of-trade-and-tradeint-launch-grant-to-arm-local-consultants-with-global-trade-data-through-tradeint-partnership))
 
 ---
 

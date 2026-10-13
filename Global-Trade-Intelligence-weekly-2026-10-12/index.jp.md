@@ -487,8 +487,7 @@ xychart-beta
 
 ### ベンダー情報
 
-- **Descartes Systems Group：** 10月グローバル海運レポート（10月8日発表） — 米国9月コンテナ輸入の過去最高（§3.7参照）；Descartes **Datamyne AI Agent**（10月1日頃発表） — 230市場で年間5億件超の出荷記録を基盤とする会話型AIエージェント、研究時間90%削減を主張；2026年イノベーションフォーラム（10月6〜8日、シカゴ）ではMacroPoint OpsForce AIエージェントなどのAI物流技術を披露（顧客実績の主張：ノータッチ追跡自動化+30%、追跡チーム生産性1.5倍）。今セッションではdescartes.com/solutions/global-trade-intelligenceの直接レビューはできなかった；上記は公開報道からの情報。([reuters.com](https://www.reuters.com/world/china/us-ocean-container-imports-set-new-record-september-descartes-says-2026-10-08/), [disruptsmedia.com](https://disrupts.disruptsmedia.com/transportation-logistics/descartes-datamyne-ai-agent-targets-90-cut-trade-data-research))
-- **TradeInt：** トルコ貿易省×TradeInt助成金（9月30日発表、今週の報道でカバー） — トルコのコンサルティング企業向けに200カ国超の出荷記録、税関申告、船荷証券データへの助成アクセス；TradeIntのデータレビューはトルコの2025年輸出を2,697億ドルとした（9月は過去最高226億ドル）。公開報道のみでカバー；データプラットフォームへのアクセスは不使用。([citybuzz.co](https://www.citybuzz.co/2026/09/30/turkiyes-ministry-of-trade-and-tradeint-launch-grant-to-arm-local-consultants-with-global-trade-data-through-tradeint-partnership))
+- **TradeInt：** トルコ貿易省×TradeInt助成金（9月30日発表、今週の報道でカバー） — トルコのコンサルティング企業向けに200カ国超の出荷記録、税関申告、船荷証券データへの助成アクセス；TradeIntのデータレビューはトルコの2025年輸出を2,697億ドルとした（9月は過去最高226億ドル）。([citybuzz.co](https://www.citybuzz.co/2026/09/30/turkiyes-ministry-of-trade-and-tradeint-launch-grant-to-arm-local-consultants-with-global-trade-data-through-tradeint-partnership))
 
 ---
 

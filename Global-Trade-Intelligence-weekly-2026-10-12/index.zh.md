@@ -488,8 +488,7 @@ xychart-beta
 
 ### 供应商情报
 
-- **Descartes Systems Group：** 10月《全球航运报告》（10月8日发布）——美国9月集装箱进口创纪录（见§3.7）；Descartes **Datamyne AI Agent**（约10月1日发布）——基于每年新增5亿+条覆盖230个市场的货运记录的对话式AI代理，声称研究时间削减90%；2026创新论坛（10月6–8日，芝加哥）展示AI物流技术，包括MacroPoint OpsForce AI代理（声称客户成果：免触碰追踪自动化+30%，追踪团队生产力1.5倍）。本期未能直接查阅descartes.com/solutions/global-trade-intelligence；以上来自公开新闻报道。([reuters.com](https://www.reuters.com/world/china/us-ocean-container-imports-set-new-record-september-descartes-says-2026-10-08/), [disruptsmedia.com](https://disrupts.disruptsmedia.com/transportation-logistics/descartes-datamyne-ai-agent-targets-90-cut-trade-data-research))
-- **TradeInt：** 土耳其贸易部 × TradeInt资助计划（9月30日宣布，本周媒体报道）——为土耳其咨询公司提供覆盖200多国货运记录、报关单和提单数据的资助访问；TradeInt的数据审查将土耳其2025年出口定为2697亿美元（9月创纪录226亿美元）。仅经公开媒体报道；未使用数据平台访问。([citybuzz.co](https://www.citybuzz.co/2026/09/30/turkiyes-ministry-of-trade-and-tradeint-launch-grant-to-arm-local-consultants-with-global-trade-data-through-tradeint-partnership))
+- **TradeInt：** 土耳其贸易部 × TradeInt资助计划（9月30日宣布，本周媒体报道）——为土耳其咨询公司提供覆盖200多国货运记录、报关单和提单数据的资助访问；TradeInt的数据审查将土耳其2025年出口定为2697亿美元（9月创纪录226亿美元）。([citybuzz.co](https://www.citybuzz.co/2026/09/30/turkiyes-ministry-of-trade-and-tradeint-launch-grant-to-arm-local-consultants-with-global-trade-data-through-tradeint-partnership))
 
 ---
 ## 10. 政策时间线
