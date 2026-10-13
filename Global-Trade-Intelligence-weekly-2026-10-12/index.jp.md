@@ -124,6 +124,7 @@ draft: false
 - UNCTADの10月グローバル貿易アップデートは、2026年の財貿易成長を実質でわずか**1.5〜2.5%**と予測、2025年の4.7%から低下 — 2023年以来の最低 — WTOの数量上方修正への意図的な対抗点。
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "WTO 2026年財貿易量見通しの改定"
     x-axis ["3月見通し", "10月更新"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "米国月次貿易赤字、2026年8月"
     x-axis ["7月", "8月（輸入は過去最高4,208億ドル）"]
@@ -334,6 +336,7 @@ CBPは**10月6日**に、オンライン請求プラットフォーム（CAPE）
 | USITC DataWeb / USA Trade Online | 定例月次更新 | 2026年8月詳細が照会可能に | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "2026年の米国世帯あたり関税負担（シンクタンク試算）"
     x-axis ["Tax Foundation（約820ドル）", "Yale Budget Lab（約1,100ドル）"]
@@ -364,6 +367,7 @@ Drewry世界コンテナ指数は**10月8日**木曜評価で**40フィートあ
 欠航数（Drewry Container Capacity Insight）：太平洋横断 — 来週は欠航4便発表、今週の11便から減少（容量増加）；アジア〜欧州 — 来週6便発表、5便から増加。
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "WCI複合、直近2週の評価"
     x-axis ["10月01日（前週比-1%）", "10月08日（前週比-2%）"]
@@ -399,6 +403,7 @@ Supply Chain Dive（10月9日、Freightos週間）：アジア〜米国西岸ス
 | 10月9日（金） | 2,917 | 4,340（35,860ドル） | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "バルチック海運指数 日次終値、2026年10月5〜9日"
     x-axis ["10月5日（月）", "10月6日（火）", "10月7日（水）", "10月8日（木）", "10月9日（金）"]

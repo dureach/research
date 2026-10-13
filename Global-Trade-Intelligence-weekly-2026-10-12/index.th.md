@@ -124,6 +124,7 @@ draft: false
 - รายงานอัปเดตการค้าโลกฉบับเดือนตุลาคมของ UNCTAD คาดการเติบโตการค้าโภคภัณฑ์ปี 2026 เพียง **1.5–2.5% ในแง่ปริมาณจริง** ลดลงจาก 4.7% ในปี 2025 — ต่ำสุดนับตั้งแต่ 2023 — เป็นการถ่วงดุลโดยตั้งใจต่อการปรับเพิ่มปริมาณของ WTO
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "การปรับคาดการณ์ปริมาณการค้าโภคภัณฑ์ปี 2026 ของ WTO"
     x-axis ["คาดการณ์มีนาคม", "ปรับปรุงตุลาคม"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "การขาดดุลการค้าสหรัฐฯ รายเดือน สิงหาคม 2026"
     x-axis ["กรกฎาคม", "สิงหาคม (นำเข้าสถิติ $420.8B)"]
@@ -334,6 +336,7 @@ CBP เปิด**ระยะที่ 3 ของกระบวนการ�
 | USITC DataWeb / USA Trade Online | ปรับปรุงรายเดือนตามปกติ | รายละเอียดสิงหาคม 2026 สืบค้นได้แล้ว | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "ภาระภาษีต่อครัวเรือนสหรัฐฯ ปี 2026 (ประมาณการของคลังสมอง)"
     x-axis ["Tax Foundation (~$820)", "Yale Budget Lab (~$1,100)"]
@@ -364,6 +367,7 @@ xychart-beta
 จำนวนเที่ยวเรือที่ยกเลิก (Drewry Container Capacity Insight): ทรานส์แปซิฟิก — ประกาศยกเลิกสี่เที่ยวสำหรับสัปดาห์หน้า ลดลงจากสิบเอ็ดเที่ยวสัปดาห์นี้ (กำลังบรรทุกเพิ่ม); เอเชีย–ยุโรป — ประกาศหกเที่ยวสำหรับสัปดาห์หน้า เพิ่มจากห้าเที่ยว
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "WCI รวม การประเมินรายสัปดาห์สองครั้งล่าสุด"
     x-axis ["01 ต.ค. (-1% จากสัปดาห์ก่อน)", "08 ต.ค. (-2% จากสัปดาห์ก่อน)"]
@@ -399,6 +403,7 @@ Supply Chain Dive (9 ตุลาคม รายสัปดาห์ Freightos
 | ศ. 9 ต.ค. | 2,917 | 4,340 ($35,860) | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "ดัชนี Baltic Dry ปิดรายวัน 5–9 ต.ค. 2026"
     x-axis ["จ. 5 ต.ค.", "อ. 6 ต.ค.", "พ. 7 ต.ค.", "พฤ. 8 ต.ค.", "ศ. 9 ต.ค."]

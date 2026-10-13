@@ -124,6 +124,7 @@ Juru bicara militer Houthi mengumumkan embargo maritim atas Arab Saudi; pada 10�
 - Pembaruan Perdagangan Global UNCTAD Oktober memproyeksikan pertumbuhan perdagangan barang 2026 hanya **1,5–2,5% secara riil**, turun dari 4,7% pada 2025 — terendah sejak 2023 — kontrapunt yang disengaja atas peningkatan volume WTO.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "Revisi perkiraan volume perdagangan barang WTO 2026"
     x-axis ["Perkiraan Maret", "Pembaruan Oktober"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "Defisit perdagangan bulanan AS, Agustus 2026"
     x-axis ["Juli", "Agustus (impor rekor $420,8 miliar)"]
@@ -334,6 +336,7 @@ Penyelidikan AD/CVD baru dimulai atas **senyawa amina dari Tiongkok** (marjin du
 | USITC DataWeb / USA Trade Online | Penyegaran bulanan rutin | Detail Agustus 2026 kini dapat dikueri | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "Beban tarif per rumah tangga AS, 2026 (estimasi think-tank)"
     x-axis ["Tax Foundation (~$820)", "Yale Budget Lab (~$1,100)"]
@@ -364,6 +367,7 @@ Drewry World Container Index menutup penilaian Kamis **8 Oktober** pada **$4.351
 Jumlah pelayaran kosong (Drewry Container Capacity Insight): Transpasifik — empat pelayaran kosong diumumkan untuk pekan mendatang, turun dari sebelas pekan ini (kapasitas meningkat); Asia–Eropa — enam diumumkan untuk pekan depan, naik dari lima.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "Komposit WCI, dua penilaian mingguan terakhir"
     x-axis ["01 Okt (-1% w/w)", "08 Okt (-2% w/w)"]
@@ -399,6 +403,7 @@ Supply Chain Dive (9 Oktober, mingguan Freightos): spot Asia–USWC $8.322 (−3
 | Jum 9 Okt | 2.917 | 4.340 ($35.860) | 2.424 | 1.814 | [Laporan mingguan Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "Penutupan harian Baltic Dry Index, 5–9 Okt 2026"
     x-axis ["Sen 5 Okt", "Sel 6 Okt", "Rab 7 Okt", "Kam 8 Okt", "Jum 9 Okt"]

@@ -124,6 +124,7 @@ El portavoz militar hutí declaró un embargo marítimo contra Arabia Saudita; e
 - La Actualización Global del Comercio de octubre de la UNCTAD proyecta un crecimiento del comercio de mercancías de 2026 de solo **1,5–2,5% en términos reales**, desde el 4,7% de 2025 — el más bajo desde 2023 — un contrapunto deliberado a la mejora de volumen de la OMC.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "Revisión de la previsión de volumen de comercio de mercancías de la OMC para 2026"
     x-axis ["Previsión de marzo", "Actualización de octubre"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "Déficit comercial mensual de EE. UU., agosto de 2026"
     x-axis ["Julio", "Agosto (importaciones récord de 420.800 M$)"]
@@ -334,6 +336,7 @@ Nuevas investigaciones AD/CVD iniciadas sobre **compuestos de amina de China** (
 | USITC DataWeb / USA Trade Online | Actualización mensual rutinaria | Detalle de agosto de 2026 ahora consultable | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "Carga arancelaria por hogar estadounidense, 2026 (estimaciones de think tanks)"
     x-axis ["Tax Foundation (~820 $)", "Yale Budget Lab (~1.100 $)"]
@@ -364,6 +367,7 @@ El Índice Mundial de Contenedores Drewry cerró su evaluación del jueves **8 d
 Recuentos de salidas en blanco (Drewry Container Capacity Insight): Transpacífico — cuatro salidas en blanco anunciadas para la próxima semana, desde once esta semana (capacidad en aumento); Asia–Europa — seis anunciadas para la próxima semana, desde cinco.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "WCI compuesto, últimas dos evaluaciones semanales"
     x-axis ["01 de oct. (-1% s/s)", "08 de oct. (-2% s/s)"]
@@ -399,6 +403,7 @@ El **Baltic Dry Index** terminó el viernes 9 de octubre en **2.917 puntos, −7
 | Vie 9 de oct. | 2.917 | 4.340 (35.860 $) | 2.424 | 1.814 | [Informe semanal de Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "Cierres diarios del Baltic Dry Index, 5–9 de oct. de 2026"
     x-axis ["Lun 5 de oct.", "Mar 6 de oct.", "Mié 7 de oct.", "Jue 8 de oct.", "Vie 9 de oct."]

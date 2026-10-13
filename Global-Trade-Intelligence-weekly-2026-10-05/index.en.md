@@ -276,6 +276,7 @@ Capacity notes: 10 transpacific blank sailings announced for next week (down fro
 **Week-over-week lane moves (Drewry, $/FEU):**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "Week-over-week lane moves (Drewry, $/FEU)"
     x-axis ["NY (+1%)", "LA (0%)", "Genoa (-3%)", "RTM (-2%)", "WCI (-1%)"]
@@ -303,12 +304,15 @@ Global **FBX 3,341 — unchanged w/w**. Transpacific steady, Europe soft, transa
 **FBX lane snapshot ($/FEU):**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
 xychart-beta
     title "FBX lane snapshot ($/FEU)"
-    x-axis ["FBX01 CN/EA → USWC", "FBX03 CN/EA → USEC", "FBX11 CN/EA → N.Europe", "FBX13 CN/EA → Med", "FBX22 Europe → USEC", "FBX21 USEC → Europe"]
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX22 EU-US", "FBX21 US-EU"]
     y-axis "$/FEU" 0 --> 11000
     bar [8319, 9606, 3260, 3555, 2723, 963]
 ```
+
+*Lanes: FBX01 China/East Asia→US West Coast; FBX03 →US East Coast; FBX11 →North Europe; FBX13 →Mediterranean; FBX22 Europe→US East Coast; FBX21 US East Coast→Europe.*
 
 ### 9.3 Dry bulk — Baltic Dry Index (Oct 2, 2026)
 
@@ -326,6 +330,7 @@ Note: Reuters' wire version reports Capesize earnings at $42,228/day on a differ
 **Weekly segment performance (% change w/w):**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "Weekly segment performance (% change w/w)"
     x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
@@ -343,6 +348,7 @@ xychart-beta
 ### 9.5 Tariff-rate comparison (selected measures, ad valorem)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "Tariff-rate comparison (selected measures, ad valorem)"
     x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]

@@ -285,6 +285,7 @@ Notas de capacidad: 10 salidas en blanco transpacíficas anunciadas para la pró
 **Movimientos semanales por ruta (Drewry, $/FEU):**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "Week-over-week lane moves (Drewry, $/FEU)"
     x-axis ["NY (+1%)", "LA (0%)", "Genoa (-3%)", "RTM (-2%)", "WCI (-1%)"]
@@ -312,12 +313,15 @@ Global **FBX 3,341 — sin cambios w/w**. Transpacífico estable, Europa suave, 
 **Panorama de rutas FBX ($/FEU):**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
 xychart-beta
     title "FBX lane snapshot ($/FEU)"
-    x-axis ["FBX01 CN/EA → USWC", "FBX03 CN/EA → USEC", "FBX11 CN/EA → N.Europe", "FBX13 CN/EA → Med", "FBX22 Europe → USEC", "FBX21 USEC → Europe"]
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX22 EU-US", "FBX21 US-EU"]
     y-axis "$/FEU" 0 --> 11000
     bar [8319, 9606, 3260, 3555, 2723, 963]
 ```
+
+*Lanes: FBX01 China/East Asia→US West Coast; FBX03 →US East Coast; FBX11 →North Europe; FBX13 →Mediterranean; FBX22 Europe→US East Coast; FBX21 US East Coast→Europe.*
 
 ### 9.3 Graneles secos — Baltic Dry Index (Oct 2, 2026)
 
@@ -335,6 +339,7 @@ Nota: la versión por cable de Reuters reporta ganancias de capesize de $42,228/
 **Desempeño semanal por segmento (% cambio w/w):**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "Weekly segment performance (% change w/w)"
     x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
@@ -352,6 +357,7 @@ xychart-beta
 ### 9.5 Comparación de tasas arancelarias (medidas selectas, ad valorem)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "Tariff-rate comparison (selected measures, ad valorem)"
     x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]

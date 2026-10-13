@@ -124,6 +124,7 @@ draft: false
 - UNCTAD 10月《全球贸易更新》预计2026年商品贸易实际增长仅**1.5–2.5%**，低于2025年的4.7%——为2023年以来最低——有意与WTO的贸易量上调形成对照。
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "WTO 2026年商品贸易量预测修正"
     x-axis ["3月预测", "10月更新"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "美国月度贸易逆差，2026年8月"
     x-axis ["7月", "8月（进口创纪录4208亿美元）"]
@@ -334,6 +336,7 @@ CBP于**10月6日**通过其在线索赔平台（CAPE）开启**法院命令的I
 | USITC DataWeb / USA Trade Online | 每月例行更新 | 2026年8月明细现可查询 | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "2026年美国家庭关税负担（智库估计）"
     x-axis ["税基基金会（约820美元）", "耶鲁预算实验室（约1100美元）"]
@@ -365,6 +368,7 @@ xychart-beta
 空班统计（德鲁里集装箱运力洞察）：跨太平洋——下周宣布4个空班，本周为11个（运力增加）；亚欧——下周宣布6个空班，上周为5个。
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "WCI综合指数，最近两次周度评估"
     x-axis ["10月01日（环比-1%）", "10月08日（环比-2%）"]
@@ -400,6 +404,7 @@ Supply Chain Dive（10月9日，Freightos周报）：亚–美西现货8322美�
 | 10月9日 周五 | 2,917 | 4,340（$35,860） | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "波罗的海干散货指数日收盘，2026年10月5–9日"
     x-axis ["10月5日 周一", "10月6日 周二", "10月7日 周三", "10月8日 周四", "10月9日 周五"]

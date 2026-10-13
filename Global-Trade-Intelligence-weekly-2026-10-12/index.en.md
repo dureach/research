@@ -124,6 +124,7 @@ The Houthi military spokesman declared a maritime embargo against Saudi Arabia; 
 - UNCTAD's October Global Trade Update projects 2026 merchandise trade growth at just **1.5–2.5% in real terms**, down from 4.7% in 2025 — the lowest since 2023 — a deliberate counterpoint to the WTO's volume upgrade.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "WTO 2026 merchandise trade volume forecast revision"
     x-axis ["March forecast", "October update"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "US monthly trade deficit, August 2026"
     x-axis ["July", "August (record imports $420.8B)"]
@@ -334,6 +336,7 @@ New AD/CVD investigations instituted on **amine compounds from China** (alleged 
 | USITC DataWeb / USA Trade Online | Routine monthly refresh | August 2026 detail now queryable | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "Tariff burden per US household, 2026 (think-tank estimates)"
     x-axis ["Tax Foundation (~$820)", "Yale Budget Lab (~$1,100)"]
@@ -364,6 +367,7 @@ The Drewry World Container Index closed its Thursday **October 8** assessment at
 Blank-sailing counts (Drewry Container Capacity Insight): Transpacific — four blank sailings announced for the coming week, down from eleven this week (capacity increasing); Asia–Europe — six announced for next week, up from five.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "WCI composite, last two weekly assessments"
     x-axis ["01 Oct (-1% w/w)", "08 Oct (-2% w/w)"]
@@ -399,6 +403,7 @@ The **Baltic Dry Index** finished Friday October 9 at **2,917 points, down 7.3% 
 | Fri 9 Oct | 2,917 | 4,340 ($35,860) | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "Baltic Dry Index daily closes, 5–9 Oct 2026"
     x-axis ["Mon 5 Oct", "Tue 6 Oct", "Wed 7 Oct", "Thu 8 Oct", "Fri 9 Oct"]

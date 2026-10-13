@@ -124,6 +124,7 @@ Phát ngôn viên quân sự Houthi tuyên bố lệnh cấm vận hàng hải �
 - Bản cập nhật Thương mại Toàn cầu tháng 10 của UNCTAD dự báo tăng trưởng thương mại hàng hóa 2026 chỉ **1,5–2,5% theo giá thực**, giảm từ 4,7% năm 2025 — thấp nhất kể từ 2023 — một đối điểm có chủ ý với việc WTO nâng triển vọng khối lượng.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
 xychart-beta
     title "Dự báo khối lượng thương mại hàng hóa 2026 của WTO — bản điều chỉnh"
     x-axis ["Dự báo tháng 3", "Cập nhật tháng 10"]
@@ -132,6 +133,7 @@ xychart-beta
 ```
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
     title "Thâm hụt thương mại hàng tháng của Hoa Kỳ, tháng 8 năm 2026"
     x-axis ["Tháng 7", "Tháng 8 (nhập khẩu kỷ lục 420,8 tỷ USD)"]
@@ -334,6 +336,7 @@ Các cuộc điều tra AD/CVD mới được khởi xướng đối với **h�
 | USITC DataWeb / USA Trade Online | Làm mới hàng tháng thường lệ | Chi tiết tháng 8 năm 2026 hiện có thể truy vấn | |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
 xychart-beta
     title "Gánh nặng thuế quan mỗi hộ gia đình Hoa Kỳ, 2026 (ước tính của các viện chính sách)"
     x-axis ["Tax Foundation (~820 USD)", "Phòng Thí nghiệm Ngân sách Yale (~1.100 USD)"]
@@ -364,6 +367,7 @@ Chỉ số Container Thế giới Drewry chốt đợt đánh giá thứ Năm **
 Số chuyến bị hủy (Drewry Container Capacity Insight): Xuyên Thái Bình Dương — bốn chuyến hủy được công bố cho tuần tới, giảm từ mười một chuyến tuần này (năng lực tăng); Á–Âu — sáu chuyến được công bố cho tuần tới, tăng từ năm.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
     title "WCI tổng hợp, hai đợt đánh giá hàng tuần gần nhất"
     x-axis ["01 tháng 10 (-1% so với tuần trước)", "08 tháng 10 (-2% so với tuần trước)"]
@@ -399,6 +403,7 @@ Supply Chain Dive (ngày 9 tháng 10, Freightos hàng tuần): giá giao ngay Á
 | Thứ Sáu 9 tháng 10 | 2.917 | 4.340 (35.860 USD) | 2.424 | 1.814 | [Báo cáo hàng tuần của Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
 xychart-beta
     title "Chỉ số Baltic Dry chốt phiên hàng ngày, 5–9 tháng 10 năm 2026"
     x-axis ["Thứ Hai 5 tháng 10", "Thứ Ba 6 tháng 10", "Thứ Tư 7 tháng 10", "Thứ Năm 8 tháng 10", "Thứ Sáu 9 tháng 10"]
