@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "米国の二国間財赤字上位、2026年8月（$B）"
+    x-axis ["メキシコ", "ベトナム", "台湾", "中国"]
+    y-axis "$B" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **分析。** 三つの発表は一つの物語を三つの角度から語る：需要は強い（過去最高の米国輸入）、その構成は狭い（AI財が貿易成長の半分近くを牽引；集中をUNCTADが指摘）、その地理は選択的（2024年以降の中米貿易が20%超減少する一方、メキシコ、ベトナム、台湾が空白を埋める）。WTOの数量楽観とUNCTADの実質ベースの慎重さの乖離 — 価格主導の名目増加対弱い実質数量 — が四半期の分析枠組みである。10月のIMF世界経済見通し（バンコク年次総会10月12〜18日に公表予定）が正式な関税シミュレーション評価を担う。([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 レアアース：11月10日のスナップバック
@@ -199,6 +209,17 @@ xychart-beta
 | 中国 | アミン化合物 — AD/CVD調査開始（申立てマージン最大476%） | 未定 | ITC暫定は2026年11月13日期限 | 調査中 | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | メキシコ | 鉄道タンク車 — AD/CVD調査開始 | 未定 | ITC暫定は2026年11月16日期限 | 調査中 | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | 日本 | ロシア産業基盤向け物品の輸出禁止拡大 | 輸出禁止 | 2026年10月16日 | 予定 | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "最高関税率（従価税、%）"
+    x-axis ["G112露", "アミンAD", "G113二次", "p-ニトロ", "338加", "加報復", "英中EV", "301L2/3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*表示された最高税率（提案段階のものは「最大」表記；AD＝主張ダンピングマージン）。*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "米国関税率：法定・適用・実効（%）"
+    x-axis ["法定（Yale）", "適用（TF）", "実効（TF）"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*Yale Budget LabおよびTax Foundationの推計（2026年）。TF＝Tax Foundation。*
+
+
 **分析。** このシンクタンク2社の組み合わせが世帯コスト論争の枠組みを示す：Tax Foundationの820ドルとYaleの1,100ドルはジャーナリストが引用する2つの数値で、法定対実効税率の扱いとIEEPA返還メカニクスの違いによる。Yaleの最高裁後の分析は最も完全な現行法の統合 — 返還の混乱が「大きな歳入効果」を生み、残る関税の2026年の成長阻害をほぼ相殺し、持続的な長期コストはGDPの0.1%（年間約300億ドル）。Tax Foundationの書籍規模の新主張 — すべての関税を廃止しVATで代替 — はこのサイクルで最も明確な政策代替案の表明である。WTO・UNCTADの乖離（数量楽観対実質ベースの慎重さ）は秋のデータフローを読む分析枠組みである。
 
 ---
@@ -365,6 +397,17 @@ Drewry世界コンテナ指数は**10月8日**木曜評価で**40フィートあ
 | バックホール ロッテルダム → 上海 | 628ドル | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 欠航数（Drewry Container Capacity Insight）：太平洋横断 — 来週は欠航4便発表、今週の11便から減少（容量増加）；アジア〜欧州 — 来週6便発表、5便から増加。
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "WCI航路運賃、2026年10月8日（$/FEU）"
+    x-axis ["SHA→RTM", "SHA→ジェノア", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA BH"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA＝上海；RTM＝ロッテルダム。バックホール：ロッテルダム→上海。*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -401,6 +444,17 @@ Supply Chain Dive（10月9日、Freightos週間）：アジア〜米国西岸ス
 | 10月7日（水） | 2,994 | 4,597（38,188ドル） | 2,384 | 1,800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | 10月8日（木） | 2,973 | 4,512（37,420ドル） | 2,410 | 1,808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | 10月9日（金） | 2,917 | 4,340（35,860ドル） | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "FBX航路運賃、2026年10月9日（$/FEU）"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*航路：FBX01 中国／東アジア→米国西海岸；FBX03 →米国東海岸；FBX11 →北欧；FBX13 →地中海；FBX21 米国東海岸→欧州。*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

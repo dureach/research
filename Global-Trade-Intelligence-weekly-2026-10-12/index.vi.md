@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Thâm hụt thương mại hàng hóa song phương lớn nhất của Hoa Kỳ, T8/2026 (tỷ USD)"
+    x-axis ["Mexico", "Việt Nam", "Đài Loan", "Trung Quốc"]
+    y-axis "$B" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **Phân tích.** Ba bản phát hành kể một câu chuyện từ ba góc độ: nhu cầu mạnh (nhập khẩu kỷ lục của Hoa Kỳ), thành phần của nó hẹp (hàng hóa AI đóng góp gần một nửa tăng trưởng thương mại; UNCTAD cảnh báo về sự tập trung), và địa lý của nó có chọn lọc (thương mại Trung–Mỹ giảm hơn 20% kể từ 2024 trong khi Mexico, Việt Nam và Đài Loan lấp đầy khoảng trống). Sự phân kỳ giữa lạc quan khối lượng của WTO và thận trọng giá thực của UNCTAD — lợi ích danh nghĩa do giá dẫn dắt so với khối lượng thực yếu — là khung phân tích cho quý này. Báo cáo WEO tháng 10 của IMF, dự kiến trong Cuộc họp Thường niên Bangkok (12–18 tháng 10), sẽ mang đánh giá mô phỏng thuế chính thức. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 Đất hiếm: cú bật lại ngày 10 tháng 11
@@ -199,6 +209,17 @@ xychart-beta
 | Trung Quốc | Hợp chất amin — điều tra AD/CVD được khởi xướng (biên độ bị cáo buộc lên tới 476%) | chưa xác định | ITC sơ bộ hạn ngày 13 tháng 11 năm 2026 | Điều tra đang mở | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | Mexico | Toa xe lửa chở dầu — điều tra AD/CVD được khởi xướng | chưa xác định | ITC sơ bộ hạn ngày 16 tháng 11 năm 2026 | Điều tra đang mở | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | Nhật Bản | Lệnh cấm xuất khẩu mở rộng đối với cơ sở công nghiệp Nga | Cấm xuất khẩu | 16 tháng 10 năm 2026 | Đã lên lịch | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "Các mức thuế suất cao nhất (% theo giá trị)"
+    x-axis ["G112 Nga", "Amin AD", "G113 thứ cấp", "p-nitro AD", "Sec338 CA", "CA đối ứng", "Anh EV TQ", "301 L2/L3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*Mức tối đa được công bố ('tối đa' với mức đề xuất; AD = biên độ bán phá giá bị cáo buộc).*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "Thuế suất Hoa Kỳ: luật định vs áp dụng vs thực tế (%)"
+    x-axis ["Luật định", "Áp dụng", "Thực tế"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*Ước tính của Yale Budget Lab và Tax Foundation, 2026. TF = Tax Foundation.*
+
+
 **Phân tích.** Cặp viện chính sách định hình cuộc tranh luận chi phí hộ gia đình: 820 USD của Tax Foundation và 1.100 USD của Yale là hai con số mà giới báo chí trích dẫn, khác nhau ở cách xử lý thuế theo luật so với thuế hiệu lực và cơ chế hoàn thuế IEEPA. Phân tích hậu SCOTUS của Yale là tổng hợp luật hiện hành đầy đủ nhất — hỗn loạn hoàn thuế tạo ra "hiệu ứng doanh thu lớn" xấp xỉ bù đắp lực cản tăng trưởng 2026 của các mức thuế còn lại, với chi phí dài hạn dai dẳng 0,1% GDP (~30 tỷ USD hàng năm). Luận điểm dài thành sách của Tax Foundation — bãi bỏ mọi thuế quan và thay bằng VAT — là cách diễn đạt rõ ràng nhất về phương án chính sách thay thế của chu kỳ này. Sự phân kỳ WTO–UNCTAD (lạc quan khối lượng so với thận trọng giá thực) là khung phân tích để đọc dòng dữ liệu mùa thu.
 
 ---
@@ -365,6 +397,17 @@ Chỉ số Container Thế giới Drewry chốt đợt đánh giá thứ Năm **
 | Chiều về Rotterdam → Thượng Hải | 628 USD | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 Số chuyến bị hủy (Drewry Container Capacity Insight): Xuyên Thái Bình Dương — bốn chuyến hủy được công bố cho tuần tới, giảm từ mười một chuyến tuần này (năng lực tăng); Á–Âu — sáu chuyến được công bố cho tuần tới, tăng từ năm.
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "Giá cước tuyến WCI, 8/10/2026 ($/FEU)"
+    x-axis ["SHA→RTM", "SHA→Genoa", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA BH"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA = Thượng Hải; RTM = Rotterdam. Chuyến hồi (backhaul): Rotterdam→Thượng Hải.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -401,6 +444,17 @@ Supply Chain Dive (ngày 9 tháng 10, Freightos hàng tuần): giá giao ngay Á
 | Thứ Tư 7 tháng 10 | 2.994 | 4.597 (38.188 USD) | 2.384 | 1.800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | Thứ Năm 8 tháng 10 | 2.973 | 4.512 (37.420 USD) | 2.410 | 1.808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Thứ Sáu 9 tháng 10 | 2.917 | 4.340 (35.860 USD) | 2.424 | 1.814 | [Báo cáo hàng tuần của Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "Giá cước tuyến FBX, 9/10/2026 ($/FEU)"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*Tuyến: FBX01 Trung Quốc/Đông Á→Bờ Tây Hoa Kỳ; FBX03 →Bờ Đông Hoa Kỳ; FBX11 →Bắc Âu; FBX13 →Địa Trung Hải; FBX21 Bờ Đông Hoa Kỳ→châu Âu.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

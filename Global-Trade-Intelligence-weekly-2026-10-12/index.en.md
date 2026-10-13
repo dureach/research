@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Largest US bilateral goods deficits, Aug 2026 ($B)"
+    x-axis ["Mexico", "Vietnam", "Taiwan", "China"]
+    y-axis "$B" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **Analysis.** The three releases tell one story from three angles: demand is strong (record US imports), its composition is narrow (AI goods drove nearly half of trade growth; concentration flagged by UNCTAD), and its geography is selective (China–US trade down over 20% since 2024 while Mexico, Vietnam and Taiwan fill the gap). The divergence between the WTO's volume optimism and UNCTAD's real-terms caution — price-driven nominal gains versus weak real volumes — is the analytical frame for the quarter. The IMF's October WEO, due during the Bangkok Annual Meetings (October 12–18), will carry the formal tariff-simulation assessment. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 Rare earths: the November 10 snapback
@@ -199,6 +209,17 @@ xychart-beta
 | China | Amine compounds — AD/CVD investigations instituted (alleged margins up to 476%) | tbd | ITC prelim due Nov 13, 2026 | Investigations open | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | Mexico | Railway tank cars — AD/CVD investigations instituted | tbd | ITC prelim due Nov 16, 2026 | Investigations open | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | Japan | Expanded export ban on goods for Russia's industrial base | Export prohibition | Oct 16, 2026 | Scheduled | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "Highest tariff rates on the table (% ad valorem)"
+    x-axis ["G112 Russia", "Amines AD", "G113 2ndary", "p-nitro AD", "Sec338 CA", "CA counter", "UK China EV", "301 L2/L3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*Maximum stated rates ('up to' where proposed; AD = alleged anti-dumping margin).*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "US tariff rate: statutory vs applied vs effective (%)"
+    x-axis ["Statutory (Yale)", "Applied (TF)", "Effective (TF)"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*Yale Budget Lab and Tax Foundation estimates, 2026. TF = Tax Foundation.*
+
+
 **Analysis.** The Think-tank pair frames the household-cost debate: Tax Foundation's $820 and Yale's $1,100 are the two figures journalists quote, differing on statutory-vs-effective rate treatment and the IEEPA refund mechanics. Yale's post-SCOTUS analysis is the most complete current-law synthesis — refund chaos creates "large revenue effects" that roughly offset the remaining tariffs' 2026 growth drag, with a persistent long-run cost of 0.1% of GDP (~$30B annually). Tax Foundation's new book-length argument — repeal all tariffs and substitute a VAT — is the clearest policy-alternative articulation of the cycle. The WTO–UNCTAD divergence (volume optimism vs. real-terms caution) is the analytical frame for reading the autumn data flow.
 
 ---
@@ -365,6 +397,17 @@ The Drewry World Container Index closed its Thursday **October 8** assessment at
 | Backhaul Rotterdam → Shanghai | $628 | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 Blank-sailing counts (Drewry Container Capacity Insight): Transpacific — four blank sailings announced for the coming week, down from eleven this week (capacity increasing); Asia–Europe — six announced for next week, up from five.
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "WCI lane rates, 8 Oct 2026 ($/FEU)"
+    x-axis ["SHA→RTM", "SHA→Genoa", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA BH"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA = Shanghai; RTM = Rotterdam. Backhaul: Rotterdam→Shanghai.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -401,6 +444,17 @@ The **Baltic Dry Index** finished Friday October 9 at **2,917 points, down 7.3% 
 | Wed 7 Oct | 2,994 | 4,597 ($38,188) | 2,384 | 1,800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | Thu 8 Oct | 2,973 | 4,512 ($37,420) | 2,410 | 1,808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Fri 9 Oct | 2,917 | 4,340 ($35,860) | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "FBX lane rates, 9 Oct 2026 ($/FEU)"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*Lanes: FBX01 China/East Asia→US West Coast; FBX03 →US East Coast; FBX11 →North Europe; FBX13 →Mediterranean; FBX21 US East Coast→Europe.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

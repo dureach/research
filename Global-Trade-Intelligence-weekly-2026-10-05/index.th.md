@@ -112,6 +112,17 @@ Macron และ Merz เขียนจดหมายถึง von der Leyen �
 | ข้อยกเว้นเด่น | ของเล่นเชื่อมต่อ Wi-Fi/Bluetooth (ข้อยกเว้นความมั่นคงข้อมูล) **เสื้อผ้าทั้งหมด** | **ถั่วเหลืองทั้งเมล็ด** — สินค้าเกษตรส่งออกใหญ่สุดของสหรัฐฯ ไปจีน |
 | สัดส่วนการค้า | ~7% ของการนำเข้าสหรัฐฯ จากจีน (มูลค่าปี 2024) | ~18% ของการนำเข้าจีนจากสหรัฐฯ |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "รายการภาษีตอบโต้สหรัฐ-จีน: จำนวนรายการ HTS"
+    x-axis ["รายการสหรัฐ", "รายการจีน"]
+    y-axis "รายการ" 0 --> 1800
+    bar [77, 1619]
+```
+*รายการสหรัฐครอบคลุมสินค้าจีน; รายการจีนครอบคลุมสินค้าสหรัฐ (~$30B ต่อฝ่าย)*
+
+
 **เชิงเศรษฐกิจ** HSBC (29 ก.ย.): ภาษีถัวเฉลี่ยถ่วงน้ำหนักของสหรัฐฯ ต่อสินค้าจีนลดลงเพียงจาก **27.3% เหลือ 26.0%** สินค้าในรายชื่อกว่า 90% กลับไปอัตราปกติ MFN การปรับภายใต้กรอบอ้างอิงเกิดได้**มากสุดปีละครั้ง** ([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (HSBC ผ่าน Substack), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **ดีลข้างเคียง** จีนจะนำเข้า**ถ่านหินสหรัฐฯ อย่างน้อย 10 ล้านเมตริกตันในปี 2027 และอีกในปี 2028** เปิดคณะทำงานเปิดตลาดสินค้าเกษตร ระดับการส่งแร่หายากจะ "กลับสู่ระดับที่เหมาะสม" (จีนทำตามพันธกรณีเดิมได้เพียงประมาณสองในสาม ดุลการค้าสินค้าสหรัฐฯ–จีนลดลง 40% ตั้งแต่ ม.ค. 2025 เหลือ 140,000 ล้านดอลลาร์) ยังไม่มีการลดภาษีใดมีผลบังคับ — USTR ต้องประกาศอัตราและวันที่มีผลก่อน ([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -345,11 +356,21 @@ xychart-beta
 
 **ผลการดำเนินงานรายกลุ่มรายสัปดาห์ (% เปลี่ยน w/w):**
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "ดัชนีเรือเทกองรายกลุ่ม"
+    x-axis ["Capesize", "Panamax", "Supramax", "Handysize"]
+    y-axis "ดัชนี" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
-    title "Weekly segment performance (% change w/w)"
-    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    title "ผลการดำเนินงานรายกลุ่มรายสัปดาห์ (% เปลี่ยนแปลงรายสัปดาห์)"
+    x-axis ["Capesize", "Panamax", "Supramax", "BDI (รวม)"]
     y-axis "% w/w" -15 --> 5
     bar [-12.8, -1.5, 0.2, -8.1]
 ```
@@ -366,8 +387,8 @@ xychart-beta
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
-    title "Tariff-rate comparison (selected measures, ad valorem)"
-    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    title "เปรียบเทียบอัตราภาษี (มาตรการที่เลือก, ad valorem)"
+    x-axis ["Graham Act รอง", "โดรน >25กก.", "แคนาดา Sec.338", "ตอบโต้แคนาดา", "โพลีซิลิคอน", "โดรน UK", "แคนาดา/อินเดีย FL"]
     y-axis "%" 0 --> 110
     bar [100, 100, 50, 50, 15, 10, 10]
 ```

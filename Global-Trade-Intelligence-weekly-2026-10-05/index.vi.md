@@ -113,6 +113,17 @@ Ngày 3 tháng 10, MOFCOM (Thông báo số 44) đã mở **cuộc điều tra c
 | Loại trừ đáng chú ý | Đồ chơi kết nối Wi-Fi/Bluetooth (loại trừ an ninh dữ liệu); **mọi mặt hàng may mặc** | **Đậu nành nguyên hạt** — mặt hàng nông sản xuất khẩu lớn nhất của Mỹ sang Trung Quốc |
 | Tỷ trọng dòng song phương | ~7% nhập khẩu của Mỹ từ Trung Quốc (giá trị 2024) | ~18% nhập khẩu của Trung Quốc từ Mỹ |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Danh sách thuế đối ứng Mỹ–Trung: dòng HTS"
+    x-axis ["Danh sách Mỹ", "Danh sách TQ"]
+    y-axis "dòng" 0 --> 1800
+    bar [77, 1619]
+```
+*Danh sách của Hoa Kỳ áp cho hàng Trung Quốc; danh sách của Trung Quốc áp cho hàng Hoa Kỳ (~30 tỷ USD mỗi bên).*
+
+
 **Kinh tế.** HSBC (29 tháng 9): thuế quan bình quân gia quyền của Mỹ đối với hàng Trung Quốc chỉ giảm từ **27,3% xuống 26,0%**. Hơn 90% hàng hóa trong danh sách quay lại thuế MFN ("thông thường"). Các điều chỉnh theo điều khoản tham chiếu diễn ra **tối đa một lần mỗi năm**. ([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (HSBC qua Substack), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **Các thỏa thuận bên lề.** Trung Quốc sẽ nhập khẩu **≥10 triệu tấn than của Mỹ trong năm 2027 và 2028**; một nhóm công tác tiếp cận thị trường nông nghiệp đã được thành lập; mức xuất khẩu đất hiếm sẽ được "đưa trở lại mức phù hợp" (Trung Quốc chỉ đáp ứng ~2/3 cam kết cung ứng trước đây; thâm hụt hàng hóa Mỹ–Trung giảm 40% kể từ tháng 1/2025 xuống còn 140 tỷ USD). Chưa có đợt cắt giảm thuế nào có hiệu lực — USTR vẫn phải công bố mức thuế và thời gian. ([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -347,11 +358,21 @@ Lưu ý: bản tin dây của Reuters báo cáo thu nhập Capesize ở mức 42
 
 **Hiệu suất phân khúc theo tuần (% thay đổi w/w):**
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "Chỉ số các phân khúc hàng rời"
+    x-axis ["Capesize", "Panamax", "Supramax", "Handysize"]
+    y-axis "chỉ số" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
-    title "Weekly segment performance (% change w/w)"
-    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    title "Hiệu suất phân khúc hàng tuần (% thay đổi w/w)"
+    x-axis ["Capesize", "Panamax", "Supramax", "BDI tổng hợp"]
     y-axis "% w/w" -15 --> 5
     bar [-12.8, -1.5, 0.2, -8.1]
 ```
@@ -368,8 +389,8 @@ xychart-beta
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
-    title "Tariff-rate comparison (selected measures, ad valorem)"
-    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    title "So sánh thuế suất (một số biện pháp, theo giá trị)"
+    x-axis ["Graham Act", "Drone >25kg", "CA Sec. 338", "CA đối ứng", "Dẫn xuất poly", "Drone (Anh)", "CA/Ấn 301 FL"]
     y-axis "%" 0 --> 110
     bar [100, 100, 50, 50, 15, 10, 10]
 ```

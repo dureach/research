@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "ขาดดุลสินค้าทวิภาคีสหรัฐที่ใหญ่ที่สุด, ส.ค. 2026 ($B)"
+    x-axis ["เม็กซิโก", "เวียดนาม", "ไต้หวัน", "จีน"]
+    y-axis "$B" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **วิเคราะห์** รายงานสามฉบับเล่าเรื่องเดียวจากสามมุม: ความต้องการแข็งแกร่ง (การนำเข้าสหรัฐฯ ทำสถิติ) องค์ประกอบแคบ (สินค้า AI ขับเคลื่อนเกือบครึ่งของการเติบโตทางการค้า; UNCTAD ชี้ความกระจุกตัว) และภูมิศาสตร์แบบเลือก (การค้าจีน–สหรัฐฯ ลดลงกว่า 20% นับตั้งแต่ 2024 ขณะเม็กซิโก เวียดนาม และไต้หวันเติมช่องว่าง) ความแตกต่างระหว่างความมองโลกในแง่ดีด้านปริมาณของ WTO กับความระมัดระวังด้านปริมาณจริงของ UNCTAD — กำไรนามที่ขับเคลื่อนด้วยราคาต่อปริมาณจริงที่อ่อนแอ — เป็นกรอบวิเคราะห์สำหรับไตรมาสนี้ รายงาน WEO เดือนตุลาคมของ IMF ที่จะออกระหว่างการประชุมประจำปีที่กรุงเทพฯ (12–18 ตุลาคม) จะนำการประเมินจำลองภาษีอย่างเป็นทางการ ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 แร่หายาก: การกลับมามีผล 10 พฤศจิกายน
@@ -199,6 +209,17 @@ xychart-beta
 | จีน | สารประกอบเอมีน — เปิดการไต่สวน AD/CVD (อ้างอัตรากำไรสูงสุด 476%) | ยังไม่กำหนด | ผลเบื้องต้น ITC ภายใน 13 พ.ย. 2026 | การไต่สวนเปิดอยู่ | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | เม็กซิโก | รถพ่วงบรรทุกน้ำมัน — เปิดการไต่สวน AD/CVD | ยังไม่กำหนด | ผลเบื้องต้น ITC ภายใน 16 พ.ย. 2026 | การไต่สวนเปิดอยู่ | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | ญี่ปุ่น | ขยายคำสั่งห้ามส่งออกสินค้าสำหรับฐานอุตสาหกรรมรัสเซีย | ห้ามส่งออก | 16 ต.ค. 2026 | กำหนดไว้ | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "อัตราภาษีสูงสุดที่เสนอ (% ad valorem)"
+    x-axis ["G112 รัสเซีย", "Amines AD", "G113 ทุติย", "p-nitro AD", "Sec338 CA", "CA ตอบโต้", "UK EV จีน", "301 L2/L3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*อัตราสูงสุดที่ประกาศ ('up to' สำหรับมาตรการที่เสนอ; AD = อัตรามาร์จิ้นทุ่มตลาดที่กล่าวอ้าง)*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "อัตราภาษีสหรัฐ: ตามกฎหมาย เทียบ อัตราที่ใช้ เทียบ อัตราที่มีผล (%)"
+    x-axis ["กฎหมาย (Yale)", "ใช้จริง (TF)", "มีผล (TF)"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*ประมาณการ Yale Budget Lab และ Tax Foundation ปี 2026 TF = Tax Foundation*
+
+
 **วิเคราะห์** คู่คลังสมองวางกรอบการถกเถียงเรื่องต้นทุนครัวเรือน: $820 ของ Tax Foundation กับ $1,100 ของ Yale เป็นสองตัวเลขที่นักข่าวอ้าง ต่างกันที่การปฏิบัติอัตราตามกฎหมายเทียบอัตรามีผลและกลไกการคืนภาษี IEEPA การวิเคราะห์หลัง SCOTUS ของ Yale เป็นการสังเคราะห์กฎหมายปัจจุบันที่สมบูรณ์ที่สุด — ความโกลาหลการคืนภาษีสร้าง "ผลกระทบรายได้ขนาดใหญ่" ที่ชดเชยแรงฉุดการเติบโตปี 2026 ของภาษีที่เหลือโดยประมาณ โดยมีต้นทุนระยะยาวถาวร 0.1% ของ GDP (~$30 พันล้านต่อปี) ข้อโต้แย้งขนาดหนังสือของ Tax Foundation — ยกเลิกภาษีทั้งหมดและแทนที่ด้วย VAT — เป็นการแถลงทางเลือกนโยบายที่ชัดเจนที่สุดของวงจรนี้ ความแตกต่าง WTO–UNCTAD (ความมองโลกในแง่ดีด้านปริมาณเทียบความระมัดระวังด้านปริมาณจริง) เป็นกรอบวิเคราะห์สำหรับการอ่านกระแสข้อมูลฤดูใบไม้ร่วง
 
 ---
@@ -365,6 +397,17 @@ xychart-beta
 | ขากลับ รอตเทอร์ดาม → เซี่ยงไฮ้ | $628 | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 จำนวนเที่ยวเรือที่ยกเลิก (Drewry Container Capacity Insight): ทรานส์แปซิฟิก — ประกาศยกเลิกสี่เที่ยวสำหรับสัปดาห์หน้า ลดลงจากสิบเอ็ดเที่ยวสัปดาห์นี้ (กำลังบรรทุกเพิ่ม); เอเชีย–ยุโรป — ประกาศหกเที่ยวสำหรับสัปดาห์หน้า เพิ่มจากห้าเที่ยว
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "อัตราค่าขนส่ง WCI, 8 ต.ค. 2026 ($/FEU)"
+    x-axis ["SHA→RTM", "SHA→เจนัว", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA BH"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA = เซี่ยงไฮ้; RTM = รอตเทอร์ดัม ขากลับ: รอตเทอร์ดัม→เซี่ยงไฮ้*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -401,6 +444,17 @@ Supply Chain Dive (9 ตุลาคม รายสัปดาห์ Freightos
 | พ. 7 ต.ค. | 2,994 | 4,597 ($38,188) | 2,384 | 1,800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | พฤ. 8 ต.ค. | 2,973 | 4,512 ($37,420) | 2,410 | 1,808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | ศ. 9 ต.ค. | 2,917 | 4,340 ($35,860) | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "อัตราค่าขนส่ง FBX, 9 ต.ค. 2026 ($/FEU)"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*เส้นทาง: FBX01 จีน/เอเชียตะวันออก→ชายฝั่งตะวันตกสหรัฐ; FBX03 →ชายฝั่งตะวันออกสหรัฐ; FBX11 →ยุโรปเหนือ; FBX13 →เมดิเตอร์เรเนียน; FBX21 ชายฝั่งตะวันออกสหรัฐ→ยุโรป*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

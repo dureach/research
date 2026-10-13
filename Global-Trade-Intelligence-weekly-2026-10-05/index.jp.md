@@ -113,6 +113,17 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 | 主な除外 | Wi-Fi／Bluetooth接続玩具（データ安全保障上の除外）。**衣料品はすべて除外** | **大豆（丸粒）**――中国向け最大の米国農産輸出品 |
 | 二国間フローに占める割合 | 対中米輸入の約7%（2024年値） | 対米中輸入の約18% |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "米中相互関税リスト：対象HTS品目数"
+    x-axis ["米国リスト", "中国リスト"]
+    y-axis "品目数" 0 --> 1800
+    bar [77, 1619]
+```
+*米国リストは中国製品、中国リストは米国製品が対象（各約300億ドル）。*
+
+
 **経済効果。** HSBC（Sept 29）：貿易加重平均の対中米関税は**27.3%から26.0%**へ低下するのみである。掲載品目の90%以上がMFN（「通常」）関税に戻る。付託条件の下での調整は**年1回まで**である。([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (Substack経由のHSBC), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **付随合意。** 中国は**2027年および2028年に年間1,000万トン以上**の米国産石炭を輸入する。農産品市場アクセスの作業部会が発足。レアアースの出荷水準は「適切な水準」に戻す（中国は従来の供給約束の3分の2程度しか履行していなかった。米中物品貿易赤字は2025年1月以降40%減の$140B）。関税引き下げはまだ発効していない。USTRが税率と期日を発表する必要がある。([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -349,11 +360,21 @@ xychart-beta
 
 **船型別・週間パフォーマンス（前週比％）：**
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "ドライバルク船型別指数"
+    x-axis ["ケープサイズ", "パナマックス", "スープラマックス", "ハンディサイズ"]
+    y-axis "指数" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
-    title "Weekly segment performance (% change w/w)"
-    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    title "船型別週間パフォーマンス（前週比%）"
+    x-axis ["ケープサイズ", "パナマックス", "スープラマックス", "BDI（総合）"]
     y-axis "% w/w" -15 --> 5
     bar [-12.8, -1.5, 0.2, -8.1]
 ```
@@ -370,8 +391,8 @@ xychart-beta
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
-    title "Tariff-rate comparison (selected measures, ad valorem)"
-    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    title "関税率比較（主要措置、従価税）"
+    x-axis ["G二次", "ドローン", "338加", "加報復", "ポリシリ", "同盟国", "加印301"]
     y-axis "%" 0 --> 110
     bar [100, 100, 50, 50, 15, 10, 10]
 ```

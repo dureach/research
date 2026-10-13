@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Mayores déficits bilaterales de bienes de EE. UU., ago 2026 ($B)"
+    x-axis ["México", "Vietnam", "Taiwán", "China"]
+    y-axis "$B" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **Análisis.** Las tres publicaciones cuentan una historia desde tres ángulos: la demanda es fuerte (importaciones estadounidenses récord), su composición es estrecha (los bienes de IA impulsaron casi la mitad del crecimiento comercial; concentración señalada por la UNCTAD) y su geografía es selectiva (el comercio China–EE. UU. cayó más del 20% desde 2024 mientras México, Vietnam y Taiwán cubren el hueco). La divergencia entre el optimismo de volumen de la OMC y la cautela en términos reales de la UNCTAD — ganancias nominales impulsadas por precios frente a volúmenes reales débiles — es el marco analítico del trimestre. El WEO de octubre del FMI, previsto durante las Reuniones Anuales de Bangkok (12–18 de octubre), aportará la evaluación formal de simulación arancelaria. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 Tierras raras: la reversión del 10 de noviembre
@@ -199,6 +209,17 @@ xychart-beta
 | China | Compuestos de amina — investigaciones AD/CVD iniciadas (márgenes alegados hasta 476%) | por determinar | Preliminar de la ITC el 13 de nov. de 2026 | Investigaciones abiertas | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | México | Vagones cisterna — investigaciones AD/CVD iniciadas | por determinar | Preliminar de la ITC el 16 de nov. de 2026 | Investigaciones abiertas | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | Japón | Prohibición ampliada de exportación de productos para Rusia | Prohibición de exportación | 16 de oct. de 2026 | Programado | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "Aranceles más altos sobre la mesa (% ad valorem)"
+    x-axis ["G112 Rusia", "Aminas AD", "G113 sec.", "p-nitro AD", "Sec338 CA", "CA repres.", "RU China EV", "301 L2/L3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*Tasas máximas declaradas («hasta» donde se proponen; AD = presunto margen antidumping).*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "Tasa arancelaria de EE. UU.: legal vs aplicada vs efectiva (%)"
+    x-axis ["Legal (Yale)", "Aplicada (TF)", "Efectiva (TF)"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*Estimaciones del Yale Budget Lab y la Tax Foundation, 2026. TF = Tax Foundation.*
+
+
 **Análisis.** El par de think tanks enmarca el debate sobre el costo por hogar: los 820 $ de Tax Foundation y los 1.100 $ de Yale son las dos cifras que citan los periodistas, que difieren en el tratamiento de la tasa estatutaria frente a la efectiva y la mecánica de reembolsos IEEPA. El análisis post-SCOTUS de Yale es la síntesis de ley vigente más completa — el caos de los reembolsos crea "grandes efectos de ingresos" que compensan aproximadamente el lastre de crecimiento de 2026 de los aranceles restantes, con un costo persistente de largo plazo del 0,1% del PIB (~30.000 M$ anuales). El nuevo argumento en formato de libro de Tax Foundation — derogar todos los aranceles y sustituirlos con un IVA — es la articulación de alternativa política más clara del ciclo. La divergencia OMC–UNCTAD (optimismo de volumen frente a cautela en términos reales) es el marco analítico para leer el flujo de datos del otoño.
 
 ---
@@ -365,6 +397,17 @@ El Índice Mundial de Contenedores Drewry cerró su evaluación del jueves **8 d
 | Retorno Róterdam → Shanghái | 628 $ | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 Recuentos de salidas en blanco (Drewry Container Capacity Insight): Transpacífico — cuatro salidas en blanco anunciadas para la próxima semana, desde once esta semana (capacidad en aumento); Asia–Europa — seis anunciadas para la próxima semana, desde cinco.
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "Tarifas WCI por ruta, 8 oct 2026 ($/FEU)"
+    x-axis ["SHA→RTM", "SHA→Génova", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA BH"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA = Shanghái; RTM = Róterdam. Retorno: Róterdam→Shanghái.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -401,6 +444,17 @@ El **Baltic Dry Index** terminó el viernes 9 de octubre en **2.917 puntos, −7
 | Mié 7 de oct. | 2.994 | 4.597 (38.188 $) | 2.384 | 1.800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | Jue 8 de oct. | 2.973 | 4.512 (37.420 $) | 2.410 | 1.808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Vie 9 de oct. | 2.917 | 4.340 (35.860 $) | 2.424 | 1.814 | [Informe semanal de Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "Tarifas FBX por ruta, 9 oct 2026 ($/FEU)"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europa", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*Rutas: FBX01 China/Asia Oriental→Costa Oeste de EE. UU.; FBX03 →Costa Este de EE. UU.; FBX11 →Norte de Europa; FBX13 →Mediterráneo; FBX21 Costa Este de EE. UU.→Europa.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

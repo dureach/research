@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Defisit barang bilateral AS terbesar, Agt 2026 ($ miliar)"
+    x-axis ["Meksiko", "Vietnam", "Taiwan", "Tiongkok"]
+    y-axis "$ miliar" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **Analisis.** Ketiga rilis itu menceritakan satu kisah dari tiga sudut: permintaan kuat (rekor impor AS), komposisinya sempit (barang AI mendorong hampir separuh pertumbuhan perdagangan; konsentrasi yang ditandai UNCTAD), dan geografinya selektif (perdagangan Tiongkok–AS turun lebih dari 20% sejak 2024 sementara Meksiko, Vietnam, dan Taiwan mengisi celah). Perbedaan antara optimisme volume WTO dan kehati-hatian riil UNCTAD — keuntungan nominal berbasis harga versus volume riil yang lemah — adalah bingkai analitis untuk kuartal ini. WEO IMF Oktober, yang akan terbit selama Pertemuan Tahunan Bangkok (12–18 Oktober), akan membawa penilaian simulasi tarif formal. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 Tanah jarang: pemberlakuan kembali 10 November
@@ -199,6 +209,17 @@ xychart-beta
 | Tiongkok | Senyawa amina — penyelidikan AD/CVD dimulai (marjin diduga hingga 476%) | akan ditetapkan | Prelim ITC jatuh tempo 13 Nov 2026 | Penyelidikan dibuka | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | Meksiko | Gerbong tangki kereta — penyelidikan AD/CVD dimulai | akan ditetapkan | Prelim ITC jatuh tempo 16 Nov 2026 | Penyelidikan dibuka | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | Jepang | Larangan ekspor yang diperluas atas barang untuk basis industri Rusia | Larangan ekspor | 16 Okt 2026 | Terjadwal | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "Tarif tertinggi yang diusulkan (% ad valorem)"
+    x-axis ["G112 Rusia", "Amina AD", "G113 2nd", "p-nitro AD", "Sec338 CA", "CA balasan", "UK-CN EV", "301 L2/L3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*Tarif maksimum yang dinyatakan ('hingga' bila masih berupa usulan; AD = margin dumping yang dituduhkan).*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "Tarif AS: statuter vs diterapkan vs efektif (%)"
+    x-axis ["UU (Yale)", "Berlaku (TF)", "Efektif (TF)"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*Estimasi Yale Budget Lab dan Tax Foundation, 2026. TF = Tax Foundation.*
+
+
 **Analisis.** Pasangan think-tank itu membingkai debat biaya rumah tangga: $820 Tax Foundation dan $1.100 Yale adalah dua angka yang dikutip jurnalis, berbeda dalam perlakuan tarif statutori-vs-efektif dan mekanika pengembalian IEEPA. Analisis pasca-SCOTUS Yale adalah sintesis hukum-berlaku paling lengkap — kekacauan pengembalian menciptakan "efek pendapatan besar" yang kira-kira mengimbangi hambatan pertumbuhan 2026 dari tarif yang tersisa, dengan biaya jangka panjang yang persisten 0,1% dari PDB (~$30 miliar per tahun). Argumen sepanjang buku Tax Foundation — cabut semua tarif dan ganti dengan PPN — adalah artikulasi alternatif kebijakan paling jelas dalam siklus ini. Perbedaan WTO–UNCTAD (optimisme volume vs kehati-hatian riil) adalah bingkai analitis untuk membaca arus data musim gugur.
 
 ---
@@ -365,6 +397,17 @@ Drewry World Container Index menutup penilaian Kamis **8 Oktober** pada **$4.351
 | Angkutan balik Rotterdam → Shanghai | $628 | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 Jumlah pelayaran kosong (Drewry Container Capacity Insight): Transpasifik — empat pelayaran kosong diumumkan untuk pekan mendatang, turun dari sebelas pekan ini (kapasitas meningkat); Asia–Eropa — enam diumumkan untuk pekan depan, naik dari lima.
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "Tarif rute WCI, 8 Okt 2026 ($/FEU)"
+    x-axis ["SHA→RTM", "SHA→Genoa", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA BH"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA = Shanghai; RTM = Rotterdam. Arus balik: Rotterdam→Shanghai.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -401,6 +444,17 @@ Supply Chain Dive (9 Oktober, mingguan Freightos): spot Asia–USWC $8.322 (−3
 | Rab 7 Okt | 2.994 | 4.597 ($38.188) | 2.384 | 1.800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | Kam 8 Okt | 2.973 | 4.512 ($37.420) | 2.410 | 1.808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Jum 9 Okt | 2.917 | 4.340 ($35.860) | 2.424 | 1.814 | [Laporan mingguan Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "Tarif rute FBX, 9 Okt 2026 ($/FEU)"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*Rute: FBX01 Tiongkok/Asia Timur→Pantai Barat AS; FBX03 →Pantai Timur AS; FBX11 →Eropa Utara; FBX13 →Mediterania; FBX21 Pantai Timur AS→Eropa.*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

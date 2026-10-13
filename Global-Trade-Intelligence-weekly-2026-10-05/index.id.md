@@ -113,6 +113,17 @@ Pada 3 Oktober, MOFCOM (Pengumuman No. 44) membuka **penyelidikan anti-dumping a
 | Pengecualian penting | Mainan berkoneksi Wi-Fi/Bluetooth (pengecualian keamanan data); **semua pakaian jadi** | **Kedelai utuh** — ekspor pertanian AS terbesar ke Tiongkok |
 | Pangsa arus bilateral | ~7% impor AS dari Tiongkok (nilai 2024) | ~18% impor Tiongkok dari AS |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Daftar tarif resiprokal AS-Tiongkok: pos HTS yang tercakup"
+    x-axis ["Daftar AS", "Daftar Tiongkok"]
+    y-axis "pos" 0 --> 1800
+    bar [77, 1619]
+```
+*Daftar AS mencakup barang Tiongkok; daftar Tiongkok mencakup barang AS (~$30 miliar masing-masing).*
+
+
 **Ekonomi.** HSBC (29 September): tarif tertimbang perdagangan AS atas barang Tiongkok hanya turun dari **27.3% menjadi 26.0%**. Lebih dari 90% barang terdaftar kembali ke bea MFN ("normal"). Penyesuaian berdasarkan kerangka acuan terjadi **paling banyak setahun sekali**. ([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (HSBC via Substack), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **Kesepakatan sampingan.** Tiongkok akan mengimpor **≥10 juta metrik ton batu bara AS pada 2027 dan lagi pada 2028**; kelompok kerja akses pasar pertanian diluncurkan; tingkat pengiriman tanah jarang akan "dikembalikan ke tingkat yang wajar" (Tiongkok hanya memenuhi ~dua pertiga komitmen pasokan sebelumnya; defisit barang AS–Tiongkok turun 40% sejak Jan 2025 menjadi $140 miliar). Belum ada pemotongan tarif yang berlaku — USTR masih harus mengumumkan tarif dan tanggal. ([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -344,11 +355,21 @@ Catatan: versi kawat Reuters melaporkan pendapatan Capesize $42,228/hari dengan 
 
 **Kinerja mingguan segmen (% perubahan w/w):**
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "Indeks segmen curah kering"
+    x-axis ["Capesize", "Panamax", "Supramax", "Handysize"]
+    y-axis "indeks" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
-    title "Weekly segment performance (% change w/w)"
-    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    title "Kinerja segmen mingguan (% perubahan w/w)"
+    x-axis ["Capesize", "Panamax", "Supramax", "BDI (gab.)"]
     y-axis "% w/w" -15 --> 5
     bar [-12.8, -1.5, 0.2, -8.1]
 ```
@@ -365,8 +386,8 @@ xychart-beta
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
-    title "Tariff-rate comparison (selected measures, ad valorem)"
-    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    title "Perbandingan tarif (langkah terpilih, ad valorem)"
+    x-axis ["Graham 2nd", "Drone >25kg", "S338 Kanada", "CA balasan", "Polisilikon", "Drone sekutu", "K/I S301 FL"]
     y-axis "%" 0 --> 110
     bar [100, 100, 50, 50, 15, 10, 10]
 ```

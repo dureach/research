@@ -104,6 +104,17 @@ Proclamación del Aug 6 + regla final temporal de Comercio (Sept 24). Desde el *
 | Exclusiones notables | Juguetes con Wi-Fi/Bluetooth (excepción por seguridad de datos); **toda la vestimenta** | **Soja en grano** — la mayor exportación agrícola de EE. UU. a China |
 | Participación del flujo bilateral | ~7% de las importaciones de EE. UU. desde China (valores 2024) | ~18% de las importaciones de China desde EE. UU. |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "Listas arancelarias recíprocas EE. UU.-China: líneas HTS cubiertas"
+    x-axis ["EE. UU.", "China"]
+    y-axis "líneas" 0 --> 1800
+    bar [77, 1619]
+```
+*La lista de EE. UU. cubre bienes chinos; la lista de China cubre bienes estadounidenses (~$30B cada una).*
+
+
 **Economía.** HSBC (Sept 29): el arancel ponderado de EE. UU. sobre productos chinos cae solo de **27.3% a 26.0%**. Más del 90% de los productos listados vuelven a aranceles NMF ("normales"). Los ajustes bajo los términos de referencia ocurren **como máximo una vez al año**. ([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (HSBC vía Substack), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **Acuerdos paralelos.** China importará **≥10M de toneladas métricas de carbón de EE. UU. en 2027 y de nuevo en 2028**; se lanzó un grupo de trabajo de acceso al mercado agrícola; los niveles de envíos de tierras raras volverán a "niveles apropiados" (China cumplió solo ~dos tercios de los compromisos previos de suministro; el déficit de bienes EE. UU.–China bajó 40% desde Jan 2025 a $140B). Aún no hay recortes arancelarios en vigor — USTR todavía debe anunciar tasas y fechas. ([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -338,11 +349,21 @@ Nota: la versión por cable de Reuters reporta ganancias de capesize de $42,228/
 
 **Desempeño semanal por segmento (% cambio w/w):**
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "Índices de segmentos de granel seco"
+    x-axis ["Capesize", "Panamax", "Supramax", "Handysize"]
+    y-axis "índice" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
-    title "Weekly segment performance (% change w/w)"
-    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    title "Rendimiento semanal por segmento (% var. s/s)"
+    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp.)"]
     y-axis "% w/w" -15 --> 5
     bar [-12.8, -1.5, 0.2, -8.1]
 ```
@@ -359,8 +380,8 @@ xychart-beta
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
-    title "Tariff-rate comparison (selected measures, ad valorem)"
-    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    title "Comparación de aranceles (medidas selectas, ad valorem)"
+    x-axis ["Graham (máx)", "Drones >25kg", "Sec. 338 CA", "CA rep. máx", "Polisilicio", "Drones RU", "S.301 CA/IN"]
     y-axis "%" 0 --> 110
     bar [100, 100, 50, 50, 15, 10, 10]
 ```

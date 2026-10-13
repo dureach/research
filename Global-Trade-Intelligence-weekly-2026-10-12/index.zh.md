@@ -141,6 +141,16 @@ xychart-beta
     bar [92.8, 105.6]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "美国最大双边货物贸易逆差，2026年8月（$B）"
+    x-axis ["墨西哥", "越南", "台湾", "中国"]
+    y-axis "$B" 0 --> 32
+    bar [27.7, 24.0, 18.3, 16.4]
+```
+
+
 **分析。** 三份报告从三个角度讲述同一个故事：需求强劲（美国进口创纪录），构成狭窄（AI商品贡献了近一半的贸易增长；UNCTAD指出了集中度），地理上有选择（中美贸易自2024年以来下降超20%，墨西哥、越南和台湾填补了缺口）。WTO的贸易量乐观与UNCTAD的实际值谨慎之间的分歧——名义价格驱动的增长与疲软的实际量——是本季度的分析框架。IMF的10月《世界经济展望》将于曼谷年会（10月12–18日）期间发布，将载入正式的关税模拟评估。([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
 
 ### 3.5 稀土：11月10日恢复管制
@@ -199,6 +209,17 @@ xychart-beta
 | 中国 | 胺类化合物——反倾销/反补贴调查立案（指控幅度最高476%） | 待定 | ITC初裁截止2026年11月13日 | 调查进行中 | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20286/amine-compounds-from-china-institution-of-antidumping-and-countervailing-duty-investigations-and) |
 | 墨西哥 | 铁路罐车——反倾销/反补贴调查立案 | 待定 | ITC初裁截止2026年11月16日 | 调查进行中 | [federalregister.gov](https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty) |
 | 日本 | 扩大对俄罗斯工业基础商品的出口禁令 | 出口禁止 | 2026年10月16日 | 已排期 | [globalsanctions.com](https://globalsanctions.com/2026/10/japan-adds-more-goods-to-russia-export-ban-from-16-october-2026/) |
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
+xychart-beta
+    title "已公布的最高关税税率（% 从价税）"
+    x-axis ["G112俄", "胺类AD", "G113次级", "p-硝基", "Sec338加", "加反制", "英对华EV", "301L2/3"]
+    y-axis "%" 0 --> 550
+    bar [500, 476, 100, 100, 50, 50, 45, 25]
+```
+*所示为最高公布税率（拟议措施为"最高可达"；AD = 指控的反倾销幅度）。*
+
 
 ---
 
@@ -344,6 +365,17 @@ xychart-beta
     bar [820, 1100]
 ```
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2a9d8f'}}}}%%
+xychart-beta
+    title "美国关税税率：法定、适用与实际（%）"
+    x-axis ["法定（耶鲁）", "适用（TF）", "实际（TF）"]
+    y-axis "%" 0 --> 14
+    bar [11.0, 11.7, 7.2]
+```
+*耶鲁预算实验室与税收基金会2026年估计值。TF = 税收基金会。*
+
+
 ---
 **分析。** 智库组合框定了家庭成本之争：税基基金会的820美元和耶鲁的1100美元是记者引用的两个数字，差异在于法定税率与实际税率的处理及IEEPA退款机制。耶鲁的最高法院裁决后分析是目前最完整的现行法综合——退款混乱造成"巨大收入效应"，大致抵消剩余关税对2026年增长的拖累，长期成本为GDP的0.1%（每年约300亿美元）。税基基金会的新书篇幅论证——废除所有关税、以增值税替代——是本周期最清晰的政策替代方案表述。WTO–UNCTAD的分歧（贸易量乐观 vs. 实际值谨慎）是解读秋季数据流的分析框架。
 
@@ -366,6 +398,17 @@ xychart-beta
 | 回程 鹿特丹 → 上海 | $628 | +2% | [Shipping Telegraph](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/) |
 
 空班统计（德鲁里集装箱运力洞察）：跨太平洋——下周宣布4个空班，本周为11个（运力增加）；亚欧——下周宣布6个空班，上周为5个。
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#2563eb'}}}}%%
+xychart-beta
+    title "WCI航线运价，2026年10月8日（$/FEU）"
+    x-axis ["SHA→RTM", "SHA→热那亚", "SHA→LA", "SHA→NY", "RTM→NY", "RTM→SHA 回程"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [3337, 3696, 7624, 10220, 3091, 628]
+```
+*SHA = 上海；RTM = 鹿特丹。回程：鹿特丹→上海。*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
@@ -402,6 +445,17 @@ Supply Chain Dive（10月9日，Freightos周报）：亚–美西现货8322美�
 | 10月7日 周三 | 2,994 | 4,597（$38,188） | 2,384 | 1,800 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-slips-as-capesize-slump-spoils-smaller-vessel-gains) |
 | 10月8日 周四 | 2,973 | 4,512（$37,420） | 2,410 | 1,808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | 10月9日 周五 | 2,917 | 4,340（$35,860） | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#7c3aed'}}}}%%
+xychart-beta
+    title "FBX航线运价，2026年10月9日（$/FEU）"
+    x-axis ["FBX01 USWC", "FBX03 USEC", "FBX11 N.Europe", "FBX13 Med", "FBX21 US-EU"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8106, 9606, 3260, 3861, 1182]
+```
+*航线：FBX01 中国/东亚→美国西海岸；FBX03 →美国东海岸；FBX11 →北欧；FBX13 →地中海；FBX21 美国东海岸→欧洲。*
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%

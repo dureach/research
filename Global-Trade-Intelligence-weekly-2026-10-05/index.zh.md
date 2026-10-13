@@ -107,6 +107,17 @@ H.R. 5334于9月18日以两党支持签署生效，将俄罗斯制裁机制法�
 | 显著排除 | 联网玩具（Wi-Fi/蓝牙，数据安全 carve-out）；**全部服装** | **大豆整豆**——美国对华最大宗农产品出口 |
 | 占双边贸易比重 | 约占美国自华进口的7%（按2024年货值） | 约占中国自美进口的18% |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "中美对等关税清单：覆盖的HTS税号"
+    x-axis ["美国清单", "中国清单"]
+    y-axis "税号数" 0 --> 1800
+    bar [77, 1619]
+```
+*美国清单覆盖中国商品；中国清单覆盖美国商品（各约300亿美元）。*
+
+
 **经济账。** 汇丰（9月29日）：美国对华贸易加权关税仅从**27.3%降至26.0%**。超90%的清单商品恢复至最惠国（"正常"）税率。根据职权范围，调整**每年至多一次**。([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (HSBC via Substack), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **配套交易。** 中国将在**2027年和2028年每年进口至少1,000万吨美国煤炭**；成立农业市场准入工作组；稀土对华出口量将"恢复到适当水平"（此前中国仅兑现约三分之二供应承诺；美中货物贸易逆差自2025年1月以来下降40%至1,400亿美元）。尚无减税落地——USTR仍须公布税率与日期。([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -329,11 +340,21 @@ xychart-beta
 
 **各船型周表现（周环比%）：**
 
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "干散货船型指数"
+    x-axis ["好望角型", "巴拿马型", "超灵便型", "灵便型"]
+    y-axis "指数" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
 xychart-beta
-    title "Weekly segment performance (% change w/w)"
-    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    title "各船型周度表现（环比变化%）"
+    x-axis ["好望角型", "巴拿马型", "超灵便型", "BDI（综合）"]
     y-axis "% w/w" -15 --> 5
     bar [-12.8, -1.5, 0.2, -8.1]
 ```
@@ -350,8 +371,8 @@ xychart-beta
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#1e3a5f'}}}}%%
 xychart-beta
-    title "Tariff-rate comparison (selected measures, ad valorem)"
-    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    title "关税税率比较（部分措施，从价税）"
+    x-axis ["Graham次级", "无人机", "Sec338加", "加反制", "多晶硅", "盟友无人机", "加印301FL"]
     y-axis "%" 0 --> 110
     bar [100, 100, 50, 50, 15, 10, 10]
 ```

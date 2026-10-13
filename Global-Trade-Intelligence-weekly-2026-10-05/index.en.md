@@ -107,6 +107,17 @@ On Oct 3, MOFCOM (Announcement No. 44) opened an **anti-dumping investigation in
 | Notable exclusions | Wi-Fi/Bluetooth-connected toys (data-security carve-out); **all apparel** | **Whole soybeans** — the largest US farm export to China |
 | Share of bilateral flow | ~7% of US imports from China (2024 values) | ~18% of China's imports from the US |
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
+xychart-beta
+    title "US-China reciprocal tariff lists: HTS lines covered"
+    x-axis ["US list", "China list"]
+    y-axis "lines" 0 --> 1800
+    bar [77, 1619]
+```
+*US list covers Chinese goods; China list covers US goods (~$30B each).*
+
+
 **Economics.** HSBC (Sept 29): the trade-weighted US tariff on Chinese goods falls only from **27.3% to 26.0%**. Over 90% of listed goods revert to MFN ("normal") duties. Adjustments under the terms of reference occur **at most once a year**. ([exencialrp.substack.com](https://exencialrp.substack.com/p/hsbc-sees-us-china-30-for-30-deal) (HSBC via Substack), [lexblog.com](https://www.lexblog.com/2026/09/29/u-s-china-board-of-trade-30-for-30-identifies-products-recommended-for-reduced-tariffs/))
 
 **Side deals.** China will import **≥10M metric tons of US coal in 2027 and again in 2028**; an agriculture market-access working group launched; rare-earth shipment levels to be "returned to appropriate levels" (China met only ~two-thirds of prior supply commitments; US–China goods deficit down 40% since Jan 2025 to $140B). No tariff cuts are in force yet — USTR must still announce rates and dates. ([cnn.com](https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl?cid=external-feeds_iluminar_meta), [kpmg.com](https://kpmg.com/us/en/taxnewsflash/news/2026/09/us-china-trade-framework-tariff-reductions.html), [tradersunion.com](https://tradersunion.com/news/financial-news/show/3528484-us-china-lower-tariff-framework/))
@@ -328,6 +339,16 @@ xychart-beta
 Note: Reuters' wire version reports Capesize earnings at $42,228/day on a different vessel-size basis; the Baltic Exchange 5TC figure ($45,731) is used above. ([worldports.org](https://www.worldports.org/baltic-dry-bulk-index-gains-for-second-day-but-posts-weekly-loss/), [handybulk.com](https://www.handybulk.com/baltic-dry-index/), [thedcn.com.au](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-2-october-2026))
 
 **Weekly segment performance (% change w/w):**
+
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#d97706'}}}}%%
+xychart-beta
+    title "Dry bulk segment indices"
+    x-axis ["Capesize", "Panamax", "Supramax", "Handysize"]
+    y-axis "index" 0 --> 6000
+    bar [5042, 2372, 1789, 1007]
+```
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'xyChart': {'plotColorPalette': '#e76f51'}}}}%%
