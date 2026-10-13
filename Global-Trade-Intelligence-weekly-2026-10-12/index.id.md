@@ -123,14 +123,20 @@ Juru bicara militer Houthi mengumumkan embargo maritim atas Arab Saudi; pada 10�
 - UNCTAD: PDB global 2,6% pada 2026 (dari 2,9% pada 2025); Asia menyumbang **60%** pertumbuhan; India 7,3%; pangsa investasi strategis naik dari 16% menjadi 44% dari investasi greenfield yang diumumkan (2020–2025), dengan ~70% masuk ke negara maju. ODA diperkirakan turun hampir 7% pada 2026, penurunan tahunan ketiga berturut-turut.
 - Pembaruan Perdagangan Global UNCTAD Oktober memproyeksikan pertumbuhan perdagangan barang 2026 hanya **1,5–2,5% secara riil**, turun dari 4,7% pada 2025 — terendah sejak 2023 — kontrapunt yang disengaja atas peningkatan volume WTO.
 
+```mermaid
+xychart-beta
+    title "Revisi perkiraan volume perdagangan barang WTO 2026"
+    x-axis ["Perkiraan Maret", "Pembaruan Oktober"]
+    y-axis "%" 0 --> 5
+    bar [1.9, 3.9]
 ```
-Revisi perkiraan volume perdagangan barang WTO 2026
-  Perkiraan Maret:  1,9%  ██████████
-  Pembaruan Oktober:  3,9%  ████████████████████
 
-Defisit perdagangan bulanan AS, Agustus 2026
-  Juli:    $92,8 miliar  ████████████████████████████████
-  Agustus: $105,6 miliar  ████████████████████████████████████  (impor rekor $420,8 miliar)
+```mermaid
+xychart-beta
+    title "Defisit perdagangan bulanan AS, Agustus 2026"
+    x-axis ["Juli", "Agustus (impor rekor $420,8 miliar)"]
+    y-axis "$B" 0 --> 120
+    bar [92.8, 105.6]
 ```
 
 **Analisis.** Ketiga rilis itu menceritakan satu kisah dari tiga sudut: permintaan kuat (rekor impor AS), komposisinya sempit (barang AI mendorong hampir separuh pertumbuhan perdagangan; konsentrasi yang ditandai UNCTAD), dan geografinya selektif (perdagangan Tiongkok–AS turun lebih dari 20% sejak 2024 sementara Meksiko, Vietnam, dan Taiwan mengisi celah). Perbedaan antara optimisme volume WTO dan kehati-hatian riil UNCTAD — keuntungan nominal berbasis harga versus volume riil yang lemah — adalah bingkai analitis untuk kuartal ini. WEO IMF Oktober, yang akan terbit selama Pertemuan Tahunan Bangkok (12–18 Oktober), akan membawa penilaian simulasi tarif formal. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
@@ -327,10 +333,12 @@ Penyelidikan AD/CVD baru dimulai atas **senyawa amina dari Tiongkok** (marjin du
 | UN Comtrade | Catatan metodologi saja | IMTS 2026 White Cover; panduan perdagangan lintas batas — tidak ada edisi dataset baru 5–12 Okt | [uncomtrade.org](https://uncomtrade.org/docs/its-publication-list/) |
 | USITC DataWeb / USA Trade Online | Penyegaran bulanan rutin | Detail Agustus 2026 kini dapat dikueri | |
 
-```
-Beban tarif per rumah tangga AS, 2026 (estimasi think-tank)
-  Tax Foundation: ~$820    ████████████████
-  Yale Budget Lab: ~$1,100 ██████████████████████
+```mermaid
+xychart-beta
+    title "Beban tarif per rumah tangga AS, 2026 (estimasi think-tank)"
+    x-axis ["Tax Foundation (~$820)", "Yale Budget Lab (~$1,100)"]
+    y-axis "$" 0 --> 1300
+    bar [820, 1100]
 ```
 
 **Analisis.** Pasangan think-tank itu membingkai debat biaya rumah tangga: $820 Tax Foundation dan $1.100 Yale adalah dua angka yang dikutip jurnalis, berbeda dalam perlakuan tarif statutori-vs-efektif dan mekanika pengembalian IEEPA. Analisis pasca-SCOTUS Yale adalah sintesis hukum-berlaku paling lengkap — kekacauan pengembalian menciptakan "efek pendapatan besar" yang kira-kira mengimbangi hambatan pertumbuhan 2026 dari tarif yang tersisa, dengan biaya jangka panjang yang persisten 0,1% dari PDB (~$30 miliar per tahun). Argumen sepanjang buku Tax Foundation — cabut semua tarif dan ganti dengan PPN — adalah artikulasi alternatif kebijakan paling jelas dalam siklus ini. Perbedaan WTO–UNCTAD (optimisme volume vs kehati-hatian riil) adalah bingkai analitis untuk membaca arus data musim gugur.
@@ -355,10 +363,12 @@ Drewry World Container Index menutup penilaian Kamis **8 Oktober** pada **$4.351
 
 Jumlah pelayaran kosong (Drewry Container Capacity Insight): Transpasifik — empat pelayaran kosong diumumkan untuk pekan mendatang, turun dari sebelas pekan ini (kapasitas meningkat); Asia–Eropa — enam diumumkan untuk pekan depan, naik dari lima.
 
-```
-Komposit WCI, dua penilaian mingguan terakhir
-  01 Okt: $4.434  █████████████████████████████████████████  (−1% w/w)
-  08 Okt: $4.351  ████████████████████████████████████████  (−2% w/w)
+```mermaid
+xychart-beta
+    title "Komposit WCI, dua penilaian mingguan terakhir"
+    x-axis ["01 Okt (-1% w/w)", "08 Okt (-2% w/w)"]
+    y-axis "$/FEU" 0 --> 5000
+    bar [4434, 4351]
 ```
 
 ### Indeks Baltic Freightos (FBX)
@@ -388,13 +398,12 @@ Supply Chain Dive (9 Oktober, mingguan Freightos): spot Asia–USWC $8.322 (−3
 | Kam 8 Okt | 2.973 | 4.512 ($37.420) | 2.410 | 1.808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Jum 9 Okt | 2.917 | 4.340 ($35.860) | 2.424 | 1.814 | [Laporan mingguan Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
-```
-Penutupan harian Baltic Dry Index, 5–9 Okt 2026
-  Sen 5 Okt: 3.070  ████████████████████████████████████████████████
-  Sel 6 Okt: 3.002  ██████████████████████████████████████████████
-  Rab 7 Okt: 2.994  ██████████████████████████████████████████████
-  Kam 8 Okt: 2.973  █████████████████████████████████████████████
-  Jum 9 Okt: 2.917  ███████████████████████████████████████████
+```mermaid
+xychart-beta
+    title "Penutupan harian Baltic Dry Index, 5–9 Okt 2026"
+    x-axis ["Sen 5 Okt", "Sel 6 Okt", "Rab 7 Okt", "Kam 8 Okt", "Jum 9 Okt"]
+    y-axis "index" 0 --> 3500
+    bar [3070, 3002, 2994, 2973, 2917]
 ```
 
 ### Gangguan pelabuhan dan logistik

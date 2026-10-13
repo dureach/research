@@ -123,14 +123,20 @@ El portavoz militar hutí declaró un embargo marítimo contra Arabia Saudita; e
 - UNCTAD: PIB global 2,6% en 2026 (desde 2,9% en 2025); Asia contribuirá el **60%** del crecimiento; India 7,3%; la participación de la inversión estratégica subió del 16% al 44% de la inversión greenfield anunciada (2020–2025), con ~70% destinada a economías desarrolladas. Se proyecta que la AOD caiga casi un 7% en 2026, tercer descenso anual consecutivo.
 - La Actualización Global del Comercio de octubre de la UNCTAD proyecta un crecimiento del comercio de mercancías de 2026 de solo **1,5–2,5% en términos reales**, desde el 4,7% de 2025 — el más bajo desde 2023 — un contrapunto deliberado a la mejora de volumen de la OMC.
 
+```mermaid
+xychart-beta
+    title "Revisión de la previsión de volumen de comercio de mercancías de la OMC para 2026"
+    x-axis ["Previsión de marzo", "Actualización de octubre"]
+    y-axis "%" 0 --> 5
+    bar [1.9, 3.9]
 ```
-Revisión de la previsión de volumen de comercio de mercancías de la OMC para 2026
-  Previsión de marzo:  1,9%  ██████████
-  Actualización de octubre:  3,9%  ████████████████████
 
-Déficit comercial mensual de EE. UU., agosto de 2026
-  Julio:    92.800 M$  ████████████████████████████████
-  Agosto: 105.600 M$  ████████████████████████████████████  (importaciones récord de 420.800 M$)
+```mermaid
+xychart-beta
+    title "Déficit comercial mensual de EE. UU., agosto de 2026"
+    x-axis ["Julio", "Agosto (importaciones récord de 420.800 M$)"]
+    y-axis "$B" 0 --> 120
+    bar [92.8, 105.6]
 ```
 
 **Análisis.** Las tres publicaciones cuentan una historia desde tres ángulos: la demanda es fuerte (importaciones estadounidenses récord), su composición es estrecha (los bienes de IA impulsaron casi la mitad del crecimiento comercial; concentración señalada por la UNCTAD) y su geografía es selectiva (el comercio China–EE. UU. cayó más del 20% desde 2024 mientras México, Vietnam y Taiwán cubren el hueco). La divergencia entre el optimismo de volumen de la OMC y la cautela en términos reales de la UNCTAD — ganancias nominales impulsadas por precios frente a volúmenes reales débiles — es el marco analítico del trimestre. El WEO de octubre del FMI, previsto durante las Reuniones Anuales de Bangkok (12–18 de octubre), aportará la evaluación formal de simulación arancelaria. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
@@ -327,10 +333,12 @@ Nuevas investigaciones AD/CVD iniciadas sobre **compuestos de amina de China** (
 | UN Comtrade | Solo notas metodológicas | IMTS 2026 White Cover; orientación sobre comercio transfronterizo — sin nueva edición de datos del 5–12 de oct. | [uncomtrade.org](https://uncomtrade.org/docs/its-publication-list/) |
 | USITC DataWeb / USA Trade Online | Actualización mensual rutinaria | Detalle de agosto de 2026 ahora consultable | |
 
-```
-Carga arancelaria por hogar estadounidense, 2026 (estimaciones de think tanks)
-  Tax Foundation: ~820 $    ████████████████
-  Yale Budget Lab: ~1.100 $ ██████████████████████
+```mermaid
+xychart-beta
+    title "Carga arancelaria por hogar estadounidense, 2026 (estimaciones de think tanks)"
+    x-axis ["Tax Foundation (~820 $)", "Yale Budget Lab (~1.100 $)"]
+    y-axis "$" 0 --> 1300
+    bar [820, 1100]
 ```
 
 **Análisis.** El par de think tanks enmarca el debate sobre el costo por hogar: los 820 $ de Tax Foundation y los 1.100 $ de Yale son las dos cifras que citan los periodistas, que difieren en el tratamiento de la tasa estatutaria frente a la efectiva y la mecánica de reembolsos IEEPA. El análisis post-SCOTUS de Yale es la síntesis de ley vigente más completa — el caos de los reembolsos crea "grandes efectos de ingresos" que compensan aproximadamente el lastre de crecimiento de 2026 de los aranceles restantes, con un costo persistente de largo plazo del 0,1% del PIB (~30.000 M$ anuales). El nuevo argumento en formato de libro de Tax Foundation — derogar todos los aranceles y sustituirlos con un IVA — es la articulación de alternativa política más clara del ciclo. La divergencia OMC–UNCTAD (optimismo de volumen frente a cautela en términos reales) es el marco analítico para leer el flujo de datos del otoño.
@@ -355,10 +363,12 @@ El Índice Mundial de Contenedores Drewry cerró su evaluación del jueves **8 d
 
 Recuentos de salidas en blanco (Drewry Container Capacity Insight): Transpacífico — cuatro salidas en blanco anunciadas para la próxima semana, desde once esta semana (capacidad en aumento); Asia–Europa — seis anunciadas para la próxima semana, desde cinco.
 
-```
-WCI compuesto, últimas dos evaluaciones semanales
-  01 de oct.: 4.434 $  █████████████████████████████████████████  (−1% s/s)
-  08 de oct.: 4.351 $  ████████████████████████████████████████  (−2% s/s)
+```mermaid
+xychart-beta
+    title "WCI compuesto, últimas dos evaluaciones semanales"
+    x-axis ["01 de oct. (-1% s/s)", "08 de oct. (-2% s/s)"]
+    y-axis "$/FEU" 0 --> 5000
+    bar [4434, 4351]
 ```
 
 ### Índice Baltic de Freightos (FBX)
@@ -388,13 +398,12 @@ El **Baltic Dry Index** terminó el viernes 9 de octubre en **2.917 puntos, −7
 | Jue 8 de oct. | 2.973 | 4.512 (37.420 $) | 2.410 | 1.808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Vie 9 de oct. | 2.917 | 4.340 (35.860 $) | 2.424 | 1.814 | [Informe semanal de Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
-```
-Cierres diarios del Baltic Dry Index, 5–9 de oct. de 2026
-  Lun 5 de oct.: 3.070  ████████████████████████████████████████████████
-  Mar 6 de oct.: 3.002  ██████████████████████████████████████████████
-  Mié 7 de oct.: 2.994  ██████████████████████████████████████████████
-  Jue 8 de oct.: 2.973  █████████████████████████████████████████████
-  Vie 9 de oct.: 2.917  ███████████████████████████████████████████
+```mermaid
+xychart-beta
+    title "Cierres diarios del Baltic Dry Index, 5–9 de oct. de 2026"
+    x-axis ["Lun 5 de oct.", "Mar 6 de oct.", "Mié 7 de oct.", "Jue 8 de oct.", "Vie 9 de oct."]
+    y-axis "index" 0 --> 3500
+    bar [3070, 3002, 2994, 2973, 2917]
 ```
 
 ### Disrupciones portuarias y logísticas

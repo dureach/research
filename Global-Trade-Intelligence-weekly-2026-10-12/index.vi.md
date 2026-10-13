@@ -123,14 +123,20 @@ Phát ngôn viên quân sự Houthi tuyên bố lệnh cấm vận hàng hải �
 - UNCTAD: GDP toàn cầu 2,6% năm 2026 (từ 2,9% năm 2025); châu Á đóng góp **60%** tăng trưởng; Ấn Độ 7,3%; tỷ trọng đầu tư chiến lược tăng từ 16% lên 44% trong đầu tư greenfield được công bố (2020–2025), với ~70% chảy vào các nền kinh tế phát triển. ODA dự kiến giảm gần 7% năm 2026, năm giảm thứ ba liên tiếp.
 - Bản cập nhật Thương mại Toàn cầu tháng 10 của UNCTAD dự báo tăng trưởng thương mại hàng hóa 2026 chỉ **1,5–2,5% theo giá thực**, giảm từ 4,7% năm 2025 — thấp nhất kể từ 2023 — một đối điểm có chủ ý với việc WTO nâng triển vọng khối lượng.
 
+```mermaid
+xychart-beta
+    title "Dự báo khối lượng thương mại hàng hóa 2026 của WTO — bản điều chỉnh"
+    x-axis ["Dự báo tháng 3", "Cập nhật tháng 10"]
+    y-axis "%" 0 --> 5
+    bar [1.9, 3.9]
 ```
-Dự báo khối lượng thương mại hàng hóa 2026 của WTO — bản điều chỉnh
-  Dự báo tháng 3:  1,9%  ██████████
-  Cập nhật tháng 10:  3,9%  ████████████████████
 
-Thâm hụt thương mại hàng tháng của Hoa Kỳ, tháng 8 năm 2026
-  Tháng 7:    92,8 tỷ USD  ████████████████████████████████
-  Tháng 8: 105,6 tỷ USD  ████████████████████████████████████  (nhập khẩu kỷ lục 420,8 tỷ USD)
+```mermaid
+xychart-beta
+    title "Thâm hụt thương mại hàng tháng của Hoa Kỳ, tháng 8 năm 2026"
+    x-axis ["Tháng 7", "Tháng 8 (nhập khẩu kỷ lục 420,8 tỷ USD)"]
+    y-axis "$B" 0 --> 120
+    bar [92.8, 105.6]
 ```
 
 **Phân tích.** Ba bản phát hành kể một câu chuyện từ ba góc độ: nhu cầu mạnh (nhập khẩu kỷ lục của Hoa Kỳ), thành phần của nó hẹp (hàng hóa AI đóng góp gần một nửa tăng trưởng thương mại; UNCTAD cảnh báo về sự tập trung), và địa lý của nó có chọn lọc (thương mại Trung–Mỹ giảm hơn 20% kể từ 2024 trong khi Mexico, Việt Nam và Đài Loan lấp đầy khoảng trống). Sự phân kỳ giữa lạc quan khối lượng của WTO và thận trọng giá thực của UNCTAD — lợi ích danh nghĩa do giá dẫn dắt so với khối lượng thực yếu — là khung phân tích cho quý này. Báo cáo WEO tháng 10 của IMF, dự kiến trong Cuộc họp Thường niên Bangkok (12–18 tháng 10), sẽ mang đánh giá mô phỏng thuế chính thức. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
@@ -327,10 +333,12 @@ Các cuộc điều tra AD/CVD mới được khởi xướng đối với **h�
 | UN Comtrade | Chỉ ghi chú phương pháp | IMTS 2026 White Cover; hướng dẫn thương mại xuyên biên giới — không có bản dữ liệu mới ngày 5–12 tháng 10 | [uncomtrade.org](https://uncomtrade.org/docs/its-publication-list/) |
 | USITC DataWeb / USA Trade Online | Làm mới hàng tháng thường lệ | Chi tiết tháng 8 năm 2026 hiện có thể truy vấn | |
 
-```
-Gánh nặng thuế quan mỗi hộ gia đình Hoa Kỳ, 2026 (ước tính của các viện chính sách)
-  Tax Foundation: ~820 USD    ████████████████
-  Phòng Thí nghiệm Ngân sách Yale: ~1.100 USD ██████████████████████
+```mermaid
+xychart-beta
+    title "Gánh nặng thuế quan mỗi hộ gia đình Hoa Kỳ, 2026 (ước tính của các viện chính sách)"
+    x-axis ["Tax Foundation (~820 USD)", "Phòng Thí nghiệm Ngân sách Yale (~1.100 USD)"]
+    y-axis "$" 0 --> 1300
+    bar [820, 1100]
 ```
 
 **Phân tích.** Cặp viện chính sách định hình cuộc tranh luận chi phí hộ gia đình: 820 USD của Tax Foundation và 1.100 USD của Yale là hai con số mà giới báo chí trích dẫn, khác nhau ở cách xử lý thuế theo luật so với thuế hiệu lực và cơ chế hoàn thuế IEEPA. Phân tích hậu SCOTUS của Yale là tổng hợp luật hiện hành đầy đủ nhất — hỗn loạn hoàn thuế tạo ra "hiệu ứng doanh thu lớn" xấp xỉ bù đắp lực cản tăng trưởng 2026 của các mức thuế còn lại, với chi phí dài hạn dai dẳng 0,1% GDP (~30 tỷ USD hàng năm). Luận điểm dài thành sách của Tax Foundation — bãi bỏ mọi thuế quan và thay bằng VAT — là cách diễn đạt rõ ràng nhất về phương án chính sách thay thế của chu kỳ này. Sự phân kỳ WTO–UNCTAD (lạc quan khối lượng so với thận trọng giá thực) là khung phân tích để đọc dòng dữ liệu mùa thu.
@@ -355,10 +363,12 @@ Chỉ số Container Thế giới Drewry chốt đợt đánh giá thứ Năm **
 
 Số chuyến bị hủy (Drewry Container Capacity Insight): Xuyên Thái Bình Dương — bốn chuyến hủy được công bố cho tuần tới, giảm từ mười một chuyến tuần này (năng lực tăng); Á–Âu — sáu chuyến được công bố cho tuần tới, tăng từ năm.
 
-```
-WCI tổng hợp, hai đợt đánh giá hàng tuần gần nhất
-  01 tháng 10: 4.434 USD  █████████████████████████████████████████  (−1% so với tuần trước)
-  08 tháng 10: 4.351 USD  ████████████████████████████████████████  (−2% so với tuần trước)
+```mermaid
+xychart-beta
+    title "WCI tổng hợp, hai đợt đánh giá hàng tuần gần nhất"
+    x-axis ["01 tháng 10 (-1% so với tuần trước)", "08 tháng 10 (-2% so với tuần trước)"]
+    y-axis "$/FEU" 0 --> 5000
+    bar [4434, 4351]
 ```
 
 ### Chỉ số Baltic của Freightos (FBX)
@@ -388,13 +398,12 @@ Supply Chain Dive (ngày 9 tháng 10, Freightos hàng tuần): giá giao ngay Á
 | Thứ Năm 8 tháng 10 | 2.973 | 4.512 (37.420 USD) | 2.410 | 1.808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Thứ Sáu 9 tháng 10 | 2.917 | 4.340 (35.860 USD) | 2.424 | 1.814 | [Báo cáo hàng tuần của Baltic Exchange](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
-```
-Chỉ số Baltic Dry chốt phiên hàng ngày, 5–9 tháng 10 năm 2026
-  Thứ Hai 5 tháng 10: 3.070  ████████████████████████████████████████████████
-  Thứ Ba 6 tháng 10: 3.002  ██████████████████████████████████████████████
-  Thứ Tư 7 tháng 10: 2.994  ██████████████████████████████████████████████
-  Thứ Năm 8 tháng 10: 2.973  █████████████████████████████████████████████
-  Thứ Sáu 9 tháng 10: 2.917  ███████████████████████████████████████████
+```mermaid
+xychart-beta
+    title "Chỉ số Baltic Dry chốt phiên hàng ngày, 5–9 tháng 10 năm 2026"
+    x-axis ["Thứ Hai 5 tháng 10", "Thứ Ba 6 tháng 10", "Thứ Tư 7 tháng 10", "Thứ Năm 8 tháng 10", "Thứ Sáu 9 tháng 10"]
+    y-axis "index" 0 --> 3500
+    bar [3070, 3002, 2994, 2973, 2917]
 ```
 
 ### Gián đoạn cảng và logistics

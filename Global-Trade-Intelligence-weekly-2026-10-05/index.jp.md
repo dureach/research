@@ -295,14 +295,15 @@ Oct 3、中国商務部（公告第44号）は**EU産p-ニトロトルエンに�
 
 **航路別・前週比の動き（Drewry、$/FEU）：**
 
+```mermaid
+xychart-beta
+    title "Week-over-week lane moves (Drewry, $/FEU)"
+    x-axis ["NY (+1%)", "LA (0%)", "Genoa (-3%)", "RTM (-2%)", "WCI (-1%)"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [10428, 7835, 3702, 3399, 4434]
 ```
-Shanghai → New York      $10,428  ▲ +1%   ██████████████████████████████████████▓ +108
-Shanghai → Los Angeles    $7,835  ►  0%   ████████████████████████████             0
-Shanghai → Genoa          $3,702  ▼ -3%   █████████████▓                        -115
-Shanghai → Rotterdam      $3,399  ▼ -2%   ████████████                           -69
-Composite WCI             $4,434  ▼ -1%   ███████████████▓                       -45
- (bar length ∝ rate level; figures = approx. $ change w/w)
-```
+
+*Rates ($/FEU): Shanghai→New York 10,428; →Los Angeles 7,835; →Genoa 3,702; →Rotterdam 3,399; composite 4,434.*
 
 ### 9.2 コンテナ ― Freightosバルチック指数（Oct 2週）
 
@@ -321,13 +322,12 @@ Composite WCI             $4,434  ▼ -1%   ████████████
 
 **FBX航路スナップショット（$/FEU）：**
 
-```
-FBX01  CN/EA → USWC      $8,319  █████████████████████████████████
-FBX03  CN/EA → USEC      $9,606  ██████████████████████████████████████
-FBX11  CN/EA → N.Europe  $3,260  █████████████
-FBX13  CN/EA → Med       $3,555  ██████████████
-FBX22  Europe → USEC     $2,723  ███████████
-FBX21  USEC → Europe       $963  ████
+```mermaid
+xychart-beta
+    title "FBX lane snapshot ($/FEU)"
+    x-axis ["FBX01 CN/EA → USWC", "FBX03 CN/EA → USEC", "FBX11 CN/EA → N.Europe", "FBX13 CN/EA → Med", "FBX22 Europe → USEC", "FBX21 USEC → Europe"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8319, 9606, 3260, 3555, 2723, 963]
 ```
 
 ### 9.3 ドライバルク ― バルチック海運指数（Oct 2, 2026）
@@ -345,11 +345,12 @@ FBX21  USEC → Europe       $963  ████
 
 **船型別・週間パフォーマンス（前週比％）：**
 
-```
-Capesize   -12.8%  ████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  deeply negative
-Panamax     -1.5%  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  mildly negative
-Supramax    +0.2%  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█  flat-positive
-BDI (comp)  -8.1%  ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  negative
+```mermaid
+xychart-beta
+    title "Weekly segment performance (% change w/w)"
+    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    y-axis "% w/w" -15 --> 5
+    bar [-12.8, -1.5, 0.2, -8.1]
 ```
 
 **読み筋。** 穀物・石炭航路（パナマックス／スープラマックス）は持ちこたえている。痛みは鉄鉱石・鉄鋼系のケープサイズ航路に集中している。これは需要シグナルであり、船腹過剰のシグナルではない。スープラマックスは週半ばに1,797を付け、**2022年8月以来の高値**を記録した。([worldports.org](https://www.worldports.org/falling-vessel-rates-push-baltic-dry-bulk-index-to-fresh-low/))
@@ -361,14 +362,12 @@ BDI (comp)  -8.1%  ████████████████████�
 
 ### 9.5 関税率の比較（主な措置、従価税）
 
-```
-Graham Act secondary (max)      100%  ████████████████████████████████████████
-Drones >25kg / thermal           100%  ████████████████████████████████████████
-Canada Sec. 338 (covered goods)   50%  ████████████████████
-Canada counter-tariffs (top)      50%  ████████████████████
-Polysilicon derivatives           15%  ██████
-Drones allied (UK)                10%  ████
-Canada/India Sec. 301 FL          10%  ████
+```mermaid
+xychart-beta
+    title "Tariff-rate comparison (selected measures, ad valorem)"
+    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    y-axis "%" 0 --> 110
+    bar [100, 100, 50, 50, 15, 10, 10]
 ```
 
 ---

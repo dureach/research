@@ -275,14 +275,15 @@ Capacity notes: 10 transpacific blank sailings announced for next week (down fro
 
 **Week-over-week lane moves (Drewry, $/FEU):**
 
+```mermaid
+xychart-beta
+    title "Week-over-week lane moves (Drewry, $/FEU)"
+    x-axis ["NY (+1%)", "LA (0%)", "Genoa (-3%)", "RTM (-2%)", "WCI (-1%)"]
+    y-axis "$/FEU" 0 --> 12000
+    bar [10428, 7835, 3702, 3399, 4434]
 ```
-Shanghai → New York      $10,428  ▲ +1%   ██████████████████████████████████████▓ +108
-Shanghai → Los Angeles    $7,835  ►  0%   ████████████████████████████             0
-Shanghai → Genoa          $3,702  ▼ -3%   █████████████▓                        -115
-Shanghai → Rotterdam      $3,399  ▼ -2%   ████████████                           -69
-Composite WCI             $4,434  ▼ -1%   ███████████████▓                       -45
- (bar length ∝ rate level; figures = approx. $ change w/w)
-```
+
+*Rates ($/FEU): Shanghai→New York 10,428; →Los Angeles 7,835; →Genoa 3,702; →Rotterdam 3,399; composite 4,434.*
 
 ### 9.2 Container — Freightos Baltic Index (w/e Oct 2, 2026)
 
@@ -301,13 +302,12 @@ Global **FBX 3,341 — unchanged w/w**. Transpacific steady, Europe soft, transa
 
 **FBX lane snapshot ($/FEU):**
 
-```
-FBX01  CN/EA → USWC      $8,319  █████████████████████████████████
-FBX03  CN/EA → USEC      $9,606  ██████████████████████████████████████
-FBX11  CN/EA → N.Europe  $3,260  █████████████
-FBX13  CN/EA → Med       $3,555  ██████████████
-FBX22  Europe → USEC     $2,723  ███████████
-FBX21  USEC → Europe       $963  ████
+```mermaid
+xychart-beta
+    title "FBX lane snapshot ($/FEU)"
+    x-axis ["FBX01 CN/EA → USWC", "FBX03 CN/EA → USEC", "FBX11 CN/EA → N.Europe", "FBX13 CN/EA → Med", "FBX22 Europe → USEC", "FBX21 USEC → Europe"]
+    y-axis "$/FEU" 0 --> 11000
+    bar [8319, 9606, 3260, 3555, 2723, 963]
 ```
 
 ### 9.3 Dry bulk — Baltic Dry Index (Oct 2, 2026)
@@ -325,11 +325,12 @@ Note: Reuters' wire version reports Capesize earnings at $42,228/day on a differ
 
 **Weekly segment performance (% change w/w):**
 
-```
-Capesize   -12.8%  ████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░  deeply negative
-Panamax     -1.5%  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  mildly negative
-Supramax    +0.2%  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█  flat-positive
-BDI (comp)  -8.1%  ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  negative
+```mermaid
+xychart-beta
+    title "Weekly segment performance (% change w/w)"
+    x-axis ["Capesize", "Panamax", "Supramax", "BDI (comp)"]
+    y-axis "% w/w" -15 --> 5
+    bar [-12.8, -1.5, 0.2, -8.1]
 ```
 
 **Analysis.** Grain and coal lanes (Panamax/Supramax) are holding; the weakness is concentrated in iron-ore- and steel-linked Capesize routes — a demand signal rather than a fleet-oversupply signal. Supramax at 1,797 mid-week touched its **highest since August 2022**. ([worldports.org](https://www.worldports.org/falling-vessel-rates-push-baltic-dry-bulk-index-to-fresh-low/))
@@ -341,14 +342,12 @@ BDI (comp)  -8.1%  ████████████████████�
 
 ### 9.5 Tariff-rate comparison (selected measures, ad valorem)
 
-```
-Graham Act secondary (max)      100%  ████████████████████████████████████████
-Drones >25kg / thermal           100%  ████████████████████████████████████████
-Canada Sec. 338 (covered goods)   50%  ████████████████████
-Canada counter-tariffs (top)      50%  ████████████████████
-Polysilicon derivatives           15%  ██████
-Drones allied (UK)                10%  ████
-Canada/India Sec. 301 FL          10%  ████
+```mermaid
+xychart-beta
+    title "Tariff-rate comparison (selected measures, ad valorem)"
+    x-axis ["Graham Act secondary (max)", "Drones >25kg / thermal", "Canada Sec. 338 (covered goods)", "Canada counter-tariffs (top)", "Polysilicon derivatives", "Drones allied (UK)", "Canada/India Sec. 301 FL"]
+    y-axis "%" 0 --> 110
+    bar [100, 100, 50, 50, 15, 10, 10]
 ```
 
 ---

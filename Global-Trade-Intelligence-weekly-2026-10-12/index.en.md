@@ -123,14 +123,20 @@ The Houthi military spokesman declared a maritime embargo against Saudi Arabia; 
 - UNCTAD: global GDP 2.6% in 2026 (from 2.9% in 2025); Asia to contribute **60%** of growth; India 7.3%; strategic investment share rose from 16% to 44% of announced greenfield investment (2020–2025), with ~70% going to developed economies. ODA projected to fall almost 7% in 2026, a third straight annual decline.
 - UNCTAD's October Global Trade Update projects 2026 merchandise trade growth at just **1.5–2.5% in real terms**, down from 4.7% in 2025 — the lowest since 2023 — a deliberate counterpoint to the WTO's volume upgrade.
 
+```mermaid
+xychart-beta
+    title "WTO 2026 merchandise trade volume forecast revision"
+    x-axis ["March forecast", "October update"]
+    y-axis "%" 0 --> 5
+    bar [1.9, 3.9]
 ```
-WTO 2026 merchandise trade volume forecast revision
-  March forecast:  1.9%  ██████████
-  October update:  3.9%  ████████████████████
 
-US monthly trade deficit, August 2026
-  July:    $92.8B  ████████████████████████████████
-  August: $105.6B  ████████████████████████████████████  (record imports $420.8B)
+```mermaid
+xychart-beta
+    title "US monthly trade deficit, August 2026"
+    x-axis ["July", "August (record imports $420.8B)"]
+    y-axis "$B" 0 --> 120
+    bar [92.8, 105.6]
 ```
 
 **Analysis.** The three releases tell one story from three angles: demand is strong (record US imports), its composition is narrow (AI goods drove nearly half of trade growth; concentration flagged by UNCTAD), and its geography is selective (China–US trade down over 20% since 2024 while Mexico, Vietnam and Taiwan fill the gap). The divergence between the WTO's volume optimism and UNCTAD's real-terms caution — price-driven nominal gains versus weak real volumes — is the analytical frame for the quarter. The IMF's October WEO, due during the Bangkok Annual Meetings (October 12–18), will carry the formal tariff-simulation assessment. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026), [reuters.com](https://www.reuters.com/business/us-trade-deficit-widens-august-amid-strong-imports-2026-10-06/), [dig.watch](https://dig.watch/updates/wto-trade-outlook-ai-boom), [un.org](https://news.un.org/en/story/2026/10/1168566))
@@ -327,10 +333,12 @@ New AD/CVD investigations instituted on **amine compounds from China** (alleged 
 | UN Comtrade | Methodology notes only | IMTS 2026 White Cover; cross-border trade guidance — no new dataset vintage Oct 5–12 | [uncomtrade.org](https://uncomtrade.org/docs/its-publication-list/) |
 | USITC DataWeb / USA Trade Online | Routine monthly refresh | August 2026 detail now queryable | |
 
-```
-Tariff burden per US household, 2026 (think-tank estimates)
-  Tax Foundation: ~$820    ████████████████
-  Yale Budget Lab: ~$1,100 ██████████████████████
+```mermaid
+xychart-beta
+    title "Tariff burden per US household, 2026 (think-tank estimates)"
+    x-axis ["Tax Foundation (~$820)", "Yale Budget Lab (~$1,100)"]
+    y-axis "$" 0 --> 1300
+    bar [820, 1100]
 ```
 
 **Analysis.** The Think-tank pair frames the household-cost debate: Tax Foundation's $820 and Yale's $1,100 are the two figures journalists quote, differing on statutory-vs-effective rate treatment and the IEEPA refund mechanics. Yale's post-SCOTUS analysis is the most complete current-law synthesis — refund chaos creates "large revenue effects" that roughly offset the remaining tariffs' 2026 growth drag, with a persistent long-run cost of 0.1% of GDP (~$30B annually). Tax Foundation's new book-length argument — repeal all tariffs and substitute a VAT — is the clearest policy-alternative articulation of the cycle. The WTO–UNCTAD divergence (volume optimism vs. real-terms caution) is the analytical frame for reading the autumn data flow.
@@ -355,10 +363,12 @@ The Drewry World Container Index closed its Thursday **October 8** assessment at
 
 Blank-sailing counts (Drewry Container Capacity Insight): Transpacific — four blank sailings announced for the coming week, down from eleven this week (capacity increasing); Asia–Europe — six announced for next week, up from five.
 
-```
-WCI composite, last two weekly assessments
-  01 Oct: $4,434  █████████████████████████████████████████  (−1% w/w)
-  08 Oct: $4,351  ████████████████████████████████████████  (−2% w/w)
+```mermaid
+xychart-beta
+    title "WCI composite, last two weekly assessments"
+    x-axis ["01 Oct (-1% w/w)", "08 Oct (-2% w/w)"]
+    y-axis "$/FEU" 0 --> 5000
+    bar [4434, 4351]
 ```
 
 ### Freightos Baltic Index (FBX)
@@ -388,13 +398,12 @@ The **Baltic Dry Index** finished Friday October 9 at **2,917 points, down 7.3% 
 | Thu 8 Oct | 2,973 | 4,512 ($37,420) | 2,410 | 1,808 | [Baird Maritime](https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-drops-to-lowest-level-in-more-than-six-weeks) |
 | Fri 9 Oct | 2,917 | 4,340 ($35,860) | 2,424 | 1,814 | [Baltic Exchange weekly report](https://www.thedcn.com.au/news/baltic-exchange-weekly-report-9-october-2026) |
 
-```
-Baltic Dry Index daily closes, 5–9 Oct 2026
-  Mon 5 Oct: 3,070  ████████████████████████████████████████████████
-  Tue 6 Oct: 3,002  ██████████████████████████████████████████████
-  Wed 7 Oct: 2,994  ██████████████████████████████████████████████
-  Thu 8 Oct: 2,973  █████████████████████████████████████████████
-  Fri 9 Oct: 2,917  ███████████████████████████████████████████
+```mermaid
+xychart-beta
+    title "Baltic Dry Index daily closes, 5–9 Oct 2026"
+    x-axis ["Mon 5 Oct", "Tue 6 Oct", "Wed 7 Oct", "Thu 8 Oct", "Fri 9 Oct"]
+    y-axis "index" 0 --> 3500
+    bar [3070, 3002, 2994, 2973, 2917]
 ```
 
 ### Port and logistics disruptions
