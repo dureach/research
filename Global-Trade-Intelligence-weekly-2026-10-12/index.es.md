@@ -6,7 +6,7 @@ draft: false
 ---
 # Informe de Inteligencia de Comercio Global — Semana del 5 al 12 de octubre de 2026
 
-**Resumen semanal.** Ventana de cobertura: 5–12 de octubre de 2026. Recopilado a partir de aproximadamente 45 fuentes mundiales de noticias comerciales, política, datos y fletes. Todas las cifras tienen fuente; los valores que no pudieron verificarse se marcan n/a.
+**Resumen semanal.** Ventana de cobertura: 5–12 de octubre de 2026. Recopilado a partir de aproximadamente 45 fuentes mundiales de noticias comerciales, política, datos y fletes.
 
 ---
 

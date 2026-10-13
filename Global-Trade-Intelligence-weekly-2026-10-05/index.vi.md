@@ -6,7 +6,7 @@ draft: false
 ---
 # Báo cáo Tình báo Thương mại Toàn cầu — Tuần 28 tháng 9 – 5 tháng 10, 2026
 
-**Bản tin hàng tuần cấp độ phân tích.** Khung thời gian: 28 tháng 9 – 5 tháng 10, 2026. Được tổng hợp từ ~45 nguồn tin tức thương mại, chính sách, dữ liệu và vận tải trên toàn thế giới. Mọi tuyên bố đều có nguồn; các giá trị không thể xác minh được đánh dấu n/a.
+**Bản tin hàng tuần cấp độ phân tích.** Khung thời gian: 28 tháng 9 – 5 tháng 10, 2026. Được tổng hợp từ ~45 nguồn tin tức thương mại, chính sách, dữ liệu và vận tải trên toàn thế giới.
 
 ---
 

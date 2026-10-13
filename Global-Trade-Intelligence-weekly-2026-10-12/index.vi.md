@@ -6,7 +6,7 @@ draft: false
 ---
 # Báo cáo Tình báo Thương mại Toàn cầu — Tuần 5–12 tháng 10 năm 2026
 
-**Bản tin hàng tuần.** Kỳ bao phủ: 5–12 tháng 10 năm 2026. Tổng hợp từ khoảng 45 nguồn tin tức, chính sách, dữ liệu và cước vận chuyển thương mại trên toàn thế giới. Mọi con số đều có nguồn; các giá trị không kiểm chứng được được đánh dấu n/a.
+**Bản tin hàng tuần.** Kỳ bao phủ: 5–12 tháng 10 năm 2026. Tổng hợp từ khoảng 45 nguồn tin tức, chính sách, dữ liệu và cước vận chuyển thương mại trên toàn thế giới.
 
 ---
 

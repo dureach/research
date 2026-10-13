@@ -6,7 +6,7 @@ draft: false
 ---
 # Laporan Intelijen Perdagangan Global — Pekan 5–12 Oktober 2026
 
-**Laporan mingguan.** Cakupan: 5–12 Oktober 2026. Disusun dari sekitar 45 sumber berita perdagangan, kebijakan, data, dan angkutan di seluruh dunia. Semua angka bersumber; nilai yang tidak dapat diverifikasi ditandai n/a.
+**Laporan mingguan.** Cakupan: 5–12 Oktober 2026. Disusun dari sekitar 45 sumber berita perdagangan, kebijakan, data, dan angkutan di seluruh dunia.
 
 ---
 

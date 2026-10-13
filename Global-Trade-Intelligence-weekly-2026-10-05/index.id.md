@@ -6,7 +6,7 @@ draft: false
 ---
 # Laporan Intelijen Perdagangan Global — Pekan 28 September – 5 Oktober 2026
 
-**Taklimat mingguan setara analis.** Jendela liputan: 28 September – 5 Oktober 2026. Disusun dari ~45 sumber berita perdagangan, kebijakan, data, dan angkutan di seluruh dunia. Setiap klaim bersumber; nilai yang tak terverifikasi ditandai n/a.
+**Taklimat mingguan setara analis.** Jendela liputan: 28 September – 5 Oktober 2026. Disusun dari ~45 sumber berita perdagangan, kebijakan, data, dan angkutan di seluruh dunia.
 
 ---
 

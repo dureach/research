@@ -6,7 +6,7 @@ draft: false
 ---
 # Informe de inteligencia comercial global — Semana del September 28 – October 5, 2026
 
-**Briefing semanal de nivel analista.** Ventana de cobertura: September 28 – October 5, 2026. Compilado a partir de ~45 fuentes de noticias comerciales, políticas, datos y fletes en todo el mundo. Cada afirmación está respaldada por fuentes; los valores no verificables se marcan como n/a.
+**Briefing semanal de nivel analista.** Ventana de cobertura: September 28 – October 5, 2026. Compilado a partir de ~45 fuentes de noticias comerciales, políticas, datos y fletes en todo el mundo.
 
 ---
 

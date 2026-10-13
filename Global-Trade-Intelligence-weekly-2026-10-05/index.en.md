@@ -6,7 +6,7 @@ draft: false
 ---
 # Global Trade Intelligence Report — Week of September 28 – October 5, 2026
 
-**Weekly briefing.** Coverage window: September 28 – October 5, 2026. Compiled from approximately 45 trade news, policy, data, and freight sources worldwide. All figures are sourced; values that could not be verified are marked n/a.
+**Weekly briefing.** Coverage window: September 28 – October 5, 2026. Compiled from approximately 45 trade news, policy, data, and freight sources worldwide.
 
 ---
 
