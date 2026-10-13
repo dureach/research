@@ -179,11 +179,19 @@ def main():
     with open(path, encoding="utf-8") as f:
         text = f.read()
 
-    raw = call_llm(text)
-    try:
-        result = parse_json(raw)
-    except Exception as e:
-        print(f"ERROR: could not parse reviewer JSON: {e}\nRaw output:\n{raw[:2000]}", file=sys.stderr)
+    raw = None
+    result = None
+    last_err = ""
+    for attempt in range(1, 4):
+        raw = call_llm(text)
+        try:
+            result = parse_json(raw)
+            break
+        except Exception as e:
+            last_err = str(e)
+            print(f"WARNING: reviewer output unparseable (attempt {attempt}/3): {last_err}", file=sys.stderr)
+    if result is None:
+        print(f"ERROR: could not parse reviewer JSON after 3 attempts: {last_err}\nRaw output:\n{raw[:2000]}", file=sys.stderr)
         sys.exit(2)
 
     for k in ("proofread_issues", "quality_score", "ai_author_score", "verdict", "summary"):
