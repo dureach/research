@@ -65,7 +65,7 @@ jobs:
             try {
               body = fs.readFileSync('review-summary.md', 'utf8');
             } catch (e) {
-              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add DEEPSEEK_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
+              body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add ANTHROPIC_API_KEY in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
             }
             const exitCode = process.env.REVIEW_EXIT || '0';
             const header = exitCode !== '0'
