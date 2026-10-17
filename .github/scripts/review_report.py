@@ -2,9 +2,9 @@
 """Independent review of a trade-intelligence report.
 
 Proofreads the report, assigns a quality score (0-100) and an
-AI-authorship score (0-100). Exits 0 on PASS, 1 on REJECT
-(ai_author_score > AI_REJECT_ABOVE or quality_score < QUALITY_MIN_SCORE),
-2 on setup errors.
+AI-authorship score (0-100). ADVISORY ONLY (Shawn's 2026-10-16 decision):
+always exits 0 — scores are posted to the PR for human judgment and never
+block the merge. Exits 2 on setup errors.
 
 Usage: review_report.py <markdown-file>
 Env:   REVIEW_PROVIDER (deepseek | openrouter, default openrouter)
@@ -254,9 +254,9 @@ def main():
     lines = [
         f"## Independent review: `{result['file']}`",
         "",
-        f"**Verdict: {verdict_icon}**",
-        f"- Quality score: **{result['quality_score']}/100** (reject below {QUALITY_MIN})",
-        f"- AI-authorship score: **{result['ai_author_score']}/100** (reject above {AI_REJECT_ABOVE})",
+        f"**Verdict: {verdict_icon}** (advisory — does not block merge)",
+        f"- Quality score: **{result['quality_score']}/100** (advisory threshold {QUALITY_MIN})",
+        f"- AI-authorship score: **{result['ai_author_score']}/100** (advisory threshold {AI_REJECT_ABOVE})",
         "",
         f"**Summary:** {result['summary']}",
         "",
@@ -270,7 +270,9 @@ def main():
         f.write("\n".join(lines) + "\n")
 
     print("\n".join(lines))
-    sys.exit(1 if result["verdict"] == "REJECT" else 0)
+    # Advisory-only gate (2026-10-16): scores are posted for human judgment;
+    # the review never fails the workflow, so it can never block a merge.
+    sys.exit(0)
 
 
 if __name__ == "__main__":
