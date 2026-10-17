@@ -1,8 +1,10 @@
 name: Independent report review
 
 # Proofreads each weekly report's English edition, assigns a quality score
-# and an AI-authorship score. FAILS the check when the AI-authorship score
-# is above 20 or the quality score is below 90 — a failed check rejects the PR.
+# and an AI-authorship score, and posts both to the PR as an advisory
+# comment. ADVISORY ONLY (Shawn's 2026-10-16 decision): the review never
+# fails the check and never blocks the merge — the verdict is a signal
+# for human judgment, not a gate.
 #
 # Required secret: DEEPSEEK_API_KEY (repo Settings -> Secrets and variables -> Actions),
 #   or OPENROUTER_API_KEY to use OpenRouter (free models) via REVIEW_PROVIDER=openrouter.
@@ -54,13 +56,11 @@ jobs:
           QUALITY_MIN_SCORE: ${{ env.QUALITY_MIN_SCORE }}
         run: |
           rm -f review-summary.md review-result.json
-          status=0
           for f in ${{ steps.changed.outputs.all_changed_files }}; do
             echo "=== Reviewing $f ==="
-            python .github/scripts/review_report.py "$f" || status=$?
+            python .github/scripts/review_report.py "$f"
           done
-          echo "REVIEW_EXIT=$status" >> "$GITHUB_ENV"
-          exit $status
+          # Advisory-only: the script always exits 0, so this step never fails.
 
       - name: Post review comment on PR
         if: always() && steps.changed.outputs.any_changed == 'true' && github.event_name == 'pull_request'
@@ -77,9 +77,7 @@ jobs:
               body = '## Independent review\n\nThe review step did not produce a summary (missing API key or API error). Add ' + keyName + ' in repo Settings -> Secrets and variables -> Actions, then re-run the workflow.';
             }
             const exitCode = process.env.REVIEW_EXIT || '0';
-            const header = exitCode !== '0'
-              ? 'WARNING: REVIEW FAILED - see scores below.'
-              : 'Review passed.';
+            const header = 'Advisory review — scores below are for human judgment and do not block the merge.';
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
