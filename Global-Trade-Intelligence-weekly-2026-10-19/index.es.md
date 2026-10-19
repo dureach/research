@@ -110,7 +110,7 @@ Los efectos de segundo orden se están extendiendo. La campaña hutí contra Ara
 xychart-beta
     title "Cruces del estrecho de Ormuz (semanales)"
     x-axis ["sem. 7 oct", "sem. 14 oct"]
-    y-axis "vessels" 0 --> 200
+    y-axis "buques" 0 --> 200
     bar [176, 131]
 ```
 
@@ -121,7 +121,7 @@ xychart-beta
 xychart-beta
     title "Ingresos diarios de petroleros, último mes (miles de USD)"
     x-axis ["VLCC", "Suezmax", "Aframax"]
-    y-axis "USD k/day" 0 --> 700
+    y-axis "miles de USD/día" 0 --> 700
     bar [643, 457, 256]
 ```
 
@@ -140,7 +140,7 @@ Las instituciones macro están leyendo la misma señal. La Perspectiva y Estadí
 xychart-beta
     title "Comercio de China, septiembre de 2026 (miles de millones de USD)"
     x-axis ["Export.", "Import.", "Superávit"]
-    y-axis "USD bn" 0 --> 500
+    y-axis "miles de millones de USD" 0 --> 500
     bar [447.2, 313.7, 133.5]
 ```
 
@@ -204,7 +204,7 @@ xychart-beta
 xychart-beta
     title "Índice Báltico de Carga Seca, cierres semanales"
     x-axis ["09 oct", "16 oct"]
-    y-axis "points" 0 --> 3500
+    y-axis "puntos" 0 --> 3500
     bar [2917, 2511]
 ```
 
@@ -232,7 +232,7 @@ xychart-beta
 xychart-beta
     title "Ingresos arancelarios, ene 2025–ago 2026 (miles de millones de USD)"
     x-axis ["Nuevos aranc.", "IEEPA total", "IEEPA cert."]
-    y-axis "USD bn" 0 --> 350
+    y-axis "miles de millones de USD" 0 --> 350
     bar [314.8, 166, 126]
 ```
 
@@ -435,7 +435,7 @@ No surgió ninguna medida del gobierno turco en la ventana; la asociación de Tr
 xychart-beta
     title "Comercio de EE. UU., agosto de 2026 (miles de millones de USD)"
     x-axis ["Import.", "Export.", "Déficit"]
-    y-axis "USD bn" 0 --> 450
+    y-axis "miles de millones de USD" 0 --> 450
     bar [420.8, 315.2, 105.6]
 ```
 
@@ -446,7 +446,7 @@ xychart-beta
 xychart-beta
     title "Comercio de la zona del euro, agosto de 2026 (miles de millones de EUR)"
     x-axis ["Export.", "Import.", "Balance"]
-    y-axis "EUR bn" -30 --> 260
+    y-axis "miles de millones de EUR" -30 --> 260
     bar [227.7, 243.8, -16.1]
 ```
 

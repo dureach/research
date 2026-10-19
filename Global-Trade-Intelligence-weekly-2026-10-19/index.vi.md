@@ -183,9 +183,7 @@ Về nội dung, khuôn khổ "30-đổi-30" — khoảng 30 tỷ USD hàng hóa
 
 ### 3.7 Cước vận chuyển: đợt phục hồi tháng 10 và sự quay lại của Suez
 
-Chỉ số World Container Index của Drewry tăng 3% trong đánh giá ngày 15/10 lên **4.485 USD/FEU** — dẫn dắt bởi châu Á–châu Âu: Thượng Hải–Rotterdam tăng 6% lên 3.522 USD và Thượng Hải–Genoa tăng 7% lên 3.945 USD — lần tăng đầu tiên của châu Á–châu Âu sau 13 tuần giảm liên tiếp. Tuyến xuyên Thái Bình Dương trái chiều: Thượng Hải–Los Angeles +3% lên 7.884 USD, Thượng Hải–New York −1% xuống 10.075 USD. Drewry dự báo biến động ít hơn trong tuần tới. Đánh giá trước đó (ngày 1/10) đã chốt ở 4.434 USD (−1%).
-
-Bảng theo dõi Chuyến bị hủy của Drewry (ngày 16/10) cho thấy 44 chuyến trống được công bố cho các tuần 43–47 (19/10–22/11) — tỷ lệ hủy 6% trên 713 chuyến dự kiến. Châu Á–Bắc Âu/Địa Trung Hải chiếm 44% số chuyến hủy, xuyên Thái Bình Dương hướng đông 36%, xuyên Đại Tây Dương 20%. Các đợt tăng cước FAK dự kiến 4.500–4.800 USD/FEU của các hãng tàu trên tuyến châu Á–châu Âu (có hiệu lực từ 19/10) đối mặt với khả năng hấp thụ không chắc chắn khi công suất Suez quay trở lại. (Nguồn: [Drewry](https://www.drewry.co.uk/maritime-research-opinion-browser/world-container-index-assessed-by-drewry), [Shipping Telegraph tuần 41](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-decreased-2-in-week-41-2026/), [Shipping Telegraph tuần 42](https://shippingtelegraph.com/freight-news/drewry-the-world-container-index-increased-3-this-week-42-2026/))
+Chỉ số World Container Index của Drewry tăng 3% trong đánh giá ngày 15/10 lên **4.485 USD/FEU** — dẫn dắt bởi châu Á–châu Âu: Thượng Hải–Rotterdam tăng 6% lên 3.522 USD và Thượng Hải–Genoa tăng 7% lên 3.945 USD — lần tăng đầu tiên của châu Á–châu Âu sau 13 tuần giảm liên tiếp. Tuyến xuyên Thái Bình Dương trái chiều: Thượng Hải–Los Angeles +3% lên 7.884 USD, Thượng Hải–New York −1% xuống 10.075 USD. Drewry dự báo biến động ít hơn trong tuần tới. Đà phục hồi theo sau các đợt tăng cước sau Tuần lễ Vàng của các hãng tàu — FAK tuyến châu Á–Bắc Âu mới của MSC có hiệu lực từ ngày 19/10 được ấn định ở 3.150 USD/TEU và 4.500 USD/FEU — và 44 chuyến trống được công bố cho các tuần 43–47 (tỷ lệ hủy 6% trên 713 chuyến dự kiến), với châu Á–Bắc Âu/Địa Trung Hải chiếm 44% số chuyến hủy.
 
 Áp lực cấu trúc đi theo chiều ngược lại. Linerlytica báo cáo tăng trưởng nhu cầu tính theo TEU-dặm suy giảm lần đầu kể từ tháng 1, và việc nối lại Suez nhanh hơn dự kiến — mọi liên minh container cộng MSC sẽ đưa một số tàu qua Biển Đỏ vào cuối tháng 10; lượt quá cảnh Suez trong tuần 39 được cho là cao hơn 68% so với cùng kỳ năm trước — là mối đe dọa chính đối với việc hỗ trợ cước của các hãng tàu. Khoảng 200.000 TEU công suất tàu mới đã được bàn giao trong tháng 9 mà không có tàu nào bị đem phá dỡ. Cước châu Á–châu Âu giảm khoảng 60% kể từ tháng 7, dù vẫn trên 3.000 USD/FEU — cao hơn khoảng 70% so với một năm trước — khi mùa đấu thầu 2027 bắt đầu. Cơ quan Quản lý Kênh đào Panama nâng tổng số lượt đặt chỗ hàng ngày lên 33 có hiệu lực từ 15/10, bổ sung thêm nguồn cung.
 
@@ -578,7 +576,7 @@ timeline
     2026-10-09 : Công bố thỏa thuận dầu diesel của Nga
     2026-10-16 : Sắc lệnh hành pháp thi hành được ký, miễn trừ ban hành không thời hạn
     2026-10-18 : Thời hạn luật định trôi qua trong khi thuế được miễn
-    Open-ended : Miễn trừ có hiệu lực cho đến khi Tổng thống hoặc Ngoại trưởng có hành động mới
+    Không thời hạn : Miễn trừ có hiệu lực cho đến khi Tổng thống hoặc Ngoại trưởng có hành động mới
 ```
 
 ```mermaid
