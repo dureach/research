@@ -421,4 +421,4 @@ timeline
 <span id="12-sources--methodology"></span>
 ## 12. 数据来源与方法
 
-覆盖窗口：2026年10月19–26日。本简报汇编二手来源——贸易媒体、机构摘要和律师事务所分析——审查信息来自全球约45家贸易新闻、政策、数据与运费来源，包括FreightWaves、The Loadstar、Splash247、gCaptain、Hellenic Shipping News、Container News、Supply Chain Dive、Logistics Management、Air Cargo News和Port Technology；白宫、美国海关与边境保护局、美国贸易代表办公室、《联邦公报》、国际贸易管理局、美国国际贸易委员会、工业与安全局和JD Supra；欧盟委员会、英国商业贸易部、加拿大边境服务局和中国商务部；世贸组织、贸发会议、国际贸易中心和世界海关组织；美国国际贸易委员会DataWeb、USA Trade Online、联合国Comtrade、世界银行WITS、欧盟统计局、世界银行数据和国际货币基金组织；税务基金会、耶鲁预算实验室和International Trade Intelligence；德路里、波罗的海交易所和弗莱索斯；以及Descartes和TradeInt。数据按这些来源公布的情况报告。本报告汇编二手来源，不使用竞争对手贸易数据平台的数据。
+覆盖窗口：2026年10月19–26日。审查信息来自全球约45家贸易新闻、政策、数据与运费来源，包括FreightWaves、The Loadstar、Splash247、gCaptain、Hellenic Shipping News、Container News、Supply Chain Dive、Logistics Management、Air Cargo News和Port Technology；白宫、美国海关与边境保护局、美国贸易代表办公室、《联邦公报》、国际贸易管理局、美国国际贸易委员会、工业与安全局和JD Supra；欧盟委员会、英国商业贸易部、加拿大边境服务局和中国商务部；世贸组织、贸发会议、国际贸易中心和世界海关组织；美国国际贸易委员会DataWeb、USA Trade Online、联合国Comtrade、世界银行WITS、欧盟统计局、世界银行数据和国际货币基金组织；税务基金会、耶鲁预算实验室和International Trade Intelligence；德路里、波罗的海交易所和弗莱索斯；以及Descartes和TradeInt。数据按这些来源公布的情况报告。
