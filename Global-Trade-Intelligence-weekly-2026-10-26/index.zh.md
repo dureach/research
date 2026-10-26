@@ -51,12 +51,12 @@ draft: false
 | A1 | 加拿大338条款清单调整：50%关税从胶合板单板、部分纸制品、某些机械和制冷设备、包装箱和包装盒、新鲜和干制海藻上移除；新增地毯、油漆、洗发水、可可粉、木棺、冰淇淋棒、空调机、卧式冷柜、射箭器材、独木舟 | 2026年10月30日 | 缅因州农林供应链获得减免；新列入清单的加拿大出口商面临50%关税 | [White House](https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/)、[Supply Chain Dive](https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/) |
 | A2 | 在安大略省播出使用罗纳德·里根言论的世界大赛广告后，宣布对加拿大进口商品再加征10%关税；安大略省表示将暂停该广告 | 2026年10月宣布 | 在10月30日清单调整和11月3日中期选举前几天加剧美加争端 | [LawStreet](https://lawstreet.co/international/trump-says-canada-trade-deal-coming-soon-as-white-house-eases-some-tariffs-after-collins-request) |
 | A3 | 11月9日时钟分化：美国贸易代表办公室提议将301条款港口费暂停期延长至2027年1月9日（意见征集至10月30日，案卷号USTR-2026-0694）；178项301条款产品豁免仍于2026年11月9日美东时间23:59到期，未发现延期 | 2026年11月9日/2027年1月9日（提议） | 11月10日入境货物豁免关税恢复至清单税率（清单1–3为25%，清单4A为7.5%）；港口费仅在提案未最终确定时恢复征收 | [gCaptain](https://gcaptain.com/ustr-proposes-extending-china-ship-port-fee-suspension-through-january-2027/)、[Gateway Lines](https://gatewaylines.com/press-releases/china-ship-fees-301-exclusions-nov-9-2026) |
-| A9 | 风力涡轮机根据232条款被宣布为国家安全威胁（白宫公告，10月22日）；尚未征收关税——贸易官员受命谈判并在180天内汇报 | 2026年10月22日 | 风能供应链面临未来可能征收关税；报道中提及的主要供应商包括墨西哥、法国、印度、丹麦和德国 |  |
 | A4 | 霍尔木兹/海湾航运风险仍然较高：油轮AL DASMA轮10月20日在霍尔木兹海峡受损；JIF BARRACUDA轮10月18日在阿联酋附近受损；MarineTraffic报告10月12–18日一周霍尔木兹海峡通行量从203艘降至120艘 | 2026年10月18–20日 | 尽管苏伊士运河集装箱业务复苏，战争险、航线和保险成本仍居高不下 | [Daily Caller](https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf) |
 | A5 | 黑海货运事件：悬挂科摩罗旗的货轮Khoryv轮在罗马尼亚康斯坦察以东约15英里处起火并倾覆；1名船员死亡，3人失踪，9人获救生还 | 2026年10月 | 黑海航线和保险风险；罗马尼亚当局在当地报道中将该事件归因于无人机袭击 | [Scottish Sun](https://www.thescottishsun.co.uk/news/16978300/cargo-ship-fire-drone-strike-black-sea/) |
 | A6 | 法国港口中断：法国各港口宣布10月14日和16日举行24小时罢工，10月30日还有另一罢工日期；福斯-叙尔-梅尔码头和堆场10月20日因恶劣天气关闭 | 2026年10月20日和30日 | 法国门户港口船期不确定性；托运人应在10月下旬航线中预留缓冲时间 | [Maritime News](https://www.maritimenews.com/port-operations/port-operations-oct-14-21-2026) |
 | A7 | 欧盟对华太阳能玻璃关税于2026年10月22日取消；自2025年7月22日以来缴纳的关税可申请退还 | 2026年10月22日 | 太阳能进口商应审查历史关税缴纳情况以申请退还 | [WiseVoter](https://wisevoter.com/world/2026/10/23/eu-repeals-solar-glass-duties-china) |
 | A8 | 美国海关与边境保护局邮寄入境截止日期延长：包括药品在内的美国食品药品监督管理局监管产品可继续使用简化邮寄流程至2027年1月20日，此前美国海关与边境保护局于10月14日将10月22日截止日期延长90天 | 2027年1月20日 | 邮购和包裹进口商获得又一个季度的时间转向详细报关 |  |
+| A9 | 风力涡轮机根据232条款被宣布为国家安全威胁（白宫公告，10月22日）；尚未征收关税——贸易官员受命谈判并在180天内汇报 | 2026年10月22日 | 风能供应链面临未来可能征收关税；报道中提及的主要供应商包括墨西哥、法国、印度、丹麦和德国 |  |
 
 ### A1——加拿大：两个方向相反的举措
 
