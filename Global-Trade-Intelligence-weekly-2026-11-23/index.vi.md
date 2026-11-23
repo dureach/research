@@ -61,7 +61,7 @@ Một tuần mà hội nghị thượng đỉnh được kỳ vọng sẽ giải
 | A9 | Quy định cuối cùng tạm thời của CBP về nhà nhập khẩu nước ngoài có hiệu lực ngày 5 tháng 1 năm 2027; hạn chót ngày 18 tháng 11 về việc vô hiệu Mẫu 5106 đã qua mà không có vụ vô hiệu nào được báo cáo tính đến ngày 20 tháng 11 | Jan 5, 2027 | Nhà nhập khẩu nước ngoài phải được xác thực CTPAT hoặc sử dụng môi giới được xác thực CTPAT; tờ khai có thể bị từ chối từ ngày 5 tháng 1 | [Freight Right](https://www.freightright.com/news/cbp-tightens-importer-requirements-what-businesses-must-do-before-january-2027) |
 | A10 | COP31 tại Antalya kết thúc ngày 22 tháng 11 mà không có thỏa thuận chính trị; các đại biểu IMO bắt đầu thảo luận kỹ thuật trước MEPC 85, với phiên họp đặc biệt dự kiến vào ngày 4 tháng 12 | Nov 22–23, 2026 | Việc thông qua Khung Net-Zero của ngành hàng hải chưa chắc chắn; Mỹ phản đối phí phát thải bắt buộc | [Splash247](https://splash247.com/cop31-collapse-casts-shadow-over-shippings-net-zero-showdown/) |
 | A11 | Đình công của kiểm soát không lưu Bỉ đóng không phận Bỉ 07:00–21:00 ngày 23 tháng 11; trung tâm hàng hóa Liège đóng cửa 14 giờ, khoảng 429 chuyến bay tại Brussels bị hủy | Nov 23, 2026 | Hàng không châu Âu bị gián đoạn trong mùa cao điểm; tác động dây chuyền dự kiến kéo sang ngày 24 tháng 11 | [The Loadstar](https://theloadstar.com/) |
-| A12 | Cuộc điều tra Mục 301 về công suất dư thừa của USTR được báo cáo sẽ kết thúc trước cuối năm, trước hạn chót theo luật định ngày 11 tháng 3 năm 2027; chưa có quyết định chính thức nào được công bố | Reported Nov 21, 2026 | Một quyết định duy nhất có thể áp thuế mới lên 16 nền kinh tế; báo cáo chỉ có một nguồn, chưa được xác minh | [East Asia Brief](https://eastasiabrief.com/trade-policy/ustr-accelerates-section-301-probe-hit-year-end-target-1636) |
+| A12 | Cuộc điều tra Mục 301 về công suất dư thừa của USTR được báo cáo sẽ kết thúc trước cuối năm, trước hạn chót theo luật định ngày 11 tháng 3 năm 2027; chưa có quyết định chính thức nào được công bố | Được báo cáo ngày 21 tháng 11 năm 2026 | Một quyết định duy nhất có thể áp thuế mới lên 16 nền kinh tế; báo cáo chỉ có một nguồn, chưa được xác minh | [East Asia Brief](https://eastasiabrief.com/trade-policy/ustr-accelerates-section-301-probe-hit-year-end-target-1636) |
 
 ### A1 — APEC: điểm quyết định mà không quyết định gì
 
@@ -71,7 +71,7 @@ Hội nghị các Nhà lãnh đạo Kinh tế APEC lần thứ 33 kết thúc t�
 
 ### A2 — BIS đóng lỗ hổng tiếp cận từ xa đối với chip
 
-Cục Công nghiệp và An ninh đã ban hành quy định cuối cùng tạm thời ngày 16 tháng 11, công bố trên Công báo Liên bang ngày 19 tháng 11 (91 FR 74970) và có hiệu lực khi công bố. Quy định bổ sung biện pháp kiểm soát sử dụng cuối trên toàn thế giới (EAR § 744.24 mới), yêu cầu giấy phép khi biết rằng các mặt hàng điện toán tiên tiến sẽ được sử dụng trong một trung tâm dữ liệu cung cấp tổng hiệu năng xử lý gộp trên 12.000.000 cho các công ty có trụ sở tại Nhóm Quốc gia D:5 (bao gồm Trung Quốc) hoặc Ma Cao; các trung tâm dữ liệu đã cung cấp mức điện toán như vậy có 90 ngày, đến khoảng ngày 17 tháng 2 năm 2027, để xin giấy phép tiếp tục hoạt động. Quy định bổ sung yêu cầu giấy phép đối với các mặt hàng điện toán tiên tiến tới Indonesia, Malaysia, Singapore, Thái Lan và Brazil, với ngoại lệ cho người dùng cuối có trụ sở tại Mỹ phải nộp báo cáo hàng tháng mới. Quy định thu hẹp các tuyến mà các nhà sản xuất mặt trước (front-end fabricators) và các công ty lắp ráp và kiểm tra bán dẫn thuê ngoài có thể dùng để vượt qua giả định rằng một chip logic nút tiên tiến (16/14 nm trở xuống) là mặt hàng AI trung tâm dữ liệu bị kiểm soát. Quy định chính thức bãi bỏ Quy định về Khuếch tán AI thời Biden, bao gồm các tầng quốc gia, biện pháp kiểm soát trọng số mô hình và khung Người dùng cuối Được xác thực của Trung tâm Dữ liệu. Ý kiến đóng góp đến hạn ngày 19 tháng 1 năm 2027. [Willkie Farr & Gallagher](https://www.willkie.com/publications/2026/11/bis-moves-to-close-the-remote-access-gap-for-advanced-chips)
+Cục Công nghiệp và An ninh đã ban hành quy định cuối cùng tạm thời ngày 16 tháng 11, công bố trên Công báo Liên bang ngày 19 tháng 11 (91 FR 74970) và có hiệu lực khi công bố. Quy định bổ sung biện pháp kiểm soát sử dụng cuối trên toàn thế giới (EAR § 744.24 mới), yêu cầu giấy phép khi biết rằng các mặt hàng điện toán tiên tiến sẽ được sử dụng trong một trung tâm dữ liệu cung cấp tổng hiệu năng xử lý gộp trên 12.000.000 cho các công ty có trụ sở tại Nhóm Quốc gia D:5 (bao gồm Trung Quốc) hoặc Ma Cao; các trung tâm dữ liệu đã cung cấp mức điện toán như vậy có 90 ngày, đến khoảng ngày 17 tháng 2 năm 2027, để xin giấy phép tiếp tục hoạt động. Quy định bổ sung yêu cầu giấy phép đối với các mặt hàng điện toán tiên tiến tới Indonesia, Malaysia, Singapore, Thái Lan và Brazil, với ngoại lệ cho người dùng cuối có trụ sở tại Mỹ phải nộp báo cáo hàng tháng mới. Quy định thu hẹp các tuyến mà các nhà sản xuất mặt trước và các công ty lắp ráp và kiểm tra bán dẫn thuê ngoài có thể dùng để vượt qua giả định rằng một chip logic nút tiên tiến (16/14 nm trở xuống) là mặt hàng AI trung tâm dữ liệu bị kiểm soát. Quy định chính thức bãi bỏ Quy định về Khuếch tán AI thời Biden, bao gồm các tầng quốc gia, biện pháp kiểm soát trọng số mô hình và khung Người dùng cuối Được xác thực của Trung tâm Dữ liệu. Ý kiến đóng góp đến hạn ngày 19 tháng 1 năm 2027. [Willkie Farr & Gallagher](https://www.willkie.com/publications/2026/11/bis-moves-to-close-the-remote-access-gap-for-advanced-chips)
 
 **Số liệu chính:** ngưỡng 12.000.000 TPP gộp; thời gian chuyển tiếp 90 ngày đến khoảng ngày 17 tháng 2 năm 2027; 879.868 bộ xử lý đã được phê duyệt cho các thực thể có liên hệ với Trung Quốc tính đến ngày 11 tháng 5 năm 2026 (579.868 bộ tăng tốc Nvidia H200; khoảng 300.000 bộ AMD Instinct MI325X), từ các đơn xin vượt quá 3,4 triệu bộ xử lý. Tờ Financial Times đưa tin ngày 19 tháng 11 rằng TSMC và Samsung đã thông báo với các khách hàng Trung Quốc rằng họ sẽ ngừng bán một số bộ xử lý trong khi xin giấy phép của Mỹ. Ngày 20 tháng 11, Bộ trưởng Tài chính Scott Bessent cho biết các giới hạn xuất khẩu Nvidia H200 hiện tại sẽ được giữ nguyên mà không có thêm hạn chế, và "các hạn chế chip phù hợp đã được áp dụng". Quy định được soạn thảo bởi và theo chỉ đạo của Bộ Tài chính và Hội đồng An ninh Quốc gia, theo thông báo của chính BIS.
 
@@ -197,12 +197,12 @@ Hiệp định thương mại tạm thời Ấn Độ–Mỹ vẫn chưa đượ
 
 | Quốc gia / xuất xứ | Biện pháp | Mức thuế | Ngày hiệu lực | Trạng thái | Nguồn |
 |---|---|---|---|---|---|
-| Trung Quốc | Các trường hợp miễn trừ Mục 301 (178; HTSUS 9903.88.69 / 9903.88.70) | Miễn khỏi thuế theo danh sách (25% Danh sách 1–3; 7,5% Danh sách 4A nếu hết hạn) | Nov 10, 2026 – Jan 9, 2027 (11:59 p.m. ET) | Có hiệu lực; không có gia hạn nào được nhất trí tại APEC ngày 19 tháng 11; địa điểm tiếp theo G20 Miami ngày 14–15 tháng 12 | [USTR](https://ustr.gov/about/policy-offices/press-office/press-releases) |
+| Trung Quốc | Các trường hợp miễn trừ Mục 301 (178; HTSUS 9903.88.69 / 9903.88.70) | Miễn khỏi thuế theo danh sách (25% Danh sách 1–3; 7,5% Danh sách 4A nếu hết hạn) | 10 tháng 11 năm 2026 – 9 tháng 1 năm 2027 (11:59 tối, giờ miền Đông) | Có hiệu lực; không có gia hạn nào được nhất trí tại APEC ngày 19 tháng 11; địa điểm tiếp theo G20 Miami ngày 14–15 tháng 12 | [USTR](https://ustr.gov/about/policy-offices/press-office/press-releases) |
 | Trung Quốc | Tạm đình chỉ hành động hàng hải Mục 301 (phí cảng; thuế Phụ lục V.A) | Phí được tạm đình chỉ | Nov 10, 2026 – Jan 9, 2027 | Có hiệu lực; không có gia hạn nào được nhất trí tại APEC | [USTR](https://ustr.gov/about/policy-offices/press-office/press-releases) |
-| Trung Quốc | Thuế lao động cưỡng bức Mục 301 (lớp cơ sở, 60 nền kinh tế) | 12,5% (cố định, cộng dồn trên mức theo danh sách) | Since Jul 24, 2026 | Có hiệu lực; vụ kiện tại CIT được xét xử ngày 30 tháng 9, chưa có phán quyết | [JD Supra](https://www.jdsupra.com/legalnews/lower-tariffs-higher-gray-market-risk-6159993/) |
-| Ấn Độ | Thuế lao động cưỡng bức Mục 301 (mức đang áp) | 10% | Since Jul 24, 2026 | Có hiệu lực; thỏa thuận tạm thời chưa ký tính đến ngày 21 tháng 11; mức 18% theo khung chưa bao giờ được áp dụng | [The Hindu](https://www.learnthrupractice.com/upsc-news-paper/item/article71715672/india-u-s-trade-deal-signing-will-still) |
+| Trung Quốc | Thuế lao động cưỡng bức Mục 301 (lớp cơ sở, 60 nền kinh tế) | 12,5% (cố định, cộng dồn trên mức theo danh sách) | Từ ngày 24 tháng 7 năm 2026 | Có hiệu lực; vụ kiện tại CIT được xét xử ngày 30 tháng 9, chưa có phán quyết | [JD Supra](https://www.jdsupra.com/legalnews/lower-tariffs-higher-gray-market-risk-6159993/) |
+| Ấn Độ | Thuế lao động cưỡng bức Mục 301 (mức đang áp) | 10% | Từ ngày 24 tháng 7 năm 2026 | Có hiệu lực; thỏa thuận tạm thời chưa ký tính đến ngày 21 tháng 11; mức 18% theo khung chưa bao giờ được áp dụng | [The Hindu](https://www.learnthrupractice.com/upsc-news-paper/item/article71715672/india-u-s-trade-deal-signing-will-still) |
 | Ấn Độ | Hiệp định thương mại tạm thời (khung, tháng 2 năm 2026) | Thuế đối ứng 18%; Ấn Độ cắt thuế về 0 đối với hàng hóa Mỹ; 500 tỉ đô la mua hàng Mỹ trong 5 năm | n/a — không có ngày ký | Chỉ là khung; việc ký phụ thuộc vào kết quả Mục 301 của Mỹ | [PharmaSource](https://pharmasource.global/content/regulation/us-india-trade-framework-zero-tariffs-promised-a-100-generics-tariff-looming/) |
-| Canada | Thuế Mục 338 | 50% | Since Aug 22, 2026; phạm vi sửa đổi Oct 30, 2026 | Có hiệu lực; bị kiện trong vụ *Gellert v. Trump*; tranh tụng ngày 20 tháng 1 năm 2027; bản tóm tắt của chính phủ đến hạn ngày 11 tháng 12 | [Liberty Justice Center](https://libertyjusticecenter.org/pressrelease/former-u-s-trade-representatives-scholars-back-liberty-justice-centers-challenge-to-trumps-canadian-tariffs/) |
+| Canada | Thuế Mục 338 | 50% | Từ ngày 22 tháng 8 năm 2026; phạm vi sửa đổi ngày 30 tháng 10 năm 2026 | Có hiệu lực; bị kiện trong vụ *Gellert v. Trump*; tranh tụng ngày 20 tháng 1 năm 2027; bản tóm tắt của chính phủ đến hạn ngày 11 tháng 12 | [Liberty Justice Center](https://libertyjusticecenter.org/pressrelease/former-u-s-trade-representatives-scholars-back-liberty-justice-centers-challenge-to-trumps-canadian-tariffs/) |
 | 16 nền kinh tế gồm Trung Quốc, Ấn Độ, Hàn Quốc, Việt Nam, EU | Điều tra Mục 301 về công suất dư thừa | n/a — chưa đề xuất mức thuế | Quyết định đến hạn Mar 11, 2027 | Được báo cáo ngày 21 tháng 11: Greer nói sẽ kết thúc trước cuối năm (một nguồn duy nhất, chưa được xác minh) | [East Asia Brief](https://eastasiabrief.com/trade-policy/ustr-accelerates-section-301-probe-hit-year-end-target-1636) |
 | Mọi xuất xứ | Mục 232 — polysilicon + sản phẩm phái sinh (MIP + 15% đối với sản phẩm phái sinh) | MIP 21 đô la/kg polysilicon; 100 đô la/kg thỏi/tấm wafer; 0,22 đô la/W pin mặt trời; 0,38 đô la/W mô-đun; 15% theo giá trị đối với sản phẩm phái sinh | Dec 4, 2026 | Đã công bố; môi trường thử nghiệm ACE hoạt động ngày 12 tháng 11; quy định chống tích trữ đến ngày 3 tháng 12 | [Stoel Rives](https://www.stoel.com/printpilot-publication-commerces-anti-stockpiling-rule-imposes-limits-on-pre-december-4-polysilicon-imports.pdf?1791987859) |
 | Mọi xuất xứ | Mục 232 — robot / máy móc công nghiệp | n/a — chưa đặt thuế | Tuyên cáo 11077, Oct 28, 2026 | Chỉ là kết luận về mối đe dọa; đang đàm phán; báo cáo trong 180 ngày (khoảng Apr 26, 2027) | [Constilumen](https://www.constilumen.com/updates/proclamation-11077-robotics-industrial-machinery-section-232) |
@@ -220,7 +220,7 @@ Hiệp định thương mại tạm thời Ấn Độ–Mỹ vẫn chưa đượ
 xychart-beta
     title "Một số mức thuế của Mỹ, %"
     x-axis ["Canada", "Việt Nam", "Trung Quốc", "Nhật Bản", "Ấn Độ"]
-    y-axis "percent" 0 --> 60
+    y-axis "%" 0 --> 60
     bar [50, 12.5, 12.5, 12.5, 10]
 ```
 
@@ -231,7 +231,7 @@ xychart-beta
 xychart-beta
     title "Mức ký quỹ AD/CVD gộp cao nhất, %"
     x-axis ["CBS", "Ván TQ", "Ván VN", "Điện MT Ấn", "Đồ gỗ TQ"]
-    y-axis "percent" 0 --> 400
+    y-axis "%" 0 --> 400
     bar [389, 276, 255, 233, 221]
 ```
 
@@ -297,7 +297,7 @@ Hoạt động thương mại trên Công báo Liên bang trong tuần chủ y�
 xychart-beta
     title "EU nhập ô tô hybrid từ Trung Quốc, nghìn xe"
     x-axis ["2024", "2025", "T1–T8/26", "2026 dự", "Hạn mức"]
-    y-axis "thousand vehicles" 0 --> 800
+    y-axis "nghìn xe" 0 --> 800
     bar [107, 302, 474, 800, 350]
 ```
 
@@ -330,7 +330,7 @@ xychart-beta
 xychart-beta
     title "Canada trả đũa thuế hàng Mỹ, T3/25–T10/26, tỉ CAD"
     x-axis ["Đã đánh giá", "Đã miễn", "Ròng"]
-    y-axis "CAD billion" 0 --> 15
+    y-axis "tỉ CAD" 0 --> 15
     bar [14.1, 8.9, 5.2]
 ```
 
@@ -423,7 +423,7 @@ Xem mục 3.6. Xuất khẩu 11,7688 nghìn tỉ yên (tăng 20,5% so với cùn
 xychart-beta
     title "Tăng trưởng xuất khẩu Nhật theo đối tác, T10/26, % so với cùng kỳ"
     x-axis ["Hoa Kỳ", "TQ", "EU", "Châu Á"]
-    y-axis "percent y/y" 0 --> 25
+    y-axis "% so với cùng kỳ" 0 --> 25
     bar [23.9, 13.3, 22.1, 22.0]
 ```
 
@@ -438,7 +438,7 @@ Bản công bố cán cân thanh toán tháng 9 của ECB đưa thặng dư vãn
 xychart-beta
     title "Các thành phần cán cân vãng lai khu vực đồng euro, T9/26, tỉ EUR"
     x-axis ["Hàng hóa", "Dịch vụ", "Thứ cấp", "Sơ cấp"]
-    y-axis "EUR billion" -20 --> 20
+    y-axis "tỉ EUR" -20 --> 20
     bar [14, 16, -16, -1]
 ```
 
@@ -467,7 +467,7 @@ Không có bản công bố dữ liệu thương mại lớn mới nào từ USI
 xychart-beta
     title "Thuế suất của Mỹ, %"
     x-axis ["Áp dụng", "TF HĐ", "Yale HĐ", "T1/2025"]
-    y-axis "percent" 0 --> 12
+    y-axis "%" 0 --> 12
     bar [11.8, 7.2, 11.2, 2.5]
 ```
 
@@ -486,7 +486,7 @@ Chỉ số Container Thế giới của Drewry giảm 3% xuống 4.176 đô la m
 xychart-beta
     title "Các tuyến Drewry WCI, 19/11 (USD/container 40ft)"
     x-axis ["New York", "Los Angeles", "Genoa", "Rotterdam"]
-    y-axis "USD per 40ft" 0 --> 10000
+    y-axis "USD/container 40ft" 0 --> 10000
     bar [8194, 7026, 4436, 3496]
 ```
 
@@ -501,7 +501,7 @@ Freightos báo cáo tuyến Á–Bờ Tây Mỹ ở mức 8.459 đô la mỗi FE
 xychart-beta
     title "Các tuyến Freightos, 17/11 (USD/FEU)"
     x-axis ["Bờ Đông Mỹ", "Bờ Tây Mỹ", "ĐTH", "Bắc Âu"]
-    y-axis "USD per FEU" 0 --> 10000
+    y-axis "USD/FEU" 0 --> 10000
     bar [9848, 8459, 4295, 3407]
 ```
 
@@ -516,7 +516,7 @@ Chỉ số tổng hợp SCFI giảm xuống 3.503,78 ngày 20 tháng 11, giảm 
 xychart-beta
     title "Chỉ số SCFI, theo tuần"
     x-axis ["Oct 30", "Nov 13", "Nov 20"]
-    y-axis "points" 0 --> 4000
+    y-axis "điểm" 0 --> 4000
     bar [3687, 3572, 3504]
 ```
 
@@ -539,7 +539,7 @@ Chỉ số Hàng rời Baltic đóng cửa ở mức 2.898 ngày 20 tháng 11, g
 xychart-beta
     title "Chỉ số Hàng rời Baltic, đóng cửa tuần"
     x-axis ["Oct 30", "Nov 6", "Nov 13", "Nov 20"]
-    y-axis "points" 0 --> 3000
+    y-axis "điểm" 0 --> 3000
     bar [2714, 2805, 2980, 2898]
 ```
 
@@ -550,7 +550,7 @@ xychart-beta
 xychart-beta
     title "Các thành phần BDI, 20/11"
     x-axis ["Capesize", "Panamax", "Supramax", "Handysize"]
-    y-axis "points" 0 --> 5000
+    y-axis "điểm" 0 --> 5000
     bar [4502, 2140, 1810, 1072]
 ```
 
@@ -569,7 +569,7 @@ Chỉ số Vận tải Hàng không Baltic (BAI00) tăng 6,6% trong tuần tính
 xychart-beta
     title "Cước hàng không giao ngay, 17/11 (USD/kg)"
     x-axis ["TQ–Bắc Mỹ", "TQ–EU", "Xuyên ĐTD"]
-    y-axis "USD per kg" 0 --> 10
+    y-axis "USD/kg" 0 --> 10
     bar [9.25, 5.05, 3.27]
 ```
 
@@ -701,4 +701,4 @@ Phạm vi bao phủ: 16–23 tháng 11 năm 2026. Tổng hợp từ khoảng 45 
 
 Các nguồn đã tham khảo bao gồm: FreightWaves, The Loadstar, Splash247, gCaptain, Hellenic Shipping News, Container News, Supply Chain Dive, Logistics Management, Air Cargo News, Port Technology, blog chuyên sâu của TradeInt; whitehouse.gov, cbp.gov, ustr.gov, federalregister.gov, trade.gov, usitc.gov, bis.doc.gov, JD Supra; ec.europa.eu, gov.uk, cbsa-asfc.gc.ca, canada.ca/en/department-finance, english.mofcom.gov.cn; wto.org, unctad.org, intracen.org, wcoomd.org; dataweb.usitc.gov, ustradecensus.gov, comtradeplus.un.org, wits.worldbank.org, eurostat, data.worldbank.org, imf.org; taxfoundation.org, budgetlab.yale.edu, tradeintelligence.eu; drewry.co.uk, balticexchange.com, freightos.com; descartes.com, tradeint.com.
 
-Các nội dung có ngày trước ngày 16 tháng 11 chỉ xuất hiện dưới dạng theo dõi, các công bố trên Công báo Liên bang rơi vào khung thời gian, hoặc bối cảnh cho một hạn chót trong khung thời gian. Container News chỉ trả về thông báo chấp thuận cookie và không cho nội dung sử dụng được; chỉ mục tin tức của WTO không trả về văn bản đọc được qua việc lấy dữ liệu, vì vậy các nội dung WTO dùng các bản tin WTO như được đăng lại; trang tiếng Anh của MOFCOM chỉ truy cập được đối với các tiêu đề trang chủ, và nội dung thực chất của các thông báo của họ không thể xác nhận được từ thông tin được xem xét. TradeInt không có nội dung nhà cung cấp đủ điều kiện nào trong khung thời gian: loạt bài blog ngày 22 tháng 11 của họ là nội dung tiếp thị dữ liệu rút từ cơ sở dữ liệu của chính họ. Không có bản công bố lớn mới nào trong khung thời gian được xác định từ các cổng USITC DataWeb, UN Comtrade, WITS, Ngân hàng Thế giới hay IMF. Không có Lệnh Tạm giữ Hàng mới nào được xác định trong khung thời gian. Công báo Liên bang không được rà soát từng tài liệu cho cả tuần; có thể còn các thông báo rà soát hành chính khác. Thông tin được báo cáo về việc kết thúc vào cuối năm của cuộc điều tra Mục 301 về công suất dư thừa dựa trên một bài báo thương mại duy nhất về cuộc phỏng vấn truyền hình ngày 21 tháng 11; chưa có thông báo nào của USTR xuất hiện tính đến ngày 23 tháng 11. Số lượng các bên Nga được EU liệt kê ngày 17 tháng 11 (49) là như được báo cáo bởi công cụ giám sát Youverify, chưa được xác minh theo danh sách của EU.
+Tất cả các số liệu đều như được báo cáo trong các nguồn được trích dẫn; các số liệu không thể xác minh được đánh dấu n/a. Các nội dung có ngày trước ngày 16 tháng 11 chỉ xuất hiện dưới dạng theo dõi, các công bố trên Công báo Liên bang rơi vào khung thời gian, hoặc bối cảnh cho một hạn chót trong khung thời gian. Container News chỉ trả về thông báo chấp thuận cookie và không cho nội dung sử dụng được; chỉ mục tin tức của WTO không trả về văn bản đọc được qua việc lấy dữ liệu, vì vậy các nội dung WTO dùng các bản tin WTO như được đăng lại; trang tiếng Anh của MOFCOM chỉ truy cập được đối với các tiêu đề trang chủ, và nội dung thực chất của các thông báo của họ không thể xác nhận được từ thông tin được xem xét. TradeInt không có nội dung nhà cung cấp đủ điều kiện nào trong khung thời gian: loạt bài blog ngày 22 tháng 11 của họ là nội dung tiếp thị dữ liệu rút từ cơ sở dữ liệu của chính họ. Không có bản công bố lớn mới nào trong khung thời gian được xác định từ các cổng USITC DataWeb, UN Comtrade, WITS, Ngân hàng Thế giới hay IMF. Không có Lệnh Tạm giữ Hàng mới nào được xác định trong khung thời gian. Công báo Liên bang không được rà soát từng tài liệu cho cả tuần; có thể còn các thông báo rà soát hành chính khác. Thông tin được báo cáo về việc kết thúc vào cuối năm của cuộc điều tra Mục 301 về công suất dư thừa dựa trên một bài báo thương mại duy nhất về cuộc phỏng vấn truyền hình ngày 21 tháng 11; chưa có thông báo nào của USTR xuất hiện tính đến ngày 23 tháng 11. Số lượng các bên Nga được EU liệt kê ngày 17 tháng 11 (49) là như được báo cáo bởi công cụ giám sát Youverify, chưa được xác minh theo danh sách của EU.
